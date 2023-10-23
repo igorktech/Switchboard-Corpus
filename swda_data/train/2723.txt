@@ -207,7 +207,7 @@ B|Uh-huh.|b
 A|I do worry about medical, though.|sd
 A|Again, knock wood that, uh, I haven't used it.|sd
 A|I guess you,|sv
-A|I'm sorry,|fo_o_fw_"_by_bc
+A|I'm sorry,|o_"_bc
 A|you really do use it throughout the year, because you get your teeth fixed and all that,|sv
 A|I mean, I,|%
 A|but I'm not,|%
@@ -294,7 +294,7 @@ B|Well thanks,|ft
 A|It's through Baxter Labs,|sd
 A|tell,|%
 B|thanks for the tip, Jim.|ft
-A|Yeah.|fo_o_fw_"_by_bc
+A|Yeah.|fw
 B|I shall look into it.|sd
 A|Yeah.|b
 A|What else.|^h

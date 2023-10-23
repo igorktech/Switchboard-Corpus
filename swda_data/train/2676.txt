@@ -31,7 +31,7 @@ A|The weather in building two is cold|sd
 A|it's been cold.|sd
 A|It's been cold in the building.|sd
 A|Outside the building it's not bad.|sd
-A|Typical T I, or T I,|fo_o_fw_"_by_bc
+A|Typical T I, or T I,|o_"_bc
 A|listen I got me doing it.|^h
 A|Typical Texas Spring.|sd
 A|Are you a native to Texas?|qy
@@ -275,7 +275,7 @@ A|and I was just amazed how unusual that looks.|sd
 B|Huh.|b
 A|Here, hang on just a second,|ad
 A|I've got a Los Angeles map.|sd
-A|Let me just quick|oo_co_cc
+A|Let me just quick|co_cc
 B|Yeah,|b
 A|valley.|^2
 A|Yes|aa

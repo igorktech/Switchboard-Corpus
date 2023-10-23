@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|well, I, I, I guess if I was having a dinner party I, depending on the number of people, I might cook a, like a brisket or a roast or a, maybe a chicken dish|sd
 B|Uh-huh.|b
 A|and, um, I guess I usually plan probably a lettuce salad and a, a potato dish,|sd
@@ -129,7 +129,7 @@ B|if you leave the pit in the bowl with the thing, especially while you're waiti
 A|Okay,|b
 A|well,|%
 B|That's supposed to help keep the, um, keep it from turning brown so quick.|sd
-A|Well, I'll have to remember that.|oo_co_cc
+A|Well, I'll have to remember that.|co_cc
 A|Well, I just, I, that day I just took extra lemon and just squeezed across the top|sd
 A|and it really stayed longer than I ever thought it would,|sd
 B|Oh.|b

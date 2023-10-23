@@ -1,4 +1,4 @@
-A|Yeah,|fo_o_fw_"_by_bc
+A|Yeah,|o_"_bc
 A|so, uh, what are your favorite T V shows?|qw
 B|One that I can't find anymore which is GABRIEL'S FIRE.|sd
 A|Oh, I haven't watched that very much,|sd
@@ -67,9 +67,9 @@ B|Do you ever watch AMERICAN GLADIATORS?|qy
 A|Oh, I have.|na
 A|I've, I've, I watched that late, um,|sd
 A|I guess it's on late Saturday nights or something,|sd
-B|Midnight.|fo_o_fw_"_by_bc
+B|Midnight.|o_"_bc
 A|that's entering the day as well.|sd
-B|Midnight.|fo_o_fw_"_by_bc
+B|Midnight.|o_"_bc
 A|Have you, have, have you seen this often?|qy
 B|I tape it.|na
 A|Oh, really?|bh
@@ -158,7 +158,7 @@ A|I thought they had some sort of,|sv
 A|I mean, I thought they were just poor people like us I guess not,|sd
 A|that's great.|ba
 B|Huh-uh.|b
-A|But, maybe I'll try it one day.|oo_co_cc
+A|But, maybe I'll try it one day.|co_cc
 A|I'll get on there one day and see if I can, uh, um,|sd
 A|what, what do they win,|qw
 A|they, they win money I think, don't they?|qy

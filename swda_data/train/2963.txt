@@ -140,7 +140,7 @@ A|Yeah.|b
 A|Well they,|%
 A|there was, uh, I am sorry, there was, uh, I remember now, there was like, uh, a baby pool, just about a foot deep.|sd
 B|Yeah.|b
-A|Yes,|fo_o_fw_"_by_bc
+A|Yes,|o_"_bc
 A|I remember my little brother riding a bicycle through it.|sd
 A|We were all kids anyway noise heard in|sd
 B|Every family has all that going on,|sv

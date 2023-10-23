@@ -71,7 +71,7 @@ B|if you're using it while at a job, I can see a problem.|sv
 A|Yeah.|b
 B|But the occasional person, then it's almost like, it's almost an infringement of your privacy.|sv
 A|Well, it sort of is.|aap_am
-A|And this is it,|fo_o_fw_"_by_bc
+A|And this is it,|o_"_bc
 A|this,|%
 A|I'm not real sure how I feel about it because I can see it from two ways.|sd
 A|You know, as a health professional, I wouldn't want somebody to take care of me that was using drugs.|sv
@@ -93,7 +93,7 @@ B|and they can find out if you use drugs up to several years ago.|sd
 A|Really. maybe you shouldn't be held responsible for something you did several years ago. *sv|b
 B|So,|%
 B|I know.|aa
-A|That's the other thing.|fo_o_fw_"_by_bc
+A|That's the other thing.|o_"_bc
 A|I mean a lot of, a lot of people as kids or, you know, young people get into some things that they get out of later on|sd
 A|and I don't think they should really have to pay for that forever.|sv
 B|Yeah.|aa

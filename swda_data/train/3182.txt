@@ -6,7 +6,7 @@ B|China painting and ceramics.|sd
 A|Ooh, how great.|ba
 B|I enjoy it.|sd
 B|Uh-huh|b
-A|Oh, uh, ceramic painting.|fo_o_fw_"_by_bc
+A|Oh, uh, ceramic painting.|o_"_bc
 B|I enjoy the china more.|sd
 A|The china more.|b^m
 B|And now that I have my eyes, corrected to the point that I can see the delicate part of china painting, I do enjoy it.|sd

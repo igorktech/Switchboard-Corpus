@@ -8,7 +8,7 @@ A|Fernando.|fp
 B|Fernando.|b^m
 B|My name is Nick.|fp
 A|Wait.|ad
-A|Let me turn off my stereo here|oo_co_cc
+A|Let me turn off my stereo here|co_cc
 B|Sure|aa
 A|Because I've been, like, waiting, like, for about ten minutes to get connected to somebody.|sd
 B|Really?|bh

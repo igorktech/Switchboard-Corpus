@@ -4,7 +4,7 @@ B|Well, I don't do much of it here.|arp_nd
 B|I'm from, uh, from, uh, Colorado originally|sd
 B|and there are no bugs there.|sd
 B|And I didn't mind getting in the dirt there,|sd
-B|but, boy, I'll tell you what,|fo_o_fw_"_by_bc
+B|but, boy, I'll tell you what,|o_"_bc
 B|once I see these bugs around here, I'm just kind of out of it.|sd
 A|Oh, what kind do you have?|qw
 B|Oh, roaches and,|sd

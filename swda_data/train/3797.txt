@@ -6,9 +6,9 @@ B|Well, let's talk about air pollution.|ad
 A|Okay.|aa
 B|What do you think causes air pollution in Dallas?|qw
 B|Or where are you from?|qw
-A|No.|fo_o_fw_"_by_bc
+A|No.|o_"_bc
 B|Maybe you're not in Dallas.|qy^d
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|I'm from the, uh,|sd
 A|I'm from Dallas.|sd
 A|I'm in Richardson.|sd
@@ -71,7 +71,7 @@ B|Right along in there somewhere, suddenly the air feels cleaner.|sd
 B|Have you noticed that?|qy
 A|I tell you what, I, I don't think I really have,|ng
 A|but I'm going that way Tuesday|sd
-A|and I'm going to make it a point to.|oo_co_cc
+A|and I'm going to make it a point to.|co_cc
 B|Well, sometimes it depends on which way the winds blowing|sd
 A|Sure.|b
 B|but, uh, I also travel a little bit|sd

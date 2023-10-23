@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|what kind of fishing do you do?|qw
 B|Well, mostly, uh, a, a little fresh water fish,|sd
 B|but mostly lake fishing like rainbow trout and stuff because I used to live in Utah.|sd

@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 B|Hi, Nancy.|fp
 B|Well, do you do a lot of dining out?|qy
 A|No, um,|nn
@@ -94,7 +94,7 @@ B|have you been there?|qy
 A|but no.|nn
 A|We've, uh, I guess we eat out even less than I realize|sd
 B|And I didn't think we ate out very often|sd
-B|See!|fo_o_fw_"_by_bc
+B|See!|o_"_bc
 B|Baby Doe's is nice.|sd
 A|Oh|b
 B|And, one place I'd never been that I would really like to go to, uh, is Lawry's.|sd

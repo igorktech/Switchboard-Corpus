@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|I guess I'll start, um,|ad
 A|one, uh, big thing that, the advise that I would give to a parent to give to his or her child is to let their, let their child experience college in a kind of general sense.|sd
 A|I like large colleges because I went to University of Texas at Austin,|sd
@@ -175,7 +175,7 @@ A|every, every month|sd
 B|I,|%
 A|That memory just seeps back in my mailbox.|sd
 B|Yeah,|b
-B|well, sorry about that Tanya|fo_o_fw_"_by_bc
+B|well, sorry about that Tanya|by
 A|Oh, well, I guess I'll get over it.|bd
 B|I'm sure it was worth it though.|sv
 A|Oh, yeah,|aa

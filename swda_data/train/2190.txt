@@ -87,7 +87,7 @@ B|I'm not having any problem it's a seventy.|sd
 A|Oh, yeah.|b
 A|Yeah.|b
 B|And the.|%
-A|No,|fo_o_fw_"_by_bc
+A|No,|o_"_bc
 A|I, I think, uh,|%
 A|I, uh, work on my own cars|sd
 A|and, uh, I don't think that's a problem.|sd

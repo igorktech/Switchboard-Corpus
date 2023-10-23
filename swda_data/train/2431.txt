@@ -1,4 +1,4 @@
-B|Uh, no|fo_o_fw_"_by_bc
+B|Uh, no|o_"_bc
 B|I think that maybe the, the automation people that are very discrete. Or not discrete, electronic devices.|sv
 A|Oh, okay.|b
 A|Oh.|b
@@ -7,7 +7,7 @@ A|Uh-huh.|ny
 B|Okay.|bk
 B|It's a lot of fun.|sv
 A|Yeah.|b
-B|You want to punch the button and go?|oo_co_cc
+B|You want to punch the button and go?|co_cc
 A|Sure,|aa
 A|you ready?|qy^d
 B|Yip|ny
@@ -42,12 +42,12 @@ A|I guess it was about three weeks ago,|sd
 A|and the people walked away from the, wreck, with no scratches nothing. You know, a few bruises.|sd
 B|That's .|%
 B|did you see the, uh,|qy
-B|I don't know if it was TWENTY-TWENTY, last Thursday or Friday night on, on seat belts?|fo_o_fw_"_by_bc
+B|I don't know if it was TWENTY-TWENTY, last Thursday or Friday night on, on seat belts?|o_"_bc
 A|Uh-huh.|ny
 B|Did that scare you a little bit? With the lady being thrown out and run over.|qy
 A|Uh-huh.|ny
 A|You got it.|ba
-A|I, I, tell you what,|fo_o_fw_"_by_bc
+A|I, I, tell you what,|o_"_bc
 A|I would not, I would not buy a car that had the seat belt where it was hooked under the door.|sd
 B|that really|%
 B|I, I guess, I,|%
@@ -141,7 +141,7 @@ A|the different kinds|sd
 B|Yeah.|b
 A|because I've only ridden in the one,|sd
 B|What, what kind was it?|qw
-A|that's it.|fo_o_fw_"_by_bc
+A|that's it.|o_"_bc
 A|Uh, shoot|^h
 A|I can't even think of the name of it now.|sv
 B|What, what was remarkable, this van, even with, the,|sv

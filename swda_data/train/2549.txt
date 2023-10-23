@@ -1,13 +1,13 @@
 B|I guess we're on.|sv
 A|Well, hang on|ad
-A|let me try it again because usually um.|oo_co_cc
+A|let me try it again because usually um.|co_cc
 B|Do you usually get a message?|qy
 A|Yeah.|ny
 B|Um.|%
 A|Um.|%
-B|Hang on let me check on it .|oo_co_cc
+B|Hang on let me check on it .|co_cc
 B|I don't know.|h
-A|Well, let me try it once more|oo_co_cc
+A|Well, let me try it once more|co_cc
 A|Well, I think we're on, maybe.|sv
 B|Okay.|b
 A|I guess we'll find out|sd

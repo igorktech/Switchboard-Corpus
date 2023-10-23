@@ -1,4 +1,4 @@
-A|okay.|fo_o_fw_"_by_bc
+A|okay.|o_"_bc
 B|What, what is,|qw
 B|do you have a favorite recipe?|qy
 A|Um, yeah,|ny
@@ -125,7 +125,7 @@ B|Uh-huh.|b
 B|Right.|b
 A|So, um, do you want to discuss the recipe?|qy
 B|Well,|arp_nd
-A|I have a recipe if you want|oo_co_cc
+A|I have a recipe if you want|co_cc
 B|Okay,|aa
 B|sure,|aa
 A|Um, it filled ,|%

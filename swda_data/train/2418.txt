@@ -155,7 +155,7 @@ B|Excuse me, Jim,|ad
 B|could you hold on?|ad
 B|I have someone at the door.|sd
 A|Sure, go ahead.|aa
-B|I'll be right back.|oo_co_cc
+B|I'll be right back.|co_cc
 A|Sure.|b
 B|in Thank you.|ft
 B|I think we might have just screwed up the computer|sd

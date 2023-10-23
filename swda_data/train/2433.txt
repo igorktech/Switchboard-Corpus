@@ -312,14 +312,14 @@ B|I have a slight limp from it,|sd
 B|but it matches one if I have one on the other side.|sd
 B|Yeah|b
 A|Well, anything else about exercise we can talk about.|qo
-B|Well, other than I need to go.|fo_o_fw_"_by_bc
+B|Well, other than I need to go.|o_"_bc
 A|Yeah,|aa
 A|me too,|aa
 A|me too.|aa
 A|I need to go actually get something to eat here.|sd
 B|It's great though,|sv
 B|I really do enjoy it.|sd
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|thank you, Sandy.|fc
 B|Sure,|fc
 B|thanks.|fc

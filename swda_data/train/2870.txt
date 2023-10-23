@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|do you vote regular?|qy
 B|Yeah,|ny
 A|Every one.|b^m

@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|sorry.|fa
 B|Wow,|ba
 B|that's okay|bd
@@ -190,7 +190,7 @@ A|He put new wiring in,|sd
 A|it's all new wiring up in the attic,  or I guess crawl space,|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
-A|but, uh, oh, no,|fo_o_fw_"_by_bc
+A|but, uh, oh, no,|o_"_bc
 A|he didn't know what he was doing,|sd
 A|he really should have hired people.|sd
 B|Well that's something,|ba

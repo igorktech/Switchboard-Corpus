@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 A|Um, do you have any advice for college?|qy
 A|I'm, I'm, I'm full of advice.|sd
 A|I'm still a graduate student.|sd
@@ -140,7 +140,7 @@ A|I'm pursuing a Doctorate in Psychology.|sd
 A|So, I'm just, wind up spending a lot of time doing that instead.|sd
 A|Uh, what else.|^h
 A|I, I think I,|%
-B|Well, let me, let me encourage you to stop and experience life along the way.|oo_co_cc
+B|Well, let me, let me encourage you to stop and experience life along the way.|co_cc
 A|Oh.|b
 B|I, I first enrolled in college in nineteen sixty-six.|sd
 A|Uh-huh.|b

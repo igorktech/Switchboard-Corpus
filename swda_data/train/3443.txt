@@ -165,7 +165,7 @@ A|and that's one family, right?|qh
 A|Of course, I think everybody in New Jersey sounds a little bit funny|sv
 A|but|%
 B|Oh, I agree.|aa
-A|You know, how that goes|fo_o_fw_"_by_bc
+A|You know, how that goes|o_"_bc
 B|Oh, shoot.|ba
 A|Oh, God.|ba
 A|Well, I'm surprised she hasn't told us to cut it off yet.|sv

@@ -125,7 +125,7 @@ A|now I may keep the, uh, one or both of the two cars I, I currently have, for t
 A|You know, they're, they're, they're small enough that a first time driver could handle it, yet big enough that I feel feel safe that, if they were in an accident they would survive.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
-A|Know what I mean.|fo_o_fw_"_by_bc
+A|Know what I mean.|o_"_bc
 A|It, I don't get that kind of feeling with the kind of car like you talked about, the Honda.|sd
 A|They're just,|%
 B|Well, the, the Honda's have been, have been very safe. In, in accidents, uh, more so that a lot of the American cars.|sd

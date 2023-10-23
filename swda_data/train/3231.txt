@@ -37,7 +37,7 @@ B|Oh, we have not seen that,|sd
 B|we want to see that one.|sd
 A|and that was, that was pretty funny,|sv
 A|and then we saw,|sd
-A|what was the spoof on TOP GUN,|fo_o_fw_"_by_bc
+A|what was the spoof on TOP GUN,|o_"_bc
 A|it's|%
 B|Oh, I haven't seen that one.|sd
 A|oh, I can't think of what that was called.|sd

@@ -1,5 +1,5 @@
-B|My T V down.|fo_o_fw_"_by_bc
-B|Okay.|fo_o_fw_"_by_bc
+B|My T V down.|o_"_bc
+B|Okay.|o_"_bc
 B|I'm sorry.|fa
 A|Uh, invasions of privacy.|sd
 B|Uh-huh.|b

@@ -218,7 +218,7 @@ B|Yeah,|aa
 B|you know it|aa
 B|I get a I get a sore neck from looking up all the time, yeah, things like that|sd
 A|Yeah.|b
-B|but, uh, no,|fo_o_fw_"_by_bc
+B|but, uh, no,|o_"_bc
 B|that pretty much covers my experiences.|sd
 A|But you're glad you're doing it,|qy^d
 A|right?|^g

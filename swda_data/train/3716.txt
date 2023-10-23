@@ -1,4 +1,4 @@
-A|We could talk about my favorite subject|oo_co_cc
+A|We could talk about my favorite subject|oo
 B|Cooking and food, huh.|qy
 A|Food|arp_nd
 B|What do you like to cook?|qo

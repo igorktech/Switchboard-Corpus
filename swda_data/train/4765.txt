@@ -90,7 +90,7 @@ B|I don't think you can.|sv
 B|I mean, you know, I'm, you know, was raised with being a very strong Bible work ethic|sd
 B|so, you know, I'm one of these, you know, ten, twelve, fifteen, twenty hour a day type people.|sd
 A|Uh-huh.|b
-B|So, you know, yeah,|fo_o_fw_"_by_bc
+B|So, you know, yeah,|o_"_bc
 B|I can really relate to|sd
 B|yeah,|%
 B|everybody ought to do their own share,|sv

@@ -120,7 +120,7 @@ A|hopefully my, my knee is a hundred percent better.|sd
 A|Maybe I can get back into it.|sd
 B|Yeah.|aa
 B|That's for sure.|aa
-A|Let me ask you a question off the subject though.|oo_co_cc
+A|Let me ask you a question off the subject though.|co_cc
 B|Okay.|bk
 A|You're in, you're living in the Castle Park area?|qy
 B|That's right.|na
@@ -221,7 +221,7 @@ A|Now, why couldn't your wife run around the golf course?|qw
 A|Is that not good?|qy
 B|Oh, she could, a little bit.|sd
 B|We,|%
-B|I tell you what,|fo_o_fw_"_by_bc
+B|I tell you what,|o_"_bc
 B|we got into the fitness center at Methodist|sd
 B|and they have a quarter mile track there.|sd
 B|So she has started doing that rather than uh, rather than take off.|sd

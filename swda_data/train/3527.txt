@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|do, do you have a home, or apartment?|qy
 B|Uh-huh,|ny
 B|I have a home.|sd

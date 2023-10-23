@@ -213,7 +213,7 @@ A|and somebody was recommending it to somebody.|sd
 A|You know the, the people who run the video store was recommending it to somebody else.|sd
 B|Yeah|b
 B|it was, it was not a bad movie.|sv
-A|Huh, well, I'll have to catch it one of these days.|oo_co_cc
+A|Huh, well, I'll have to catch it one of these days.|co_cc
 A|You|%
 A|you, you said you seen NO WAY OUT?|qy
 B|Yeah,|ny

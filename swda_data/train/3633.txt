@@ -1,4 +1,4 @@
-A|return anything.|fo_o_fw_"_by_bc
+A|return anything.|o_"_bc
 B|Well, really,  the only things that I have returned have not been faulty,|sd
 B|it's been because of the size or  some problem like that.|sd
 A|Right.|b

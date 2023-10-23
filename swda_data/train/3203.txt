@@ -1,5 +1,5 @@
-A|All righty.|fo_o_fw_"_by_bc
-B|Okay.|fo_o_fw_"_by_bc
+A|All righty.|o_"_bc
+B|Okay.|o_"_bc
 A|What type of home do you have in Dallas?|qw
 B|We have a, uh, four bedroom split brick home in, in Richardson actually.|sd
 A|Uh-huh.|b

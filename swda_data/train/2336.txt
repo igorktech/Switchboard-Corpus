@@ -1,10 +1,10 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|so what kind of car are you thinking about getting?|qw
 B|Well, none at the moment|sd
 A|Well, when you decide to.|sd
-B|No,|fo_o_fw_"_by_bc
-B|no,|fo_o_fw_"_by_bc
-B|no.|fo_o_fw_"_by_bc
+B|No,|o_"_bc
+B|no,|o_"_bc
+B|no.|o_"_bc
 B|I currently drive a, a Ford Taurus.|sd
 A|Uh-huh.|b
 B|And I would I would imagine that if I change or if I get another car, a new car, I will go with the Taurus or something similar, uh, in that regard.|sd

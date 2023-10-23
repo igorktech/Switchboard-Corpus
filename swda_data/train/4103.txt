@@ -77,7 +77,7 @@ B|Uh-huh.|b
 A|Uh, probably need to try to get back on the topic|sv
 A|but, uh, it's hard to talk about finances without without getting to, uh, dollar figures I guess you know,|sv
 B|Uh-huh.|b
-A|we could talk about some of the long range goals|oo_co_cc
+A|we could talk about some of the long range goals|co_cc
 A|and,|%
 B|Well what other long range goals do you have besides college?|qo
 A|Uh, well I think, either my wife or I would like to pursue advanced degrees at some point|sd

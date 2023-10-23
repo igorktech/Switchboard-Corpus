@@ -1,4 +1,4 @@
-A|Anyway, uh|fo_o_fw_"_by_bc
+A|Anyway, uh|o_"_bc
 B|How about you.|qo
 B|What do you do with your budget?|qw
 A|What do I do,|t1
@@ -9,7 +9,7 @@ A|I'm, I, uh, it's called living within your means You know, which means at the 
 B|Uh-huh.|b
 B|Yeah.|aa
 B|That's true.|aa
-A|Uh, but, uh, no|fo_o_fw_"_by_bc
+A|Uh, but, uh, no|o_"_bc
 A|I don't really have a budget at the moment.|sd
 A|Uh, but I have uh, I have a rough feel for how much money I can afford to spend each month|sd
 A|and then I don't, usually don't exceed that unless I, unless the VISA bill gets out of hand for one reason or another, like if I have car expenses|sd

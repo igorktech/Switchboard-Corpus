@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|what kind of car are you thinking about buying next?|qw
 B|Well, what a what do we currently have,|t1
 B|I have a Subaru, uh, G O X T.|sd

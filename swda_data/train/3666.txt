@@ -207,11 +207,11 @@ A|Isn't it five minutes?|qy
 B|I don't know.|no
 A|I, I mean, I'm all talked out about gardens.|sd
 B|I know.|sd
-B|Well, we can talk about something else.|oo_co_cc
+B|Well, we can talk about something else.|co_cc
 B|It's just a suggested topic.|sd
 A|Oh, oh, it's just suggested?|qy^d
 B|So, how's the baby, do you think|qo
 A|What?|br
 B|How's the,|qw
-A|We could talk, Let's talk about the baby.|oo_co_cc
+A|We could talk, Let's talk about the baby.|co_cc
 B|Let's talk about the baby.|ad

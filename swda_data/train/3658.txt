@@ -1,4 +1,4 @@
-B|Okay.|fo_o_fw_"_by_bc
+B|Okay.|o_"_bc
 A|Okay.|b^m
 B|Universal health insurance,|sd
 B|right?|^g
@@ -22,7 +22,7 @@ A|Yes.|aa
 A|So we live in a society, though, where everyone if you ask them on polls, will, uh, say that they think that everyone has a right to health care.|sv
 B|Uh-huh.|b
 A|And yet, I don't think we've ever quite decided who's really supposed to pay for it.|sv
-B|Well, that's the thing, you know,|fo_o_fw_"_by_bc
+B|Well, that's the thing, you know,|o_"_bc
 B|uh, unfortunately the ones that currently pay and pay the premiums for health insurance are, are paying for the people that don't have health insurance.|sv
 A|Which is why people are talking about|sv
 A|we ought to just admit it perhaps and then try and somehow subsidize it in a way that's more fair.|sv
@@ -39,7 +39,7 @@ B|and my wife developed cancer.|sd
 B|We didn't have any insurance.|sd
 A|Oh, my goodness.|ba
 B|And it was a go to Parkland type situation.|sd
-A|That's must have been hard|fo_o_fw_"_by_bc
+A|That's must have been hard|by
 A|How was your care at Parkland?|qo
 B|Uh, because it was a life threatening situation, it was very good.|sv
 B|Uh, as it, as it turned out one of the top, uh, people, or one of the top doctors in the state that is involved in cancer treatment was at Parkland.|sd
@@ -53,7 +53,7 @@ B|I had a bad experience as it turned out.|ar
 B|Uh, I was fortunate that there was Parkland.|sv
 A|Is your wife better, I hope?|qy
 B|Uh, no she passed away.|ng
-A|I'm real sorry.|fo_o_fw_"_by_bc
+A|I'm real sorry.|by
 B|That's all right.|bd
 A|Sure. *listen; is this a question?|b
 B|That happens.|bd

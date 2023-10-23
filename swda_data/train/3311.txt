@@ -1,4 +1,4 @@
-A|All right, uh, well,|fo_o_fw_"_by_bc
+A|All right, uh, well,|o_"_bc
 A|let's see,|^h
 B|How old are you Lisa?|qw
 A|I'm twenty.|sd

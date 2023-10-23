@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|so, uh, do you own a P C?|qy
 B|Um, no,|nn
 B|not personally|sd
@@ -52,7 +52,7 @@ A|But, that's, uh, that's the only way that you can get to, through to the syste
 A|you can't store it anywhere.|sd
 B|Right.|aa
 B|Yeah,|aa
-B|no|fo_o_fw_"_by_bc
+B|no|o_"_bc
 B|I, um, I, I have both, because that, that's what I use all the time is UNIX Systems. Um, versus the DOS.|sd
 B|But then I teach DOS classes, uh, at night.|sd
 A|Oh, okay.|bk
@@ -62,7 +62,7 @@ B|So,|%
 A|And then you also have to do all your grading on the P C.|bf
 B|Well, that, that's the really neat thing, I teach in the continuing education classes, so I don't, uh, I don't have to have any grades, no grade books, so that's great|sd
 A|Oh, okay.|bk
-B|But, no,|fo_o_fw_"_by_bc
+B|But, no,|o_"_bc
 B|I find that I use the, the personal computer a lot though for my WordPerfect, and also for my spread sheets.|sd
 A|Okay.|b
 A|Yeah.|b
@@ -164,7 +164,7 @@ B|Oh, oh dear.|ba
 B|I didn't have to bother with that at all, thank goodness.|sd
 B|Yeah.|%
 A|So, yeah.|b
-A|No,|fo_o_fw_"_by_bc
+A|No,|o_"_bc
 A|but it, it was just sensational because I walked in|sd
 A|and they go, Oh, my God, they're still using this.|sd
 B|Yes.|b

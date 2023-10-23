@@ -15,7 +15,7 @@ B|I usually read that from cover to cover.|sd
 A|Yeah.|b
 B|I like it because there's a little bit of everything in it.|sd
 A|Right.|b
-B|You know, that kind of a thing.|fo_o_fw_"_by_bc
+B|You know, that kind of a thing.|o_"_bc
 B|Uh, as far as like real novels, I haven't gotten into Shakespeare or any of that type of thing.|sd
 A|Uh-huh.|b
 B|I wish I had in, in some senses|sd
@@ -118,7 +118,7 @@ B|If I start into something and I really enjoy what I'm reading,  then I have a 
 A|Uh-huh.|b
 B|I'll stay up until two or three o'clock in the morning, you know, because I'm so engrossed in it|sd
 B|and then before you know it, it's time to get up and go to work.|sd
-B|You know, that type of thing.|fo_o_fw_"_by_bc
+B|You know, that type of thing.|o_"_bc
 A|Yeah.|b
 B|That's why|%
 B|I, I don't know|h

@@ -68,7 +68,7 @@ B|Oh, exactly.|aa
 B|Unfortunately that kind of thing is not limited to a big city like Los Angeles.|sv
 B|You're going to have it just about anywhere.|sv
 A|Uh-huh.|b
-B|There. *listen|fo_o_fw_"_by_bc
+B|There. *listen|o_"_bc
 A|Well,|%
 B|But that's, that's interesting.|sv
 A|Yeah. Um|b

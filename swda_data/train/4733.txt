@@ -1,4 +1,4 @@
-A|think about this?|fo_o_fw_"_by_bc
+A|think about this?|o_"_bc
 B|Uh, do you have children in school?|qy
 A|I do.|na
 B|Uh, I have two that are, uh, now just about ready to graduate from college|sd
@@ -101,7 +101,7 @@ A|but it is, it's getting worse and worse,|sv
 A|is more pressure for everything. *listen|sv
 A|And I just think it's really awful|sv
 A|and I, I'm with you on that.|aa
-A|You don't hear too many people say this,|fo_o_fw_"_by_bc
+A|You don't hear too many people say this,|o_"_bc
 A|but I think it's a very long day.|sv
 B|Oh, it is.|ba
 A|And my feeling is that, you know, you're only a kid once, and you don't want to  spend your whole life in school.|sv

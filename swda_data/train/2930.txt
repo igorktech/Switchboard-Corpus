@@ -144,7 +144,7 @@ B|and we gathered wild berries,|sd
 B|and, uh, it's really, you know|%
 A|Yeah.|b
 B|the, the mountains can accommodate you if you know what to find.|sv
-A|If you know what to look for.|fo_o_fw_"_by_bc
+A|If you know what to look for.|o_"_bc
 B|Uh-huh.|aa
 B|I had my boys build their own little you know, three leg camp stools by cutting a branch off the tree and binding them together with bark.|sd
 A|Well, that sounds so neat.|ba

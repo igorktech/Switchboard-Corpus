@@ -1,4 +1,4 @@
-A|All right.|fo_o_fw_"_by_bc
+A|All right.|o_"_bc
 A|I've never done it before,|sd
 A|so I guess that's all I have to do, right|qy
 B|I guess so.|no
@@ -20,7 +20,7 @@ A|Yeah,|b
 A|okay,|%
 A|well back to crime,|sd
 A|I guess we're supposed to talk about that.|sv
-A|They say what aspect are you worried about,|fo_o_fw_"_by_bc
+A|They say what aspect are you worried about,|o_"_bc
 A|well, I think at this point, I for one am worried about every aspect|sd
 B|Right,|aa
 B|especially, uh, you, since you're in the same metroplex,|sd
@@ -95,7 +95,7 @@ B|You're kidding.|ba
 A|No,|aa
 A|I'm the one,|%
 B|Himself and her?|qy
-A|Yeah,|fo_o_fw_"_by_bc
+A|Yeah,|by
 A|that must have been at least fifty years ago or more,|sd
 A|but the point of the story is that, that was so unbelievable a thing in those days that it was in all the papers, all over the country for weeks|sd
 B|Oh, wow,|ba

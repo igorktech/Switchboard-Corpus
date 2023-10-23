@@ -180,7 +180,7 @@ A|And then you can keep an eye, you can make judgments and make comments or what
 A|But at least you see what's going on,|sv
 A|and you always have your house welcome, then your children think that, you know, you're cool parents and all that.|sv
 B|Right|b
-A|Well good luck with your expected baby there.|fo_o_fw_"_by_bc
+A|Well good luck with your expected baby there.|fo
 B|Oh well, thanks.|ft
 A|My wife was yelling, was talking in my ear,|sd
 A|she said, reminded me to say that they're very cheap until they get to start driving.|sd

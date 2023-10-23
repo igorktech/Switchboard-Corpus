@@ -259,7 +259,7 @@ B|Jeez.|ba
 A|and, and, and I guess, capture the whole thing for some sponsor.|sd
 B|Huh.|b
 B|And that|%
-A|Let me ask you another question.|oo_co_cc
+A|Let me ask you another question.|co_cc
 B|as, as an athlete, I just hate that.|sd
 B|Go head,|aa
 A|Yeah.|b

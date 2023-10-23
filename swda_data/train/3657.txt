@@ -1,4 +1,4 @@
-A|Okay Jerry.|fo_o_fw_"_by_bc
+A|Okay Jerry.|o_"_bc
 A|I guess, uh, tonight's topic is about, uh, personal computers and level of interest and, uh, and your, your expertise.|sd
 B|Oops|b
 B|Oh, well.|b
@@ -11,7 +11,7 @@ A|Well, first of all,|%
 A|you want me to start off?|qy
 B|Yeah,|ny
 B|why don't you, why don't we, why don't you do about thirty seconds|ad
-B|and I'll do thirty seconds|oo_co_cc
+B|and I'll do thirty seconds|co_cc
 B|and then we can work off of there.|ad
 A|Okay,|aa
 A|real, real fine.|aa

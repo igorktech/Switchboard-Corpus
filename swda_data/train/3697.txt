@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|now then you heard the question,|sv
 A|what  what do you like to do for yourself in car automobile repairs?|^q
 B|Uh-huh.|b
@@ -92,8 +92,8 @@ A|I have to do it the other way,|sd
 A|and that's find someone and pay them to do it.|sd
 B|Yeah,|b
 B|yeah.|b
-A|So I certainly hope you have a nice New Year.|fo_o_fw_"_by_bc
-B|Oh, yeah,|fo_o_fw_"_by_bc
+A|So I certainly hope you have a nice New Year.|fo
+B|Oh, yeah,|fo
 B|I'm, I'm planning on it.|sd
 B|Oh, it can't be any worse than last year,|sd
 B|that's for sure.|sd

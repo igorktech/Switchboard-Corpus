@@ -10,7 +10,7 @@ A|Right.|b
 B|so, so it's like there is a struggle within me going do, do I be open-minded and give them the benefit of the doubt which is kind of my basic personality.|sd
 B|You know I, I trust people.|sd
 A|Uh-huh.|b
-B|I'll do that.|oo_co_cc
+B|I'll do that.|co_cc
 B|Or do I keep on going, well, we'll wait and see|qh
 A|Well, I think there's a, a struggle within the Soviet Union.|sv
 A|Um, I think the people are, are just fed up,|sv
@@ -52,7 +52,7 @@ A|That's part of that propaganda thing,|sv
 A|and I think if we can get away from that, or if we can keep that out of our minds, oh,|sv
 A|excuse me, I've got a cold today.|fa
 B|That's all right.|bd
-B|I hope you get better|fo_o_fw_"_by_bc
+B|I hope you get better|by
 A|Thank you.|ft
 A|Um, I think if we can get that propaganda thing because I'm sure both countries are seeing, seeing it, you know, thinking K G B and C I A and all that|sv
 A|but, uh just on an economic point of view, if the Soviet Union doesn't do something fast they are, they ain't going to be able to feed their people this, this winter, you know.|sv

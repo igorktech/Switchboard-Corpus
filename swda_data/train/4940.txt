@@ -1,4 +1,4 @@
-A|Okay|fo_o_fw_"_by_bc
+A|Okay|o_"_bc
 B|Okay Carol.|b
 B|So, air quality.|sd
 A|Yeah.|b
@@ -96,7 +96,7 @@ A|Yeah.|b
 B|A electric car it's on demand.|sd
 B|I mean it's either on or off.|sd
 A|Yeah.|b
-B|Basically.|fo_o_fw_"_by_bc
+B|Basically.|o_"_bc
 A|Huh.|b
 B|You don't have to shift|sd
 B|So you,|%

@@ -147,7 +147,7 @@ A|but still you want them to go out and do other things.|sd
 A|Even if they're, good programs you don't want them sitting there watching them.|sd
 B|Right.|b
 B|Yeah.|b
-A|Anyway. Well,|fo_o_fw_"_by_bc
+A|Anyway. Well,|o_"_bc
 B|Okay.|b
 B|Well, we probably exhausted that, huh?|qy
 A|Yeah,|ny

@@ -190,7 +190,7 @@ A|I always thought I'd put a tomato plant in there or something weird|sd
 B|Uh-huh.|b
 A|but I don't think I could really eat the fruit off it without wondering.|sv
 A|And I don't know if they make landscape ties that aren't treated.|sd
-B|Well, you can get, um, you can get pressurized lumber,|oo_co_cc
+B|Well, you can get, um, you can get pressurized lumber,|co_cc
 A|Yeah,|aa
 A|but they put, some kind of chemicals in there too.|ar
 B|Oh, that's right.|aa

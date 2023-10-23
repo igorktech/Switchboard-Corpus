@@ -1,4 +1,4 @@
-A|All Right.|fo_o_fw_"_by_bc
+A|All Right.|o_"_bc
 A|Ladies, first.|ad
 B|Oh, no.|ba
 B|Well, I don't find a lot of time to watch T V.|sd
@@ -30,7 +30,7 @@ B|Huh-uh.|b
 A|Of course, I have to watch cartoons on Saturday morning, but not the NINJA TURTLES.|sd
 A|I like the old-timey ones, TOM AND JERRY.|sd
 B|You sound like my husband.|sd
-A|There you go.|fo_o_fw_"_by_bc
+A|There you go.|o_"_bc
 B|He likes TOM AND JERRY and, uh, BUGS BUNNY AND ALL HIS FRIENDS. And all those guys.|sd
 A|Right.|b
 A|JOHNNIE QUEST. the good ones.|sd

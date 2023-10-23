@@ -108,8 +108,8 @@ A|Well, that's,|%
 A|Okeydoke,|aa
 A|well, it was great.|sv
 A|Yeah.|b
-A|And we'll, uh, listen to some more music|oo_co_cc
-A|and, uh, I'll look at some country.|oo_co_cc
+A|And we'll, uh, listen to some more music|co_cc
+A|and, uh, I'll look at some country.|co_cc
 B|You bet.|ba
 A|Okay.|b
 A|Bye-bye|fc

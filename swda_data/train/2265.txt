@@ -1,4 +1,4 @@
-B|Uh, tell you what. Um, I'll let you start|oo_co_cc
+B|Uh, tell you what. Um, I'll let you start|co_cc
 A|Okay.|aa
 A|My major source of information, I guess, is T V news|sd
 A|Excuse me. I, uh, wake up to it in the morning.|sd
@@ -30,7 +30,7 @@ B|I agree with you.|aa
 A|Now, I can appreciate that, especially after what happened in Vietnam.|sd
 B|Yeah,|aa
 B|which is a joke.|sv
-A|Uh, let's face it,|fo_o_fw_"_by_bc
+A|Uh, let's face it,|o_"_bc
 A|today's, uh, means of communication, we could, a newscaster could very well giveaway a piece of top secret information. And, uh, pat himself on the back for, for, uh, making a good scoop.|sv
 B|Huh-uh.|b
 B|Yeah.|aa

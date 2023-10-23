@@ -1,4 +1,4 @@
-A|All right,|fo_o_fw_"_by_bc
+A|All right,|o_"_bc
 A|uh, how long have they been recycling there in Virginia?|qw
 B|Um, actually quite a, a, a while.|sd
 B|Um, I've lived here for six years|sd
@@ -19,13 +19,13 @@ B|there it is,|sd
 B|hold on on|ad
 A|Uh-huh|aa
 A|Hello.|fp
-B|Okay,|fo_o_fw_"_by_bc
+B|Okay,|o_"_bc
 B|sorry about that|fa
 A|Yeah,|b
 A|okay,|bd
 A|you're okay,|bd
 B|Yeah.|b
-A|okay|fo_o_fw_"_by_bc
+A|okay|o_"_bc
 B|Uh, anyhow, they have facilities here in my apartment complex for recycling paper only.|sd
 B|Uh, I've been recycling for maybe about two years now and, at another public facility where they have, you know, recycling of glass, uh, aluminum and paper.|sd
 A|Uh-huh.|b

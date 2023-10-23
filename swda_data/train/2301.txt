@@ -73,7 +73,7 @@ B|That's right.|aa
 B|No returned checks or anything.|bf
 A|Right.|aa
 B|Yeah.|b
-B|No,|fo_o_fw_"_by_bc
+B|No,|o_"_bc
 B|I, I understand it's becoming, you know, the popular thing to do.|sd
 B|We're not participating in that particular program at the moment,|sd
 B|and I don't really perceive doing it unless we absolutely have to.|sd
@@ -115,7 +115,7 @@ B|Sure.|aa
 B|Absolutely.|aa
 B|Yeah.|aa
 A|Oh, I've got another call.|sd
-B|Oh, I'm sorry.|fo_o_fw_"_by_bc
+B|Oh, I'm sorry.|by
 B|Was nice talking to you.|fc
 A|Okay.|fc
 B|Take care.|fc

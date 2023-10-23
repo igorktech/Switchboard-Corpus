@@ -1,4 +1,4 @@
-A|All righty.|fo_o_fw_"_by_bc
+A|All righty.|o_"_bc
 A|Uh, I guess our topic today is air pollution.|sd
 A|And we are to just discuss what substances do you think that contribute most to air pollution, as well as what society can do to improve the air quality of the atmosphere around us.|sd
 B|Right.|aa
@@ -27,7 +27,7 @@ B|Oh|b
 A|Uh, what we run into, um, is we have the Texas Air Control Board, T A C B, that send out, uh, jurisdictions under which we have to, uh, uh, reply to.|sd
 B|Uh-huh.|b
 A|And a lot of their rules and regulation aren't real clear, so we have our manager of environmental, who assist the T A C B, which is located in Austin, in writing|sd
-A|and, hey,|fo_o_fw_"_by_bc
+A|and, hey,|o_"_bc
 A|look what we've done here at T I.|ad
 B|Uh-huh.|b
 A|And, uh, we are presently, uh, in receipt of a site permit, which will allow us to, um, uh,|sd
@@ -114,7 +114,7 @@ A|I was responsible for all the planning and engineering over the corporate, or 
 B|Oh, you were?|bh
 A|Yeah.|ny
 B|Oh, okay.|bk
-A|So, uh, I hope you like your office.|fo_o_fw_"_by_bc
+A|So, uh, I hope you like your office.|o_"_bc
 B|Yes.|aa
 B|Yes.|aa
 B|It's a heck of a lot different.|sd
@@ -123,7 +123,7 @@ B|We were about the only, place in, you know, T I that had the gray metal desk.|
 A|Yeah.|b
 B|People used to come and laugh and go, gee, I hadn't seen one of those ten, fifteen years.|sd
 A|Yeah.|b
-A|Glad to see y'all taken care of.|fo_o_fw_"_by_bc
+A|Glad to see y'all taken care of.|o_"_bc
 A|Well, the, uh, I think what changed everything and, uh, is, uh, y'all were, y'all were the only ones that make any money for TI, here in the last ten years,|sv
 B|We, finally got a little respect.|sd
 B|Nobody thought of us as a profit center before.|sv

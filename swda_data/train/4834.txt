@@ -45,7 +45,7 @@ B|and they call every month.|sd
 A|Huh.|b
 B|And when you have more than one phone number, you get a call on each number you have|sd
 A|Good grief.|ba
-A|Well, let me ask you about this.|oo_co_cc
+A|Well, let me ask you about this.|co_cc
 A|Here's something that, uh, has been kind of concerning me lately.|sd
 A|My fiance received a bill from a, a Lord and Taylor company,|sd
 A|Uh, you know, they're a, they're a department store.|sd

@@ -288,7 +288,7 @@ A|I don't know what we're going to do about,|sd
 B|Common problem.|bf
 A|Yeah,|aa
 A|you,  want to rob a bank?|qy
-A|No,|fo_o_fw_"_by_bc
+A|No,|o_"_bc
 A|I didn't say that.|sd
 B|Yeah,|b
 B|really.|ba

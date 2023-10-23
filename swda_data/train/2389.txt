@@ -1,4 +1,4 @@
-A|Okay|fo_o_fw_"_by_bc
+A|Okay|o_"_bc
 B|If you want to go first, go ahead.|ad
 A|Oh, I think, I think that a woman's role has come a long way.|sd
 A|We have gone more into the business aspect of, like I say, of, I don't know, working more,|sv
@@ -118,7 +118,7 @@ A|Uh-huh.|b
 B|And I worked that shift for eleven years.|sd
 A|Oh, my.|ba
 B|Yeah.|b
-A|Bless you|fo_o_fw_"_by_bc
+A|Bless you|o_"_bc
 B|Just so that my kids would have me at home.|sd
 A|Uh-huh.|b
 B|You know, and I feel that's very important,|sv

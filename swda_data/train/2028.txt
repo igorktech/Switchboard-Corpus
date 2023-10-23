@@ -1,4 +1,4 @@
-A|Okay, um.|fo_o_fw_"_by_bc
+A|Okay, um.|o_"_bc
 A|How has it been this week for you?|qw
 B|Weather-wise, or otherwise?|qy
 A|Weather-wise.|sd

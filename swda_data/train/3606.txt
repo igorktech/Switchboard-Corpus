@@ -105,7 +105,7 @@ A|that's why I don't see it.|sd
 B|Yeah,|b
 B|I'll watch that occasionally.|sd
 B|He's got some real,|sv
-B|I don't know,|fo_o_fw_"_by_bc
+B|I don't know,|o_"_bc
 B|there's some real weird people that, he seems to come up with.|sv
 A|Isn't it strange how people are fascinated by other people that they think are strange|qy
 B|Yes.|ny

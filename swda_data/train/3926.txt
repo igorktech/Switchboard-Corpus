@@ -1,5 +1,5 @@
-A|That's it.|fo_o_fw_"_by_bc
-B|Yes.|fo_o_fw_"_by_bc
+A|That's it.|o_"_bc
+B|Yes.|o_"_bc
 A|What do you think are possible changes in the, uh, way trials are conducted these days?|qw
 A|Do you like the way some people in there for instance, really take over and, uh, we have no way, uh, of knowing whether they are legitimately right or wrong and so forth.|qy
 B|Yeah.|ny

@@ -1,4 +1,4 @@
-A|All right.|fo_o_fw_"_by_bc
+A|All right.|o_"_bc
 B|Okay.|b
 B|Well, I can go ahead and start and tell you mine|ad
 B|and,|%
@@ -99,14 +99,14 @@ B|Yeah|b
 A|The biggest problem with, with the weather and the rain in this area is the soil.|sd
 A|It's that black clay soil.|sd
 B|Oh. Is that what Dallas is,|qy
-B|okay.|fo_o_fw_"_by_bc
+B|okay.|o_"_bc
 B|Yeah.|%
 A|You know, it's not sandy like most of the state is,|sd
 A|so it doesn't absorb the water real well.|sd
 B|Uh-huh.|b
 A|You know, once it rains a little bit, it's, it's filled up and everything else just runs off,|sd
 B|Uh-huh.|b
-A|you know.|fo_o_fw_"_by_bc
+A|you know.|o_"_bc
 B|Yeah.|b
 B|San Antonio has that same problem when the rains come.|sd
 B|It's, it's a complete mess, everything floods, all the under passes.|sd

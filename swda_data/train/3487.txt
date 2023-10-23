@@ -1,4 +1,4 @@
-A|Uh, advice on son or daughter going to college.|fo_o_fw_"_by_bc
+A|Uh, advice on son or daughter going to college.|o_"_bc
 B|Right.|b
 A|Uh, that's advice that I will need in time future for my children, rather than one that I have, uh, personal experience with|sd
 B|Uh-huh.|b
@@ -64,9 +64,9 @@ B|They would,|%
 A|That's my gut feeling, too.|sd
 A|I,|%
 A|my son is certainly not persuaded of that|sd
-A|Hello?|fo_o_fw_"_by_bc
-B|Yes,|fo_o_fw_"_by_bc
-B|I'm here.|fo_o_fw_"_by_bc
+A|Hello?|fo
+B|Yes,|o_"_bc
+B|I'm here.|o_"_bc
 A|Oh, yeah, uh,|b
 A|yes,|b
 A|I didn't have a car in college.|sd

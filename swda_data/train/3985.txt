@@ -1,4 +1,4 @@
-A|Okay, Bill, um,|fo_o_fw_"_by_bc
+A|Okay, Bill, um,|o_"_bc
 A|as you think over the plans and so forth that the company you're working with now,|sd
 A|who do you work with at this time?|qw
 B|Well, I own the company.|sd

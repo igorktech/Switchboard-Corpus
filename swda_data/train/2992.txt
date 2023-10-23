@@ -1,4 +1,4 @@
-A|Well, I know that, uh,|fo_o_fw_"_by_bc
+A|Well, I know that, uh,|o_"_bc
 A|I have only like two or three favorite television shows.|sd
 B|Uh-huh.|b
 A|I think one of my favorite then is from the guy Stephen, is it Brochco, who does like L A LAW|sd
@@ -116,8 +116,8 @@ A|Was it actually based on a book?|qy
 B|Well, no,|nn
 B|I imagine,|%
 A|Oh, but you were just talking about,|sd
-A|okay,|fo_o_fw_"_by_bc
-A|okay,|fo_o_fw_"_by_bc
+A|okay,|o_"_bc
+A|okay,|o_"_bc
 B|Everything you could think of, you know had a hard time,|sd
 A|Yeah,|b
 A|right.|b

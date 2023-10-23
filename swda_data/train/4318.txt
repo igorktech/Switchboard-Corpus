@@ -1,4 +1,4 @@
-A|the one will take,|fo_o_fw_"_by_bc
+A|the one will take,|o_"_bc
 A|uh, okay,|b
 A|let's see,|^h
 A|I guess, uh, I can start.|sd

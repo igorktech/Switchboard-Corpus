@@ -1,4 +1,4 @@
-B|about the weather|fo_o_fw_"_by_bc
+B|about the weather|o_"_bc
 A|Oh, yes,|aa
 A|very appropriate, I guess.|sv
 A|Uh, you ready for this?|qy

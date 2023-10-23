@@ -1,4 +1,4 @@
-B|So eating out.|fo_o_fw_"_by_bc
+B|So eating out.|o_"_bc
 B|What are you interested in in restaurants?|qw
 A|Right, uh.|b
 A|So.|%

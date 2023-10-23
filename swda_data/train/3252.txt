@@ -86,7 +86,7 @@ B|I'd love to go to a cat show.|sd
 B|I'm real, a real cat lover.|sd
 B|I'd have a lot more cats if my boyfriend would let let me|sd
 B|He doesn't really like mine, let alone another one.|sd
-A|Well, I'll tell you an interesting story about how I got my dog,|oo_co_cc
+A|Well, I'll tell you an interesting story about how I got my dog,|co_cc
 A|and then I suppose our five minutes will be up.|sv
 B|Yeah.|aa
 B|Okay.|aa

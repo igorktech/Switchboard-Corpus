@@ -1,5 +1,5 @@
-A|Okay.|fo_o_fw_"_by_bc
-B|All right.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
+B|All right.|o_"_bc
 B|Uh, do you have any friends that have children?|qy
 A|I do have friends that have children,|na
 A|yes.|ny

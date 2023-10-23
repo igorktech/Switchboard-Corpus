@@ -63,7 +63,7 @@ B|but, I just don't understand,|sd
 A|Yeah,|b
 A|it's sure aggravating when you go out and bust your butt working, you know, your day job and you can work your day job the rest of your life and not bring home as much money as they bring home in one game.|sv
 B|Oh, I know.|aa
-B|I tell you.|fo_o_fw_"_by_bc
+B|I tell you.|o_"_bc
 A|It's real aggravating,|sv
 A|but,|%
 B|But, one thing I don't understand is why a group, you know, headed up by George Bush would buy the Texas Rangers and not really get behind them|sd
@@ -95,7 +95,7 @@ B|and I follow them like I follow the Mavericks and like I follow the Cowboys,|s
 B|but, and I want to see them win, because you know, damn it, they, the fans deserve it.|sv
 B|I mean, it, You know, we have pretty, uh, great fans, put two million people in that stadium.|sv
 A|Right.|b
-A|I'm telling you.|fo_o_fw_"_by_bc
+A|I'm telling you.|o_"_bc
 B|I love Nolan Ryan.|sd
 B|I guess you probably love him, too.|sv
 A|Right,|b

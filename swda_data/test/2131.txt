@@ -238,7 +238,7 @@ B|I've, I've never seen a Gene Autry movie,|sd
 A|had a real raspy voice,|sd
 B|Huh.|%
 A|and, uh,|%
-B|No,|fo_o_fw_"_by_bc
+B|No,|o_"_bc
 B|I never have|sd
 A|some of those old ones, of course, Bob Wills, Miss Texas Playboys Ernest Tubbs and Red Foley an,|sd
 B|Yeah.|b

@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 A|Do you work?|qy
 B|Yes,|ny
 B|I do.|ng
@@ -60,7 +60,7 @@ A|.|%
 B|But I do think that's one of the major changes. You know,|sv
 B|my mama I remember her being home uh,  you know, she made breakfast in the morning for us.|sd
 A|Yep.|b
-A|Fine .|fo_o_fw_"_by_bc
+A|Fine .|o_"_bc
 A|Yep.|aa
 A|I know.|sd
 B|And if she worked it was part time|sd
@@ -120,7 +120,7 @@ B|So, where do you see,  us changing in the future?|qw
 A|I don't.|sd
 B|Well, see that was one of the things the, the question I think is,  you know, what changes do we see|sd
 A|I keep on working .|sd
-A|Right.|fo_o_fw_"_by_bc
+A|Right.|o_"_bc
 B|and I'm, I'm not sure I, I see it go anywhere.|sd
 B|I think they are still going to have to work.|sv
 A|That we are because it's so expensive.|bf

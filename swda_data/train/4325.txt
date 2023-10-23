@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 A|So, What kind of experience do you, do you have, then with child care?|qw
 B|I guess, I think, uh, I wonder if that worked.|qy^d
 A|Does it say something?|qy
@@ -97,7 +97,7 @@ A|It would be nice to have him around|sv
 B|Uh-huh.|b
 A|but, uh, seems like, you know,|sv
 A|what if he cried at the wrong time|qh
-A|or the phone rang or, you know, at the wrong time|fo_o_fw_"_by_bc
+A|or the phone rang or, you know, at the wrong time|o_"_bc
 B|Yeah.|b
 A|But,|%
 B|I think she has problems with that, too.|sd

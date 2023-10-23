@@ -1,4 +1,4 @@
-A|Kay.|fo_o_fw_"_by_bc
+A|Kay.|o_"_bc
 B|Okay.|b
 A|I guess we're talking about exercise, huh?|sd
 B|Yeah,|aa
@@ -8,7 +8,7 @@ A|Oh, I am twenty-seven.|sd
 B|Twenty-seven,|b^m
 B|okay.|b
 B|Well, I am quite a bit older than you are|sd
-B|But, no.|fo_o_fw_"_by_bc
+B|But, no.|o_"_bc
 B|I think exercise is extremely important|sv
 B|and I I do exercise on a regular basis.|sd
 A|You do?|bh

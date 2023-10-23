@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|well, I can tell you pretty much my two favorite shows|sd
 B|Okay.|b
 A|and they kind of are in different spectrums, I think. Um,|sd
@@ -244,6 +244,6 @@ A|Yeah,|aa
 A|it's kind of nice|sd
 B|Okay|b
 B|well, thanks so much.|ft
-A|Uh-huh.|fo_o_fw_"_by_bc
+A|Uh-huh.|fw
 B|Bye-bye.|fc
 A|Bye-bye.|fc

@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|what do you like to cook?|qw
 B|I like, well I like to cook foods I like to eat.|sd
 B|I like to eat Italian food best.|sd

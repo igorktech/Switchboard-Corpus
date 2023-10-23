@@ -28,7 +28,7 @@ A|Well, uh, what benefits do,|qw
 A|now, do you work?|qy
 B|I'm going to school right now.|sd
 A|Oh, you are?|bh
-B|I can tell you about my last job or whatever you want to talk about that or my husband's or what I think.|oo_co_cc
+B|I can tell you about my last job or whatever you want to talk about that or my husband's or what I think.|co_cc
 A|Okay.|aa
 A|Yeah.|b
 B|I've got a lot of,|sd
@@ -80,7 +80,7 @@ A|It's,|%
 A|Yeah.|b
 A|It, it,|%
 A|Yeah,|aa
-A|I'll tell you what,|fo_o_fw_"_by_bc
+A|I'll tell you what,|o_"_bc
 A|that is the single most uh, benefit that I, that I enjoyed, and I do miss|sd
 B|Right.|b
 A|because I looked into picking up some, uh, medical insurance for my, just for my family, you know, just,|sd

@@ -87,7 +87,7 @@ A|So it came  really great|sv
 B|That's great.|ba
 A|so.|%
 B|Wow.|ba
-A|So what, why is it that the weather in Atlanta that gets very hot.|fo_o_fw_"_by_bc
+A|So what, why is it that the weather in Atlanta that gets very hot.|o_"_bc
 B|Huh?|br
 A|Where you live it gets very hot?|qy^d
 B|Yeah,|ny

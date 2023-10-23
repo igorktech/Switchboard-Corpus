@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|we're going to talk about the public school system, What's wrong with it, an, or if anything is wrong with it and what we can do about it, what should be done about it.|sd
 B|Okay.|b
 B|Fantastic.|ba
@@ -16,7 +16,7 @@ A|but I wouldn't want to go teach high school or junior high,|sd
 A|it just, you know, all the problems.|sd
 B|Oh, Lord, I mean, yeah,|b
 B|an, you talk about stress and pressure,|sd
-B|I tell you what,|fo_o_fw_"_by_bc
+B|I tell you what,|o_"_bc
 B|it's, uh,|%
 A|Yeah,|b
 A|they're putting in fifty, sixty hours a week,|sd
@@ -66,7 +66,7 @@ B|Right,|aa
 B|that's true.|aa
 A|and we're going to try to teach him good values, because, you know, when, when they get to upper level school and they start teaching them, well hey, if you can play football or basketball that's what's important. Not if you can read or write, or do, or understand some science. You know,|sv
 B|Exactly.|aa
-A|I mean give me a break,|fo_o_fw_"_by_bc
+A|I mean give me a break,|o_"_bc
 A|that's, that's, that's bogus.|sv
 B|Right,|aa
 B|right.|aa

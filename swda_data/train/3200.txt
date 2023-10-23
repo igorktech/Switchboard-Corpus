@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 A|I'll let you start.|sd
 A|Do you all keep a budget,|qy
 A|and how do you hold to yours?|qw
@@ -161,6 +161,6 @@ A|Well, that's, that's going to payoff on retirement.|sv
 A|Yeah.|b
 B|So.|%
 A|Well, it, uh,|%
-A|I guess we've completed,|fo_o_fw_"_by_bc
+A|I guess we've completed,|o_"_bc
 A|do you think we've been here to|qy
 B|Well, each time they used to call in and tell me their space is limited and to please, uh,|no

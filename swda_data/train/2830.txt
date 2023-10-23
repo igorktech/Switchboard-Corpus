@@ -8,7 +8,7 @@ B|he called in to get somebody on the line,|sd
 B|it took him about half an hour to find somebody.|sd
 A|That's what this was|sd
 A|yeah,|%
-A|well, let me go a head and push one|oo_co_cc
+A|well, let me go a head and push one|co_cc
 A|okay?|qy
 B|Okay.|aa
 A|Okay.|bk

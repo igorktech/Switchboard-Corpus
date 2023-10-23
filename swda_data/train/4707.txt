@@ -1,4 +1,4 @@
-B|Not very good|fo_o_fw_"_by_bc
+B|Not very good|o_"_bc
 B|it's not been a good day|sd
 A|I went, I turned mine in about twelve hours early at noon.|sd
 B|I don't know.|h
@@ -12,8 +12,8 @@ B|I just barely got  home from the university.|sd
 A|No it's,|%
 A|Say what?|br
 B|I just barely got home from the university.|sd
-A|Tell you what we can do is, uh, I can punch the, uh, one,|oo_co_cc
-A|and then after five minutes when the, uh, uh, voice comes on, we can talk all night if we want|oo_co_cc
+A|Tell you what we can do is, uh, I can punch the, uh, one,|co_cc
+A|and then after five minutes when the, uh, uh, voice comes on, we can talk all night if we want|co_cc
 B|Okay,|aa
 B|go ahead,|ad
 B|fire away.|ad

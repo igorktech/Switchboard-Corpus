@@ -1,4 +1,4 @@
-B|Okay, uh,|fo_o_fw_"_by_bc
+B|Okay, uh,|o_"_bc
 B|my favorite show is MASTERPIECE THEATRE|sd
 B|and it has been for a long time|sd
 B|but I feel almost ashamed to say that to anybody now because I have never met anybody who likes it.|sd
@@ -150,7 +150,7 @@ A|and I heard about it,|sd
 A|so I called them and asked if I could participate. And, uh, You know send in the forms et cetera and uh so forth.|sd
 B|Oh.|b
 B|Right.|b
-A|We could go back to television shows.|oo_co_cc
+A|We could go back to television shows.|co_cc
 B|Well, you know, speaking of public TV, have you caught any of this series on the Bible?|qy
 A|Yes,|ny
 A|I have.|sd

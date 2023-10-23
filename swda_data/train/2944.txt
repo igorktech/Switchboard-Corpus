@@ -117,7 +117,7 @@ B|Yeah,|b
 B|I'm not alarmed.|sd
 A|but, I guess, having done this all my life, I knew that there wasn't a problem|sd
 A|and, and it, indeed it has proved out that way,|sd
-A|but now, try to get the damn thing repealed, you know.|oo_co_cc
+A|but now, try to get the damn thing repealed, you know.|co_cc
 B|You can't,|ar
 B|yeah,|%
 B|I know, it's, um.|%

@@ -74,7 +74,7 @@ A|that's true.|aa
 B|So.|%
 A|Well.|%
 B|So anyway|%
-A|Okay, well.|fo_o_fw_"_by_bc
+A|Okay, well.|o_"_bc
 B|thank you for calling.|fc
 A|Yes,|fc
 A|thank you for participating.|fc

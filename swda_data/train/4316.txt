@@ -21,7 +21,7 @@ A|You know.|%
 B|No,|ar
 B|it's, uh, it's not Newark,|sv
 B|but, uh, yeah|sv
-B|it's got problems.|fo_o_fw_"_by_bc
+B|it's got problems.|o_"_bc
 A|Yeah,|b
 A|I wonder, I mean, I wonder what, what really is the answer.|sd
 A|I mean, it seems like our, our, the prison systems, we can't seem to decide whether or not it's a reform system or penal system.|sv

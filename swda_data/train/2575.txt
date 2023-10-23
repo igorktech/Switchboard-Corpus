@@ -10,7 +10,7 @@ B|And, uh, right now I see a lot of kids who get out of school, have no idea wha
 A|Yeah.|b
 B|And there's a lot of things out there that we could do, uh, for our own country,|sv
 A|Sure.|b
-B|let alone other countries,|fo_o_fw_"_by_bc
+B|let alone other countries,|o_"_bc
 A|Sure.|b
 B|and I think that we've got the, the people power to do it,|sv
 B|it's just, uh,|%

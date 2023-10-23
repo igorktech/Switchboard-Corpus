@@ -79,7 +79,7 @@ B|Huh.|b
 B|Yeah.|b
 B|Whatever.|^2
 A|So it seems, uh,|%
-A|no,|fo_o_fw_"_by_bc
+A|no,|o_"_bc
 A|I, I, I do not think I would change it.|sv
 A|The more I verbalize it, I, I do not think I would want to change the system.|sd
 B|Right,|b

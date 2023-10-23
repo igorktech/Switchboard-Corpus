@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 B|All right.|b
 B|Last thing I saw was, um, I think, uh, SLEEPING WITH THE ENEMY with Julia Roberts.|sd
 A|Oh, I hadn't seen that,|sd
@@ -68,7 +68,7 @@ A|they was just bad side effects.|sd
 B|Um.|%
 A|But I really enjoyed it, though.|sd
 B|Um.|%
-A|You know.|fo_o_fw_"_by_bc
+A|You know.|o_"_bc
 B|Well how about KINDERGARTEN COP?|qo
 A|Oh, yeah|b
 A|That's strictly for entertainment|sd
@@ -144,7 +144,7 @@ B|and it was like this big house had a basement,|sd
 B|and there was all these weird things going on in the basement, you know,|sd
 B|and I was scared to death of our house had a basement for years.|sd
 A|Oh, uh-huh.|b
-B|You know,|fo_o_fw_"_by_bc
+B|You know,|o_"_bc
 B|and I got a lot of really weird ideas, from that goofy movie.|sd
 A|Yes,|b
 A|yes.|b
@@ -168,8 +168,8 @@ B|But I think a lot of kids, it's funny, get the same kind of fears, like there'
 A|Yes.|aa
 A|Oh.|%
 B|Where do we get that from?|qw
-A|Yes,|fo_o_fw_"_by_bc
-A|I know, uh,|fo_o_fw_"_by_bc
+A|Yes,|o_"_bc
+A|I know, uh,|o_"_bc
 A|I have two children.|sd
 A|I really try to watch what they watch,|sd
 A|I really do, because my youngest one, he watches something, you might as well just plan on staying up all night, because you know He'll come in,|sd
@@ -248,7 +248,7 @@ A|and I thought, oh, my.|sd
 A|I don't know a thing about fishing,|^q
 A|so I'm not even going to try|^q
 A|Because when they listened to that tape they would have really had a good time,|sv
-A|believe me.|fo_o_fw_"_by_bc
+A|believe me.|o_"_bc
 B|Say, well, I know it takes a fishing pole and some bait, and some water|ad
 A|Yeah,|aa
 A|but I'm really not for sure, though, if|sd

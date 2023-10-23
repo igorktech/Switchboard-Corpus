@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 A|Do you go camping very much?|qy
 B|No,|nn
 B|I've haven't gone camping in years.|sd
@@ -302,7 +302,7 @@ B|So I'm old|sv
 A|No,|ar
 A|you're not old|sv
 A|Who is You're not old at all.|sv
-B|Well, excuse me just second.|oo_co_cc
+B|Well, excuse me just second.|co_cc
 A|Sure.|aa
 B|speaks to Honey, I'll be|t3
 B|yeah,|%

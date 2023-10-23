@@ -1,4 +1,4 @@
-A|Jeri?|fo_o_fw_"_by_bc
+A|Jeri?|o_"_bc
 B|Yes.|ny
 A|We're supposed to discuss crime in the United States and what can be done with it.|sd
 B|That's a rather, rather broad topic|sv
@@ -93,7 +93,7 @@ B|I don't know,|h
 B|it's, it really is, is frightening.|sv
 A|Yeah|b
 B|I, uh,|%
-A|Let me ask you,|oo_co_cc
+A|Let me ask you,|co_cc
 A|getting back to your son's football practice because it really sort of astonished me that police aren't doing,|sd
 A|he didn't have a license for the gun, correct?|qy
 B|I don't know.|no

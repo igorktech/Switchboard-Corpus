@@ -314,7 +314,7 @@ B|how are the other ones.|qo
 B|I haven't taken any of the exit tests.|sd
 A|See I didn't have to take any other exit test because I've been teaching for quite a while.|sd
 B|Oh, yeah,|b
-B|before they started ,|fo_o_fw_"_by_bc
+B|before they started ,|o_"_bc
 A|But I've heard they're terrible.|sd
 B|Really.|b
 A|Bilingual is just horrendous.|sd

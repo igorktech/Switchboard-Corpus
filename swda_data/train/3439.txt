@@ -1,6 +1,6 @@
 A|Laurie?|qy
 B|Yes.|ny
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 A|I'm supposed to ask you, how do you make use of your credit cards|sd
 A|and I'm supposed to compare those with my, my habits.|sd
 B|Okay.|b

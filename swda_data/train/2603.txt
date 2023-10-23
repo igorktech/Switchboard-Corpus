@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 A|Um, I guess what, I guess my task.|sd
 A|I usually ride my bike.|sd
 A|I have, uh, a stationary bike and, uh, a regular bike.|sd
@@ -209,7 +209,7 @@ B|And I love it.|sd
 A|Yeah.|b
 A|That would be really nice|sv
 B|Because I have I have never,|%
-B|let me reword that,|oo_co_cc
+B|let me reword that,|co_cc
 B|I think I have gone home maybe once or twice slightly sore.|sd
 B|But that's because of my physical condition and nothing to do what they did.|sd
 A|Uh-huh.|b

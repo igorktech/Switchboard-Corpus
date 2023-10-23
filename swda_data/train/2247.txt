@@ -1,4 +1,4 @@
-A|Okay, um,|fo_o_fw_"_by_bc
+A|Okay, um,|o_"_bc
 A|now the term personal computer, uh,|%
 A|I don't happen to have one at home. Um,|sd
 A|but I do have a personal computer on my desk here.|sd
@@ -108,7 +108,7 @@ B|But I'm not sure that it's such a massive improvement. Uh, you know,|sd
 B|once you get passed thirty-three megahertz, all help is, kind of lost in the, in the translation. Because you no longer can think that fast anyway.|sv
 A|Sure.|ba
 A|Yeah.|b
-B|Well, okay.|fo_o_fw_"_by_bc
+B|Well, okay.|o_"_bc
 B|I enjoyed our discussion.|sd
 A|I did too,|aa
 A|and you have a good day.|fc

@@ -1,5 +1,5 @@
-B|Okay.|fo_o_fw_"_by_bc
-A|like a All right.|fo_o_fw_"_by_bc
+B|Okay.|o_"_bc
+A|like a All right.|o_"_bc
 A|What have you seen?|qo
 B|The latest movie I've seen that I thought was fantastic was DANCES WITH WOLVES.|sd
 A|That's,|%
@@ -205,7 +205,7 @@ A|Maybe that's,|%
 B|No,|arp_nd
 B|I thought it was funny.|sv
 B|But, that's my sense of humor|h
-A|Well, I, I'll have to go get that one I guess.|oo_co_cc
+A|Well, I, I'll have to go get that one I guess.|co_cc
 B|It's hard to find movies that aren't terrible violent or terribly bunch of sex going on anymore.|sv
 B|And I'm just, I guess I'm just middle America or something.|sv
 B|I just go to be entertained|sd
@@ -317,7 +317,7 @@ B|Did you see any movies over there|qy
 B|I remember I went to see DON QUIXOTE over there when it came out.|sd
 B|It came out right around the time, with Sophia Loren|sd
 B|and that was a riot to see that.|sd
-A|You know something,|fo_o_fw_"_by_bc
+A|You know something,|o_"_bc
 A|I, come to think of it, I don't think I went to the movies one time.|sd
 B|Yeah.|b
 B|Cause when you're touristing, you probably don't want to take the time to go see a movie.|sv

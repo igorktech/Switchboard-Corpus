@@ -236,7 +236,7 @@ B|and as we can see.|%
 B|Well, I'm a, I'm a practicing vegetarian|sd
 B|so, uh, I've read a lot of information, knowing that to be true,|sd
 A|Yeah|b
-A|am I actually.|fo_o_fw_"_by_bc
+A|am I actually.|o_"_bc
 B|What's that?|br
 A|I, as am I.|sd
 B|Oh, are you also|qy

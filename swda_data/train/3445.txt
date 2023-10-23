@@ -1,4 +1,4 @@
-A|All right.|fo_o_fw_"_by_bc
+A|All right.|o_"_bc
 A|I think that gets us off to discussing the topic for tonight.|sv
 B|Which is movies,|^2
 B|correct?|^g

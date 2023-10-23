@@ -79,7 +79,7 @@ B|No.|nn
 A|Anyway, we both sort of agree on it, don't we about random testing.|qy
 B|Well do we agree, or unless it's not me|qy
 A|Well, listen,|h
-B|You know, here we go again, I mean|fo_o_fw_"_by_bc
+B|You know, here we go again, I mean|o_"_bc
 A|Yeah,|b
 A|yeah.|b
 B|yeah, you know|b

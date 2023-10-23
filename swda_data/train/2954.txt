@@ -1,4 +1,4 @@
-A|Okay|fo_o_fw_"_by_bc
+A|Okay|o_"_bc
 B|Have you ever, uh, organized a family reunion?|qy
 A|Uh, no|nn
 A|I have never organized one.|sd
@@ -315,8 +315,8 @@ B|Uh-huh.|b
 A|And it swimmed wherever it wanted to.|sd
 B|Yeah.|b
 B|That sounds amazing.|ba
-B|I will have to see them sometime.|oo_co_cc
-B|But, all righty.|fo_o_fw_"_by_bc
+B|I will have to see them sometime.|co_cc
+B|But, all righty.|o_"_bc
 A|Okay.|b
 A|It was nice talking to you.|fc
 B|Nice talking to you too.|fc

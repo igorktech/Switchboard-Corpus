@@ -104,7 +104,7 @@ A|That is good.|sv
 B|So,|%
 A|Deer spaghetti is real good.|sv
 B|Uh-huh|aa
-A|Anyway, uh, no,|fo_o_fw_"_by_bc
+A|Anyway, uh, no,|o_"_bc
 A|I think if I was going to have a dinner party, I'd probably have, uh, sandwiches or something along those lines and then, uh, uh, you know, just something light finger food sort of something or, Or maybe have something roasting out on the fire.|sd
 B|Uh-huh.|b
 B|Yeah,|b
@@ -114,7 +114,7 @@ B|Um.|b
 A|Usually it's, one other couple come over for a dinner.|sd
 B|Uh-huh.|b
 A|Let's see, what did we have the last time we had guests over.|t1
-A|Ah, yeah,|fo_o_fw_"_by_bc
+A|Ah, yeah,|o_"_bc
 A|we had a, uh, a turkey loaf.|sd
 B|Oh.|b
 A|Which, uh, kind of taco turkey loaf.|sd

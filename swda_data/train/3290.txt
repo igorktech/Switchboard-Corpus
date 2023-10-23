@@ -131,7 +131,7 @@ A|Uh-huh,|b
 A|uh-huh.|b
 B|And it's the men that make the rules|sv
 A|Uh, well, then you, you, you know why they make them then that way.|sv
-B|But, no,|fo_o_fw_"_by_bc
+B|But, no,|o_"_bc
 B|we usually, you know,|%
 B|skirt and, skirt and blouse or suit or dress is what you see down here.|sd
 A|Uh-huh,|b

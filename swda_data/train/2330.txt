@@ -1,4 +1,4 @@
-A|There we go.|fo_o_fw_"_by_bc
+A|There we go.|o_"_bc
 B|Yeah.|b
 B|Well, uh, I think the weather lately has been a bit warmer than I would expect this time of year.|sv
 A|I think that's true.|aa
@@ -93,7 +93,7 @@ B|Yeah, well.|aa
 A|Not too challenging to the brain.|sv
 B|Not, not a real in depth topic, but enjoyed talking to you.|sv
 A|Nope.|aa
-A|All right, Ellen,|fo_o_fw_"_by_bc
+A|All right, Ellen,|o_"_bc
 A|well you have a good day.|fc
 B|Okay.|fc
 A|Bye.|fc

@@ -1,4 +1,4 @@
-A|Well, the thing is, is that I, um,|fo_o_fw_"_by_bc
+A|Well, the thing is, is that I, um,|o_"_bc
 A|since I'm in school I don't, like, basically have a monthly budget because I'm living off my dad,|sd
 A|but the thing is, is that, um, I have to keep it under control because, for example, you know, it's like the, the beginning of the semester when you go to pay for everything, everything is pretty rough,|sd
 A|but he controls that part|sd
@@ -88,7 +88,7 @@ A|Well, I can, I can work up, um, here up to a year.|sd
 B|And?|qo
 A|And hopefully get a job after that.|sd
 B|You want to get into some kind of manufacturing,|qy
-B|or what's the specialty that your looking for?|fo_o_fw_"_by_bc
+B|or what's the specialty that your looking for?|o_"_bc
 A|Um, computer communications and data transmissions.|sd
 B|Oh, okay,|bk
 B|so you want to find a, uh, data transmissions,|qy^d

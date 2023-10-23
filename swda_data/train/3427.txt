@@ -15,7 +15,7 @@ B|It's, um,|%
 B|I've had one problem with it after the other.|sd
 A|I'll be darned.|ba
 B|The the paints peeling off of it, or find them road dead.|sd
-A|Well, you know the old sayings about Fords, what they stand for.|fo_o_fw_"_by_bc
+A|Well, you know the old sayings about Fords, what they stand for.|o_"_bc
 A|There you go.|aa
 A|Well, uh.|%
 B|That, uh,|%

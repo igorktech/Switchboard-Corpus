@@ -75,7 +75,7 @@ A|and, that's a bad word|sv
 B|Oh, taxes Lord Lord forbid, taxes.|aa
 B|Goodness gracious, if we would, uh, plan our expressways a little better, that ten dollars for the bridges and the roads, we'd cut that in half and get some teachers we might have us a problem|sv
 A|There's an idea.|aa
-B|Maybe I should run for office, huh?|oo_co_cc
+B|Maybe I should run for office, huh?|co_cc
 A|Run on that then, no income taxes in Texas, huh?|qh
 B|That's true.|aa
 A|I'm in Texas too,|sd
@@ -85,8 +85,8 @@ B|that's funny.|ba
 B|Well, that's about all I have here.|sd
 A|Well me, too,|sd
 A|I, uh, I think we both agree there's some problems there|sv
-A|but, we'll, maybe do our small part to fix them up.|oo_co_cc
-B|ma'am.|fo_o_fw_"_by_bc
+A|but, we'll, maybe do our small part to fix them up.|co_cc
+B|ma'am.|o_"_bc
 B|Surely.|aa
 B|I've enjoyed it.|sd
 A|All right,|fc

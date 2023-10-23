@@ -1,5 +1,5 @@
 B|Hi|fp
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 A|Do you work with a company that, uh, gives drug testing|qy
 B|Sort of.|na
 B|I'm a, I'm a student|sd
@@ -119,7 +119,7 @@ A|see now that  that would be really unfair then, huh?|qy
 B|I've heard of, I've heard of that,|sd
 B|yeah.|%
 B|Yeah.|ny
-A|You know.|fo_o_fw_"_by_bc
+A|You know.|o_"_bc
 B|I believe you should have the testing|sv
 B|but they should be, like, if you get, if you get a positive, they should double check you and still give you the benefit of a doubt.|sv
 A|Yeah.|aa

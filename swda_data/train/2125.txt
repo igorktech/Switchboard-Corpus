@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|uh, you want to start by telling me what camping is to you.|ad
 A|Do you backpack or hike|qy
 A|or,|%

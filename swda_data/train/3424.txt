@@ -1,4 +1,4 @@
-A|Okay, um,|fo_o_fw_"_by_bc
+A|Okay, um,|o_"_bc
 A|do you participate in family reunions?|qy
 B|I did for years.|na
 B|I don't have enough family left to have them.|sd

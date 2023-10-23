@@ -1,4 +1,4 @@
-A|So, P C personal computers.|fo_o_fw_"_by_bc
+A|So, P C personal computers.|o_"_bc
 A|Do you have a personal computer?|qy
 B|No|nn
 B|I don't, not at home.|sd

@@ -187,7 +187,7 @@ A|So anyway, they can't bill you any higher than eighteen percent, I think, in, 
 A|But there, there are a couple of states that can.|sd
 B|Oh, that's great.|ba
 A|And one to watch out for is anybody that bills you out of Atlanta, Atlanta, Georgia.|sd
-B|I'll try to remember that one.|oo_co_cc
+B|I'll try to remember that one.|co_cc
 A|Well,|%
 B|Well, let's see.|^h
 B|I was trying to think if there was anything else|^h

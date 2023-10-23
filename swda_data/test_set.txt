@@ -1,4 +1,4 @@
-A|Okay, uh,|fo_o_fw_"_by_bc
+A|Okay, uh,|o_"_bc
 A|could you tell me what you think contributes most to, uh, air pollution?|qw
 B|Well, it's hard to say.|^h
 B|I mean, while it's certainly the case that things like automobiles and factories, uh, pollute a lot, uh, if you look at how much pollution is say kicked up by an active volcano, uh, it's certainly less than clear that anything man can do in this sort of scale of things has much effect at all.|sv
@@ -115,7 +115,7 @@ A|Um, you kind of think it's something else then?|qy
 B|Well, that's what the environmentalists were claiming in this article.|arp_nd
 B|So that,|%
 A|Oh, they didn't say, they didn't say what though,|bf
-A|they just said they thought it was,|fo_o_fw_"_by_bc
+A|they just said they thought it was,|o_"_bc
 B|They didn't say what,|na
 B|they just said they thought acid rain's contribution may be less than was previously suspected. Um, that it may be other natural things at work. Um,|sd
 A|Uh, natural disease,|bf
@@ -179,7 +179,7 @@ B|Yeah,|b
 B|sure.|b
 A|So that's helping.|sv
 B|Well, what do you think about like a device, a meter right on a tail pipe|qw
-B|and you pay the tax based on how much you polluted?|fo_o_fw_"_by_bc
+B|and you pay the tax based on how much you polluted?|o_"_bc
 A|Now that's an idea.|ba
 A|don't say that too loud though because, uh, every city and town will have a meter on your tail pipe generating generating revenue,|ad
 B|Well, it just means if you don't pollute, right, or you pollute very little you don't have to pay any tax|sd
@@ -474,7 +474,7 @@ B|I've, I've never seen a Gene Autry movie,|sd
 A|had a real raspy voice,|sd
 B|Huh.|%
 A|and, uh,|%
-B|No,|fo_o_fw_"_by_bc
+B|No,|o_"_bc
 B|I never have|sd
 A|some of those old ones, of course, Bob Wills, Miss Texas Playboys Ernest Tubbs and Red Foley an,|sd
 B|Yeah.|b
@@ -564,7 +564,7 @@ B|do you, can you recall.|qy
 A|Uh, uh, seems like it was on a Friday,|sv
 B|Uh.|%
 A|Friday or,|%
-B|Okay.|fo_o_fw_"_by_bc
+B|Okay.|o_"_bc
 A|Okay.|b^m
 B|Well what do you think about the idea of, uh, kids having to do public service work for a year?|qw
 B|Do you think it's a|qy
@@ -1416,7 +1416,7 @@ B|Yeah.|b
 A|So many times, I mean, you had the, uh, the coal miners and steel workers going out at the same time.|sd
 A|And, well, that took care of that industry|sv
 B|That's right.|aa
-A|and, and, then, and I'll tell you,|fo_o_fw_"_by_bc
+A|and, and, then, and I'll tell you,|o_"_bc
 A|Detroit worked awfully hard on, on stopping car manufacturing in this country.|sv
 B|And they're trying to do that now with the imports.|sv
 A|Yeah,|b
@@ -1450,7 +1450,7 @@ A|Uh-huh.|aa
 B|And that's a great idea.|sv
 A|I think they ought to take them and, I don't know, just have sort of like a, a, a manpower pool and say Okay, look,|sd
 A|we need somebody ...|^q
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|we're going to talk about the public school system, What's wrong with it, an, or if anything is wrong with it and what we can do about it, what should be done about it.|sd
 B|Okay.|b
 B|Fantastic.|ba
@@ -1468,7 +1468,7 @@ A|but I wouldn't want to go teach high school or junior high,|sd
 A|it just, you know, all the problems.|sd
 B|Oh, Lord, I mean, yeah,|b
 B|an, you talk about stress and pressure,|sd
-B|I tell you what,|fo_o_fw_"_by_bc
+B|I tell you what,|o_"_bc
 B|it's, uh,|%
 A|Yeah,|b
 A|they're putting in fifty, sixty hours a week,|sd
@@ -1518,7 +1518,7 @@ B|Right,|aa
 B|that's true.|aa
 A|and we're going to try to teach him good values, because, you know, when, when they get to upper level school and they start teaching them, well hey, if you can play football or basketball that's what's important. Not if you can read or write, or do, or understand some science. You know,|sv
 B|Exactly.|aa
-A|I mean give me a break,|fo_o_fw_"_by_bc
+A|I mean give me a break,|o_"_bc
 A|that's, that's, that's bogus.|sv
 B|Right,|aa
 B|right.|aa
@@ -2091,7 +2091,7 @@ A|All right.|fc
 A|Take care.|fc
 B|Bye.|fc
 A|Bye.|fc
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 A|Uh, far as, you know, crime in the cities, I'm sure, like in yours it's pretty, pretty bad.|sv
 A|Uh, probably the biggest thing we've got going now is the robberies|sv
 A|and theft and probably murder are the two top ones that we have.|sv
@@ -2316,7 +2316,7 @@ A|I know like in my wife's case, they made her feel like the criminal.|sd
 B|I know,|aa
 B|and I think, I think that's ridiculous.|sv
 A|They, they went to all, all ...|%
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|have you painted something lately?|qy
 B|Yes,|ny
 B|I have.|sd
@@ -2988,8 +2988,8 @@ A|take care.|fc
 B|All right,|fc
 B|bye.|fc
 A|Bye-bye.|fc
-B|Okay,|fo_o_fw_"_by_bc
-B|well yes,|fo_o_fw_"_by_bc
+B|Okay,|o_"_bc
+B|well yes,|o_"_bc
 B|we do have pollution in Houston|sd
 B|and it,|%
 A|How bad is it?|qw
@@ -3348,7 +3348,7 @@ A|Yeah,|b
 A|that,|%
 A|it's a sad story|sv
 A|but,|%
-B|Intentions, intentions|fo_o_fw_"_by_bc
+B|Intentions, intentions|o_"_bc
 A|Yes,|aa
 A|yes,|aa
 A|but it, uh, it is a problem.|sv
@@ -3635,7 +3635,7 @@ A|Okay,|fc
 A|well thanks for talking.|fc
 B|Okay, bye.|fc
 A|Bye-bye now.|fc
-A|Night,|fo_o_fw_"_by_bc
+A|Night,|o_"_bc
 B|Fine,|fp
 B|thank you.|ft
 A|I understand we're supposed to talk about spaceflight.|sd

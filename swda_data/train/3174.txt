@@ -44,7 +44,7 @@ A|Oh, and, of course they can also cause injury to other people.|sd
 B|Uh-huh.|b
 A|If they're, if they're not, uh, you know, fully functional mentally while they're doing their job. They could cause  you know, serious injury to   another people.|sd
 B|Right,|aa
-B|and you never know|fo_o_fw_"_by_bc
+B|and you never know|o_"_bc
 B|they could just go off the deep end   on, on a, on something  uh, that whatever  they're taking at the time|sv
 A|Uh-huh.|b
 A|Uh-huh.|b
@@ -126,6 +126,6 @@ B|or maybe it's under a health type program that it it, it would catch a lot of 
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|I, I just can't imagine  them screening all these employees, paying a thousand dollars to get them.|sd
-A|But, no|fo_o_fw_"_by_bc
+A|But, no|o_"_bc
 A|for all the, the|sd
 A|Oh, it's,|%

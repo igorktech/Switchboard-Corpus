@@ -59,7 +59,7 @@ B|Oh, I didn't know that.|sd
 A|So that's, that's a big safety factor they've got in them now.|sd
 B|Yeah,|b
 B|and I suppose they all have the balloons.|sd
-A|The air bags,|fo_o_fw_"_by_bc
+A|The air bags,|o_"_bc
 A|yeah.|b
 B|The air bags,|b^m
 B|yeah.|b

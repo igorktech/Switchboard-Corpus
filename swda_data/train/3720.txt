@@ -1,5 +1,5 @@
-A|Okay,|fo_o_fw_"_by_bc
-A|yeah,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
+A|yeah,|o_"_bc
 A|Donna, um, you said you have three children.|bf
 A|What, uh, kinds of activities do you spend with them?|qw
 A|Is it ?|qy

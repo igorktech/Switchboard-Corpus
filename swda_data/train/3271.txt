@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 A|What kind of pet do you have, Gail?|qw
 B|Well, I don't.|arp_nd
 B|I have children|sd
@@ -137,7 +137,7 @@ A|and, and again going through that because our, our animals are almost like our
 A|and, and you grieve just as much over them when they go you know, as you would a child.|sd
 B|Uh-huh.|b
 A|And, and, you know, our son and, and his wife and our daughter and her husband and the grandkids all say, get a dog, get a dog, you know.|sd
-A|Little thing.|fo_o_fw_"_by_bc
-A|Be quiet,|fo_o_fw_"_by_bc
-A|be quiet.|fo_o_fw_"_by_bc
+A|Little thing.|o_"_bc
+A|Be quiet,|o_"_bc
+A|be quiet.|o_"_bc
 A|And I can tell my husband, you know, deep down he, you know, he|sd

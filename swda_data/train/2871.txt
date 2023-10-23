@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 B|Well let's start with you|ad
 A|Okay, um,|aa
 A|the last movie I saw was the FIVE HEARTBEATS|sd
@@ -64,11 +64,11 @@ B|Yeah|b
 B|and, uh,|%
 A|Yeah,|b
 A|I didn't get to see that.|sd
-B|DEFENDING YOUR LIFE.|fo_o_fw_"_by_bc
+B|DEFENDING YOUR LIFE.|o_"_bc
 A|Yeah,|b
 A|that's it,|sd
 A|okay.|b
-B|DEFENDING YOUR LIFE,|fo_o_fw_"_by_bc
+B|DEFENDING YOUR LIFE,|o_"_bc
 B|and it's, it's an excellent movie, uh,|sd
 A|Uh-huh.|b
 B|it's pretty entertaining, uh.|sd

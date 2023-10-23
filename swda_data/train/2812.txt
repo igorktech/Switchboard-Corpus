@@ -1,4 +1,4 @@
-B|Women?|fo_o_fw_"_by_bc
+B|Women?|o_"_bc
 A|Yeah,|ny
 A|the changing roles of women, how roles changed|sd
 A|and what do you see coming in the future.|sd
@@ -19,9 +19,9 @@ A|I can't believe I did that.|sd
 A|Okay,|^h
 A|hold on.|ad
 B|That's okay.|aa
-A|Okay, um,|fo_o_fw_"_by_bc
+A|Okay, um,|o_"_bc
 A|I.|%
-B|Okay,|fo_o_fw_"_by_bc
+B|Okay,|o_"_bc
 B|um, I don't know,|h
 B|are you in your thirties,|qy
 B|or,|%

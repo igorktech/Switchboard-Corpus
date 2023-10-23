@@ -48,7 +48,7 @@ B|Yeah,|b
 A|Yeah.|b
 A|Right.|b
 B|And, uh, anybody who, uh, gee, is, you know, doesn't accept the rehab program then they're, more or less, getting laid off.|sd
-A|See, that's hard.|fo_o_fw_"_by_bc
+A|See, that's hard.|by
 B|that's a,|%
 B|it's really weird issue.|sv
 B|I'm sort of  on the fence about it.|sv

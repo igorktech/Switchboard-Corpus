@@ -1,4 +1,4 @@
-A|Yes,|fo_o_fw_"_by_bc
+A|Yes,|o_"_bc
 A|what, what major changes have affected your life?|qw
 B|Well, I think that, uh, women, women working is the one that really affects me most strongly right now.|sd
 B|Um,|%

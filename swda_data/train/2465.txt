@@ -119,7 +119,7 @@ A|And those are really handy,|sd
 A|I mean, we, they, they have modems in them, you can send a fax from your P C,|sd
 B|Oh, how nice,|ba
 A|but they're, they're really,|%
-B|no,|fo_o_fw_"_by_bc
+B|no,|o_"_bc
 B|he doesn't have one of those,|sd
 B|so.|%
 A|What's that?|br

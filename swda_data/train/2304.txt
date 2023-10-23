@@ -1,5 +1,5 @@
-B|All right.|fo_o_fw_"_by_bc
-A|All right.|fo_o_fw_"_by_bc
+B|All right.|o_"_bc
+A|All right.|o_"_bc
 A|What are some of your favorite foods?|qw
 B|Mine, well,|%
 A|I imagine in Argentina you've got some great foods.|sv
@@ -111,7 +111,7 @@ A|This was around the turn of the century. Actually, actually a little bit later
 B|Yeah,|b
 B|yeah.|b
 B|At one point, one third of the population of Argentina was Italian. Like pure Italians.|sd
-A|well, I'll tell you,|fo_o_fw_"_by_bc
+A|well, I'll tell you,|o_"_bc
 A|it's interesting, because when we cook here,|%
 A|I'm of Italian descent.|sd
 A|My husband is Chinese.|sd

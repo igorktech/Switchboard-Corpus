@@ -41,7 +41,7 @@ A|you can always tell whenever they're cooked if they've been dead for a long ti
 B|Uh-huh.|b
 A|And you're not supposed to eat those because they're bad for you.|sd
 B|Okay.|b
-B|Well, I'll remember that.|oo_co_cc
+B|Well, I'll remember that.|co_cc
 A|Yeah,|b
 A|so if you ever go in a restaurant, order crawfish,|ad
 A|I mean, every once in a while you'll see|sd
@@ -65,7 +65,7 @@ B|Sure.|b
 A|you know, we'd just have crawfish and beer or something|sd
 A|but, um, if it was more formal like if I was, you know, working environment then I would probably, um, shell 'em or at least disconnect them from the head|sd
 A|But there's a, There's a, big thing over here that everybody sucks the head.|sd
-B|Still have see that. *slash error Ooh *slash error should be 'ba'|fo_o_fw_"_by_bc
+B|Still have see that. *slash error Ooh *slash error should be 'ba'|o_"_bc
 A|So, um it, it would just depend.|sd
 A|That's the best part of the crawfish.|sv
 A|Sucking the head|sv
@@ -231,5 +231,5 @@ A|Oh|b
 A|yes|b
 A|you need to try em|ad
 A|Oh they're wonderful.|sv
-B|Oh I will|oo_co_cc
+B|Oh I will|co_cc
 B|I'm sure my husband will be surprised, 'cause we were talking about them the other day before|sd

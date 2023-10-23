@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|well I guess I enjoy eating out, um, uh, here and there,|sd
 A|or it's, it's a good change and, a good change from cooking and eating at home|sd
 A|and I guess I like a variety of, a variety of restaurants.|sd
@@ -32,7 +32,7 @@ B|so, uh, we tend to, like to try all sorts of different things.|sd
 B|And, uh, we're very attracted to exotic food.|sd
 A|Uh-huh.|b
 B|And, uh, we like Indian food, and Thai cuisine and, uh, sort of gourmet Mexican and, uh, things like that, as well as Tex-Mex and Italian and, uh, Chinese and things, and, and things of that sort.|sd
-B|Now, yes,|fo_o_fw_"_by_bc
+B|Now, yes,|o_"_bc
 B|of course, we like to occasionally go out and get down and dirty with barbecue or hamburgers or something like that, too.|sd
 A|Right.|b
 B|And, uh, we probably go out one to two times a week.|sd
@@ -163,7 +163,7 @@ B|But, you know, just, it's just not,|sd
 B|I don't know people who hunt|sd
 B|so|%
 B|uh|%
-A|No.|fo_o_fw_"_by_bc
+A|No.|o_"_bc
 B|That's, that's supposed to be a wonderful place.|sd
 B|uh, uh, uh, here in Plano, well, we tend to go to Momo's a, fairly often.|sd
 B|And, uh, sometimes we'll go, you know,|sd

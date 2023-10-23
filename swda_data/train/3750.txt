@@ -1,5 +1,5 @@
-B|Yeah.|fo_o_fw_"_by_bc
-A|Okay,|fo_o_fw_"_by_bc
+B|Yeah.|o_"_bc
+A|Okay,|o_"_bc
 A|so you enjoy camping?|qy
 B|Oh, yeah.|ny
 A|Yeah.|b

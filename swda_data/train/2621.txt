@@ -34,7 +34,7 @@ B|Uh-huh.|b
 B|Well what about the Houston Oilers.|qo
 B|Do you like them?|qy
 A|Yeah,|ny
-A|okay,|fo_o_fw_"_by_bc
+A|okay,|o_"_bc
 A|I'd love to see Dallas and Houston play in a Super Bowl.|sd
 A|That would be really great.|sv
 B|Uh-huh.|b

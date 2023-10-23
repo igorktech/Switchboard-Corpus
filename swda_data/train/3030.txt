@@ -14,7 +14,7 @@ A|and I mean all guys, I think, like to barbecue.|sv
 A|I think it's caveman,|sv
 B|Right,|b
 B|right.|b
-A|I'm telling you,|fo_o_fw_"_by_bc
+A|I'm telling you,|o_"_bc
 A|but, um, he really does cook|sd
 A|and it's a good thing because, you know, you can't, you can't knock that.|sv
 B|No.|aa

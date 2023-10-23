@@ -58,7 +58,7 @@ A|but it's fun.|sd
 B|I've never even tried that.|sd
 B|My,|%
 B|if I don't have a reel with a button on it, I tend to get so much backlash, it's not worth the trouble|sd
-A|Well, let me explain fly, fly fishing to you then.|oo_co_cc
+A|Well, let me explain fly, fly fishing to you then.|co_cc
 A|You're not casting a weight on the end of the line?|qy^d
 B|Uh-huh.|ny
 A|You're casting the weight of the line.|qy

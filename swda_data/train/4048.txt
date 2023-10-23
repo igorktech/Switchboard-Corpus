@@ -1,5 +1,5 @@
-B|pretty good,|fo_o_fw_"_by_bc
-B|pretty good.|fo_o_fw_"_by_bc
+B|pretty good,|o_"_bc
+B|pretty good.|o_"_bc
 B|So we're talking about drug testing in the work place, huh. *listen|qy
 A|Drug testing in the work place.|b^m
 A|Um. I've been tested a few times, just before drug employment.|sd

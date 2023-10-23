@@ -24,7 +24,7 @@ B|I wonder if I could possibly take it on call waiting.|sd
 B|Could I ask you to hold one minute?|ad
 A|Uh-huh.|aa
 B|I'll be right back.|sd
-B|Excuse me,  just a moment.|oo_co_cc
+B|Excuse me,  just a moment.|co_cc
 B|They're going to get mad|sd
 A|whispers to someone in the She had another call.|t3
 A|She has just three kids, eleven, nine, and eight.|t3

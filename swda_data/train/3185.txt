@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|how's the weather been in Plano?|qw
 B|Basically about the same as what you've probably had.|sd
 A|Yeah,|b

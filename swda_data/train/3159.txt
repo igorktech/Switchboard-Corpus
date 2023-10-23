@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|do you subscribe to magazines yourself?|qy
 B|I don't, uh, subscribe to any magazines at home, because we get so many at work that, uh, I need to read that, uh, I just don't take any at home.|sd
 A|Oh, I see.|bk

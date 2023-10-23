@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|so what kind of movies have you seen, lately, I guess?|qw
 B|Um, a lot,|%
 B|well, the last movie I saw, but it wasn't my choice, was the NINJA TURTLE movie|sd
@@ -259,7 +259,7 @@ A|they,|%
 A|somebody made an interesting observation,|sd
 A|now that I think back on it, I'd say yeah, I can't believe that either.|sd
 A|She was the only indian to have her hair done at all times.|sd
-A|You know what I mean, you know.|fo_o_fw_"_by_bc
+A|You know what I mean, you know.|o_"_bc
 A|It was just too perfect at all times.|sd
 B|Yeah.|b
 A|That was a mistake that they made.|sv

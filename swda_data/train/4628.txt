@@ -1,7 +1,7 @@
 A|what sort of company do you work for?|qw
 A|Do you work for a big or a little place?|qy
 B|Uh, I work for Georgia Tech.|sd
-B|Yes sir.|fo_o_fw_"_by_bc
+B|Yes sir.|o_"_bc
 B|I work for the research facility.|sd
 B|Uh, and it's, it's kind of small in a sense|sd
 B|but it, it does have, about, uh, I guess, two thousand civil employees.|sd

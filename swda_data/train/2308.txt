@@ -153,7 +153,7 @@ A|they don't feed them the old people food, the chicken and biscuits, and things
 A|That's, that's the thing my grandmother really misses, I mean, really growls about.|sd
 B|Yeah,|b
 B|my mother has made similar statements, that she doesn't want to become a burden to the family.|sd
-B|You know, Just put me out to pasture, or shoot me, or something, you know.|oo_co_cc
+B|You know, Just put me out to pasture, or shoot me, or something, you know.|oo
 B|are the lines that come from her.|sd
 B|And, uh and I tell her, you know, No problem, Mom, always got a place for you.|sd
 A|Oh.|b

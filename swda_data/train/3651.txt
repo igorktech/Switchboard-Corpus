@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|I guess tonight's subject is, uh, woodworking.|sd
 B|What  kind of woodworking do you do?|qw
 A|Do you, uh,|qy
@@ -17,7 +17,7 @@ B|and I'm, I'm very good at making book shelves.|sd
 A|Uh-huh.|b
 B|It's, it's also a way of relieving stress.|sv
 B|My wife kind of laughs, at me that anytime I get stressed out I just go out in the garage and we've got more book shelves.|sd
-A|Well, I'll have to come and see them|oo_co_cc
+A|Well, I'll have to come and see them|co_cc
 A|That sounds like a good idea.|sv
 A|I, you know,|%
 A|and that's, that is right,|sv

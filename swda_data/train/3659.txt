@@ -1,4 +1,4 @@
-A|Set.|fo_o_fw_"_by_bc
+A|Set.|o_"_bc
 B|Okay.|b
 A|You, you got the topic, right?|qy
 B|Yeah.|ny
@@ -121,7 +121,7 @@ B|and you can't take newspapers.|sd
 B|Now at work, uh, you know, we have changed our recycling.|sd
 B|At first they were kind of finicky about what kind of paper you could recycle.|sd
 B|And not too long ago they finally decided if it's anything that's paper and tears, you can throw it in there because at first they said,|sd
-A|Let me guess|oo_co_cc
+A|Let me guess|co_cc
 A|you work at T I,|sd
 A|right?|^g
 B|Yeah,|ny

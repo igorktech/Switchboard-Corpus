@@ -197,7 +197,7 @@ A|Well, that's just it though, good education.|sd
 B|Uh-huh.|b
 A|Is it good education?|qh
 A|It may be free but is it good education|qh
-A|and that's just it|fo_o_fw_"_by_bc
+A|and that's just it|o_"_bc
 A|are we willing to pay for it, you know,|qh
 B|Yeah.|b
 B|Uh-huh. Uh-huh. *b|b

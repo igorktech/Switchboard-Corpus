@@ -143,7 +143,7 @@ A|Uh-huh.|b
 B|I think it was like five of them or something|sd
 A|Uh-huh.|b
 B|was, was it five,|qy
-B|or.|fo_o_fw_"_by_bc
+B|or.|o_"_bc
 A|Yeah,|ny
 A|something like that,|sd
 A|it was last, last, last year wasn't it.|qy

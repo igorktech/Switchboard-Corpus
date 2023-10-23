@@ -1,4 +1,4 @@
-A|Dave.|fo_o_fw_"_by_bc
+A|Dave.|o_"_bc
 A|What kind of pets do you have?|qw
 B|Oh, we have one rotten cat.|sd
 A|One rotten cat|b^m

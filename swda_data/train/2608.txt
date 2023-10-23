@@ -1,7 +1,7 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 B|Do you want to go first?|qy
-A|You can go first,|oo_co_cc
-A|or I will.|oo_co_cc
+A|You can go first,|oo
+A|or I will.|oo
 B|Well, you go ahead.|ad
 A|Okay.|aa
 A|Well, I'm going to tell you what I'd have|sd

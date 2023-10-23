@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 A|Uh, I really haven't thought about the topic of drug testing.|sd
 A|But, uh, just off the top of my head, I, I don't think I see much wrong with it.|sv
 A|Um, if I owned a company and I wanted to make sure that it was run smoothly and that the people that I had, uh, coming in, uh, were trust worthy, et cetera, and so on, I think I would, I would, uh, probably do the random testing just to insure that my company, uh, runs safely and smoothly.|sv
@@ -196,7 +196,7 @@ A|Huh-uh.|b
 A|Really,|aa
 A|really.|aa
 B|So I think that's real good.|sv
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 A|It was very nice talking to you.|fc
 B|Nice talking to you to.|fc
 A|Okay.|fc

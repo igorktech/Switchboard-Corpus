@@ -1,11 +1,11 @@
-A|All right,|fo_o_fw_"_by_bc
+A|All right,|o_"_bc
 A|Amy, how are you doing today?|fp
 B|Fine,|fp
 B|fine.|fp
 A|All right,|b
 A|I think we know what we're going to speak about.|sd
 B|Yeah.|b
-A|Uh, I tell you what, I'll start off.|oo_co_cc
+A|Uh, I tell you what, I'll start off.|co_cc
 A|How's that?|qw
 B|Okay,|aa
 B|you go ahead.|ad
@@ -104,7 +104,7 @@ B|It almost should be the first twelve people that they, you know, have on a lis
 B|and that's it.|sv
 A|Yeah,|aa
 A|I get back to Price's comment when he, uh, was found guilty he said well he didn't have any blacks, uh, you know, from his neck of the woods.|sd
-A|Well give me a break, you know.|fo_o_fw_"_by_bc
+A|Well give me a break, you know.|o_"_bc
 B|He'd have to have his whole family up there for him to feel like he's got his peers or something,|sv
 B|yeah.|%
 A|Exactly,|aa
@@ -137,7 +137,7 @@ B|Oh yeah,|aa
 B|I've got the dog and two kids waiting here,|sd
 B|I'm just locked up in the laundry room|sd
 A|Oh goodness,|ba
-A|well, I'll let you get,|oo_co_cc
+A|well, I'll let you get,|co_cc
 B|Okay,|aa
 B|thanks a lot.|ft
 B|Bye-bye.|fc

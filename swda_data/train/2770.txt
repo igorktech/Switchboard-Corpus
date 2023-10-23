@@ -25,7 +25,7 @@ B|I'm going to get another one as soon as I get back in town.|sd
 B|I'm going out of town this weekend,|sd
 B|when I get back I'm going to find a cat.|sd
 B|So,|%
-A|Oh, I'm so sorry.|fo_o_fw_"_by_bc
+A|Oh, I'm so sorry.|by
 A|But that's good that you're going to get another one.|sv
 B|Yeah.|b
 A|I know some of my friends who have pets, uh,|sd

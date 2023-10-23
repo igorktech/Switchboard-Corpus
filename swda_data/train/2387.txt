@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|what types of music do you like to listen to?|qw
 B|Well, I primarily listen to classical music when I have my druthers, partly because I find it more soothing.|sd
 B|I don't know a lot about classical music so far as, uh, any background in music,|sd

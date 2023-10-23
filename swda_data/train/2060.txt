@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 B|The topic is to discuss the, uh, sources where I receive news.|sd
 A|Uh-huh.|b
 B|And, uh, for me that's mostly newspaper and radio,|sd
@@ -75,7 +75,7 @@ A|but I don't, I don't read newspapers|sd
 B|Don't you?|qy
 A|Huh-uh.|nn
 B|How come?|qw
-A|Uh-huh.|fo_o_fw_"_by_bc
+A|Uh-huh.|o_"_bc
 A|I find it hard to, uh, follow from one page to another.|sd
 A|It's just something I have never developed, uh, an interest in.|sd
 B|Huh.|%

@@ -112,7 +112,7 @@ A|I know,|b
 A|I think one of the places I always hit in Colorado, is that current outlet store.|sd
 B|Yeah|b
 A|That's what,|br
-B|you should mention that,|fo_o_fw_"_by_bc
+B|you should mention that,|o_"_bc
 B|I just got my catalog this morning and was looking through it.|sd
 A|Oh, with the Santa Claus on the cover.|qy^d
 B|Uh-huh.|ny

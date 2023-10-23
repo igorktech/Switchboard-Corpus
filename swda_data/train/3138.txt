@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|I guess we're going to discuss food and cooking.|sd
 B|Alright|aa
 A|Do you enjoy cooking?|qy
@@ -86,7 +86,7 @@ B|I don't see how you eat that,|sd
 B|but|%
 A|I don't either|sd
 A|But, uh,|%
-A|no|fo_o_fw_"_by_bc
+A|no|o_"_bc
 A|this is just it is really good|sd
 A|and, and one thing that's good is it makes the, a large amount.|sd
 A|And so I've, usually we eat one|sd
@@ -212,7 +212,7 @@ A|and it's only, it used to be like a hundred calories per tablespoon|sd
 A|and now it's like twelve.|sd
 B|Yeah.|b
 A|Oh!|ba
-B|I know.|fo_o_fw_"_by_bc
+B|I know.|o_"_bc
 A|I just think that's the best thing to have happened,|sv
 A|I'm just so excited about that.|sd
 A|Anyway  Yeah.|b

@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|Jay, where do you live in Texas?|qw
 B|I live in Dallas,|sd
 A|In Dallas.|b^m

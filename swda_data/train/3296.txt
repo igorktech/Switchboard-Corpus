@@ -1,4 +1,4 @@
-A|Now we're ready.|fo_o_fw_"_by_bc
+A|Now we're ready.|o_"_bc
 A|Do you have a personal computer?|qy
 B|We have one.|na
 A|You do, in your home?|qy

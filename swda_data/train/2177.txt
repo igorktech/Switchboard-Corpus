@@ -41,7 +41,7 @@ B|oh|ba
 A|And he got him to run like he was running down the kid by luring him with oreo cookies|sd
 B|Hey,|ba
 B|that'd work for me,|ba
-B|let me tell you|oo_co_cc
+B|let me tell you|co_cc
 A|I thought that was really funny.|sd
 B|Uh-huh,|b
 B|uh-huh.|b

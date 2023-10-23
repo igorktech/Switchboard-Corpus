@@ -1,4 +1,4 @@
-B|Okay|fo_o_fw_"_by_bc
+B|Okay|o_"_bc
 B|what kind of  foods would you have?|qw
 A|Okay.|b
 A|Um, well, I like to cook, um|sd
@@ -122,7 +122,7 @@ A|Uh-huh.|b
 A|Yeah.|b
 B|And then just bake it,|sd
 B|and it makes a wonderful sauce over the rice.|sd
-A|Well, I'll keep that one in mind.|oo_co_cc
+A|Well, I'll keep that one in mind.|co_cc
 B|Yeah|b
 A|Yeah.|b
 B|It's, that was one of the first things I made for my husband, because I was like, um,|sd

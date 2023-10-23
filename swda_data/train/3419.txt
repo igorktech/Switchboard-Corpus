@@ -52,7 +52,7 @@ A|Especially with butter and honey on them|sv
 B|Uh-huh,|b
 B|uh-huh.|b
 B|Oh, I know,|aa
-B|I tell, I tell you what.|fo_o_fw_"_by_bc
+B|I tell, I tell you what.|o_"_bc
 B|They are, they just, um, they're excellent, uh, excellent food.|sv
 B|I wish I could make them here at home.|sd
 A|Yes,|aa

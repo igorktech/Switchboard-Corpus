@@ -1,9 +1,9 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|do you have|qy
 B|Are you there?|qy
 A|Yeah.|ny
 B|Okay|bk
-A|There, okay.|fo_o_fw_"_by_bc
+A|There, okay.|o_"_bc
 B|Okay.|b
 A|Had to mess with my phone here.|sd
 A|Um, do you have children?|qy

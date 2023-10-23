@@ -1,4 +1,4 @@
-A|Okay|fo_o_fw_"_by_bc
+A|Okay|o_"_bc
 A|You want to get a start?|ad
 B|Certainly.|aa
 B|Uh, the weather here is warm.|sd

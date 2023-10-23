@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|you got any hobbies that you want to talk about?|qy
 B|Well, I, uh, don't seem to have as much spare time as I used to,|sd
 B|but, I guess I'll have to say my computer has probably taken the place of most of my hobbies.|sd
@@ -37,7 +37,7 @@ A|No,|aa
 A|just a crummy, well, actually|sv
 A|the Lions are pretty good, I'm afraid, they a lot better team than the Cowboys were today.|sv
 A|And, uh, .|%
-B|On any given day, they say.|fo_o_fw_"_by_bc
+B|On any given day, they say.|o_"_bc
 B|Uh, I haven't, I haven't played in a while, but I do, when I get time and it's pretty weather and it's summer I like to play golf.|sd
 A|Oh, okay.|bk
 A|I, I play that about six times a year|sd

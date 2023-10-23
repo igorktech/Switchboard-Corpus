@@ -1,4 +1,4 @@
-A|Very good.|fo_o_fw_"_by_bc
+A|Very good.|o_"_bc
 A|Uh, discussion or on child care.|sd
 B|Do you have any children?|qy
 A|Uh, they're all grown up.|arp_nd

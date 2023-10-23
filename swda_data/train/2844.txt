@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 A|Well, I heard Dallas is pretty bad with the crime.|sd
 B|Well, you know, you know last night I was listening to the, uh, ten o'clock news.|sd
 A|Uh-huh.|b
@@ -152,7 +152,7 @@ A|and, you know, they'd seen it earlier.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 B|Yeah|b
-B|I know that it's a real problem.|fo_o_fw_"_by_bc
+B|I know that it's a real problem.|by
 B|It doesn't matter where you are anymore.|sv
 A|Uh-huh.|b
 B|It's, uh, more of a matter of what you, the steps that you do to keep yourself safe,|sv

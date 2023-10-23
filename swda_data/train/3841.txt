@@ -5,7 +5,7 @@ A|Right,|b
 A|and now I'm sort of, don't know if this an advantage or disadvantage.|sd
 A|My wife's a school teacher|sd
 A|so|%
-B|Well, then, I'll, uh, I'll walk softly.|oo_co_cc
+B|Well, then, I'll, uh, I'll walk softly.|co_cc
 A|No.|ar
 A|You go right ahead because I,  have a lot of strong opinions on it, too.|ad
 A|My wife teaches seventh grade,|sd

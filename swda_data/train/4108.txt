@@ -1,4 +1,4 @@
-B|Okay.|fo_o_fw_"_by_bc
+B|Okay.|o_"_bc
 A|Uh, so, what do you think, uh, about putting the elderly in a nursing home?|qo
 B|Well, I think that it, it varies on on the individual basis.|sv
 A|Huh.|%
@@ -36,7 +36,7 @@ B|and they don't want to take the responsibility|sv
 B|so they will put them in a nursing home.|sv
 A|Yeah,|aa
 A|that's true.|sv
-B|So you see, uh,|fo_o_fw_"_by_bc
+B|So you see, uh,|o_"_bc
 B|there's both sides to it too.|sv
 B|What do you think?|qo
 A|Yeah|b

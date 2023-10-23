@@ -1,4 +1,4 @@
-A|Okay, um,|fo_o_fw_"_by_bc
+A|Okay, um,|o_"_bc
 A|I don't know about you|sd
 A|but where I am we have a like an extremely lax dress policy at work|sd
 A|and it varies like every day. I mean from jeans one day to business suits the next|sd
@@ -235,6 +235,6 @@ A|Well it's kind of enjoyable,|sv
 A|I'm really looking forward to it.|sd
 B|Yeah.|b
 A|Well thanks a lot.|ft
-B|Okay,|fo_o_fw_"_by_bc
+B|Okay,|fw
 B|bye.|fc
 A|Bye-bye.|fc

@@ -81,7 +81,7 @@ B|Yeah.|b
 A|It's not a program to teach them to use the American money, it's a program to teach them to be more self-reliant.|sv
 B|Right.|b
 B|Yeah.|b
-A|And, yes,|fo_o_fw_"_by_bc
+A|And, yes,|o_"_bc
 A|you're right,|sv
 A|I think it's a sixties program.|sd
 A|I think it was one of Kennedy's hot points that he,|sd

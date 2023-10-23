@@ -1,4 +1,4 @@
-A|Okay|fo_o_fw_"_by_bc
+A|Okay|o_"_bc
 B|Well, what, what do you is think is the, uh, the main change in?|qw
 B|What generation are you,|qw
 B|I'm, I'm thirty years old?|sd
@@ -191,7 +191,7 @@ B|Uh-huh.|b
 A|yeah,|b
 A|she's, I think, she's in her second term now.|sd
 A|So, she's, she's,|%
-A|yeah,|fo_o_fw_"_by_bc
+A|yeah,|o_"_bc
 A|this is her second term,|sd
 A|I think, she's going to, going to, uh, not going to run again after this.|sv
 B|Uh-huh.|b

@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|where does she live?|qw
 B|Uh, on Rutherford.|sd
 A|Rutherford.|b^m
@@ -16,7 +16,7 @@ B|Oh, okay.|bk
 B|Oh, they're, they're little ones|sd
 A|Oh, well, I've got one in college|sd
 B|Oh.|b
-A|By now.|fo_o_fw_"_by_bc
+A|By now.|o_"_bc
 B|Let's see, we're on government,  whether we think it's honest or can be.|sd
 A|Right.|aa
 A|Whether it is possible to have an honest government. I'm beginning to think it's not.|sd
@@ -35,7 +35,7 @@ A|Oh.|b
 B|I just, I just don't, uh,|sd
 A|Right.|aa
 A|I mean, you even see people on a small scale cheating when they have certain positions,|sv
-A|you know what I mean?|fo_o_fw_"_by_bc
+A|you know what I mean?|o_"_bc
 B|Right.|aa
 A|Little bitty, little bitty positions in your own home town, and they'll cheat somehow or, you know, bend the rules, use their power.|sv
 A|So maybe it's just man's nature|sv

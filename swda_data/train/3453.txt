@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|did they tell you our topic?|qy
 B|Uh, no,|nn
 B|somebody else answered the phone and put my number in.|sd
@@ -42,7 +42,7 @@ A|but,|%
 B|I used to do that quite a bit myself.|sd
 A|So that's why I choose, you know, to drive a heavier car and more luxury car.|sd
 B|Yeah.|b
-A|But, I tell you what,|fo_o_fw_"_by_bc
+A|But, I tell you what,|o_"_bc
 A|I will probably get a Cadillac the next time quite honestly.|sd
 B|Really?|bh
 A|Yeah,|ny

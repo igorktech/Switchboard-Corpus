@@ -37,7 +37,7 @@ B|Yep.|aa
 A|I, I don't care to support them.|sd
 B|Well, I don't either|aa
 B|but, uh, uh, but there is something to be said about|%
-B|or, uh, uh, just for the sake of argument, I'm taking the,  a con,|oo_co_cc
+B|or, uh, uh, just for the sake of argument, I'm taking the,  a con,|co_cc
 A|Sure.|aa
 B|I'm, I'm against it.|sd
 B|Uh, you know yourself how many times have you heard where, uh, uh, a citizen was wrongfully arrested,  and served time at a penitentiary, uh,|sd

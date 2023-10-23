@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|do you want to go first?|ad
 B|Well, I could barely hear what the switchboard operator was saying as what was the topic.|sd
 A|Fitness and exercise.|sd
@@ -10,7 +10,7 @@ A|um, I like to do, uh, weight training and, and cycling. And just walking, uh, 
 A|I used to do a lot of basketball and running and volleyball until I had some knee surgery last fall.|sd
 A|And the doctor said that running and jumping isn't real good for my knee anymore,|sd
 A|so I had to kind of change my life-style a little bit|sd
-B|Well, let me ask a personal question,|oo_co_cc
+B|Well, let me ask a personal question,|co_cc
 B|how old are you?|qw
 A|Thirty-eight.|sd
 B|Oh, well then you should|sv
@@ -119,7 +119,7 @@ B|and the insurance carrier was not going to cover this because it was considere
 A|Could you hold the phone for one second,|ad
 B|Sure.|aa
 A|Thanks.|fa
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|I'm back.|sd
 B|And then they used to, uh,|%
 B|and then I had a second one eighteen months later,|sd
@@ -171,7 +171,7 @@ B|I still don't think that, they after my experiences that they could, you know,
 A|I, I can understand.|ba
 A|I can understand.|ba
 A|Well, it's been good talking with you.|fc
-B|But let me ask you this, since you use Texans,|oo_co_cc
+B|But let me ask you this, since you use Texans,|co_cc
 B|how much is it a month?|qw
 A|Oh, shoot it's only about ten bucks a month.|sd
 B|Now that's for individual.|qy^d
@@ -197,8 +197,8 @@ B|Oh, seen that my, my co-dependents have turned on the hose and are getting my 
 A|Wonderful.|ba
 B|Yeah|b
 B|So my position for management to domestic goddess has been an adjustment|sd
-B|but boy, I think I'm going to go contact Texans.|oo_co_cc
-B|I really think I am,|oo_co_cc
+B|but boy, I think I'm going to go contact Texans.|co_cc
+B|I really think I am,|co_cc
 A|Yeah.|b
 B|I mean, that beats any offer I've heard in a long time.|sd
 A|Oh, yeah,|aa

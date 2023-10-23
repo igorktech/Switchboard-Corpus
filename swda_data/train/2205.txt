@@ -25,7 +25,7 @@ A|and so I will turn that on while I'm doing some work|sd
 A|and I can hear the news, not have to sit right down and listen to it.|sd
 B|Did, did you, did you hear what Schwartzkopf had to say about, uh, Pete Arnett, and, uh, the, the news coverage?|qy
 A|Well, he didn't have too good of opinion of it,|na
-A|no,|fo_o_fw_"_by_bc
+A|no,|o_"_bc
 A|I mean yes I did hear that|sd
 A|and so, uh, I do try to keep that in mind that whenever you're reading a paper it usually has a particular flavor.|sd
 B|Well any, you know, TIME magazine and even the news that,|sd

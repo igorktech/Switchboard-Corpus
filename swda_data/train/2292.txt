@@ -193,7 +193,7 @@ B|But it's turned out really good,|sd
 B|and I think that, you know, we're really satisfied with that choice,|sd
 B|and we, you know, kind of felt like, um, it was worth it to us.|sd
 A|That's good.|ba
-B|But anyway.|fo_o_fw_"_by_bc
+B|But anyway.|o_"_bc
 B|Well, I, my children just ran out the door, so I need to go check on them|sd
 A|Okay|b
 B|Well I've really enjoyed the conversation.|fc

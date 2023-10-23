@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 A|So, uh, what do you think about it?|qo
 B|Well, um, I guess I, I'm more concerned about public safety than I am about the, um, the concern for the private, uh, the idea of, preserving privacy for, the individual, um,|sd
 A|Privacy.|^2
@@ -12,7 +12,7 @@ A|And see that bothers me.|sd
 A|I'm, I'm a, I mean, I'm, I'm very much for drug testing,|sd
 B|Uh-huh.|b
 A|uh, I really am.|sd
-A|I mean, I'm going, I'm going to take the negative side just for a second, just to do it.|oo_co_cc
+A|I mean, I'm going, I'm going to take the negative side just for a second, just to do it.|co_cc
 B|Sure.|b
 A|Um, see, I have to take, uh, medication for a, uh, for, for kidney transplant.|sd
 B|Uh-huh.|b

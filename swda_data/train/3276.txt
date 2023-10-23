@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|as far as, uh, universal health care um, I guess I'm all for it.|sd
 B|Uh-huh.|b
 A|I think it's time that we start looking at, uh, getting into that.|sv
@@ -91,7 +91,7 @@ B|Yeah.|b
 A|So,|%
 B|Well, our ours is three hundred for our family|sd
 B|and I mean we, that is, we pay that instead of a car payment. You know.|sd
-A|See.|fo_o_fw_"_by_bc
+A|See.|o_"_bc
 A|Yeah.|b
 B|I mean I'm driving a piece of junk, you know|sd
 A|Well, we do the same.|sd

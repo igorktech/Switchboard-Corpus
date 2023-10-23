@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|what do you read?|qw
 B|Uh, well, I read everything, uh, I guess, uh,|sd
 A|What is your favorite?|qw
@@ -203,7 +203,7 @@ A|I know you do, being an engineer.|sv
 B|Yeah.|b
 A|There are some times when you have got ten or fifteen or even an hour off|sv
 B|Yeah.|b
-A|Not much,|fo_o_fw_"_by_bc
+A|Not much,|o_"_bc
 A|not in the area I worked in|sd
 A|We had an engineer in there every ten minutes.|sd
 B|Yeah,|b

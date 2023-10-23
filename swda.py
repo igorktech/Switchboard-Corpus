@@ -302,16 +302,16 @@ class Utterance:
                     tag = 'qy'
                 elif tag in ('fe', 'ba'):
                     tag = 'ba'
-                elif tag in ('oo', 'co', 'cc'):
-                    tag = 'oo_co_cc'
+                elif tag in ('co', 'cc'):
+                    tag = 'co_cc'
                 elif tag in ('fx', 'sv'):
                     tag = 'sv'
                 elif tag in ('aap', 'am'):
                     tag = 'aap_am'
                 elif tag in ('arp', 'nd'):
                     tag = 'arp_nd'
-                elif tag in ('fo', 'o', 'fw', '"', 'by', 'bc'):
-                    tag = 'fo_o_fw_"_by_bc'
+                elif tag in ( 'o', '"', 'bc'): #'fo', 'fw', 'by'
+                    tag = 'o_"_bc'
             d_tags.append(tag)
         # Dan J says (p.c.) that it makes sense to take the first;
         # there are only a handful of examples with 2 tags here.

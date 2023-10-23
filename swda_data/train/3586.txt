@@ -5,7 +5,7 @@ A|hobbies.|sd
 B|Okay.|b
 A|Let me see,|^h
 A|I don't know if that took or not,|sd
-A|I'll do it again.|oo_co_cc
+A|I'll do it again.|co_cc
 B|Okay.|b
 A|Okay.|%
 A|What are your hobbies?|qw

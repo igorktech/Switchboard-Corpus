@@ -140,7 +140,7 @@ B|and that's always a real big kick for people who want, you know, who've never 
 A|Uh-huh.|b
 B|That's , that's, that's, that's a fun idea I mean if you ever, uh, want something different to try.|sd
 A|Uh-huh.|b
-B|I would try that.|oo_co_cc
+B|I would try that.|co_cc
 A|Um, yeah,|b
 A|I've been wanting to take an, um, oriental cooking class|sd
 A|and I just haven't gotten around to it yet.|sd

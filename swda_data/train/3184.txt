@@ -84,7 +84,7 @@ A|yeah.|ny
 B|Oh.|b
 A|So it's,|%
 B|Sounds interesting.|ba
-A|Uh, other than that, sure, yeah.|fo_o_fw_"_by_bc
+A|Uh, other than that, sure, yeah.|o_"_bc
 A|Is this your first time?|qy
 B|No,|nn
 B|huh-uh.|nn

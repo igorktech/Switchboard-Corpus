@@ -1,4 +1,4 @@
-A|Your turn.|fo_o_fw_"_by_bc
+A|Your turn.|o_"_bc
 B|Oh, I, I start.|sd
 B|Okay.|aa
 B|Well, uh, we keep a budget to an extent.|sd

@@ -11,7 +11,7 @@ A|Wonderful. Uh-huh.|ba
 B|It was so funny the other day,|sv
 B|I took some guys to, to lunch|sd
 B|and when we came back they said "Oh, there's a parking space real close," and I parked way out in the boonies,|sd
-A|Way. *what is this?|fo_o_fw_"_by_bc
+A|Way. *what is this?|o_"_bc
 B|and I said "you can walk off your lunch."|sd
 A|That's the way to do it.|sv
 B|Yeah.|aa
@@ -50,7 +50,7 @@ A|and, my teacher looked at it every week, you know.|sd
 B|Uh-huh.|b
 A|But, other than that I just, you know, I kind of get in the mood every once in awhile, say, okay, I'm going to start going to aerobics now, you know,|sv
 B|Uh-huh.|b
-B|There you go.|fo_o_fw_"_by_bc
+B|There you go.|o_"_bc
 A|and, I'll go for like two weeks and go, this is for the birds, this is too much work.|sv
 B|Well, you know, I have noticed too that, uh, when I started the exercise, uh, not the exercise but the walking program, uh, that I did tone up, you know, like all over,|sd
 A|Uh-huh.|b

@@ -1,4 +1,4 @@
-A|Perhaps this connection,|fo_o_fw_"_by_bc
+A|Perhaps this connection,|o_"_bc
 A|no,|^h
 A|it still echoes.|sd
 A|Okay, um,|%

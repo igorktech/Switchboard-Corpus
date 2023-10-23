@@ -1,4 +1,4 @@
-A|Okay. Um,|fo_o_fw_"_by_bc
+A|Okay. Um,|o_"_bc
 B|Where do you live?|qw
 A|In Plano.|sd
 B|In Plano?|qy^d

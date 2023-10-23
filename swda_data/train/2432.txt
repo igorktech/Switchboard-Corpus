@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 B|Well, I just got back from taking my little girl to her Brownie meeting,|sd
 B|and then we had this whole can, uh, a bag filled full of cans|sd
 A|Uh-huh.|b
@@ -188,7 +188,7 @@ A|You guys are getting into it more than we are.|na
 B|It sounds like it,|sd
 B|you'd think you would be.|sv
 A|Uh-huh.|b
-A|Huh-uh,|fo_o_fw_"_by_bc
+A|Huh-uh,|o_"_bc
 A|I've never seen any, you know, places that do.|sd
 A|I know, um, we reuse our grocery bags now.|sd
 A|We take them back, you know, and use the ones that we have.|sd
@@ -282,7 +282,7 @@ B|Yeah,|b
 B|we went up there. Now that I think about it. On one of our long trips we take off on.|sd
 A|Uh-huh|b
 A|Oh, well|%
-B|Shboom.|fo_o_fw_"_by_bc
+B|Shboom.|o_"_bc
 B|child in What are you saying, Holly?|t3
 B|talking to Oh, my little girl is in the second grade, told me to tell you that Shboom means good-bye in the Israeli language.|sd
 A|Oh.|b

@@ -273,7 +273,7 @@ B|Yeah.|b
 A|So many times, I mean, you had the, uh, the coal miners and steel workers going out at the same time.|sd
 A|And, well, that took care of that industry|sv
 B|That's right.|aa
-A|and, and, then, and I'll tell you,|fo_o_fw_"_by_bc
+A|and, and, then, and I'll tell you,|o_"_bc
 A|Detroit worked awfully hard on, on stopping car manufacturing in this country.|sv
 B|And they're trying to do that now with the imports.|sv
 A|Yeah,|b

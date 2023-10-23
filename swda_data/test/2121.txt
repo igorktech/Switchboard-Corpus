@@ -1,4 +1,4 @@
-A|Okay, uh,|fo_o_fw_"_by_bc
+A|Okay, uh,|o_"_bc
 A|could you tell me what you think contributes most to, uh, air pollution?|qw
 B|Well, it's hard to say.|^h
 B|I mean, while it's certainly the case that things like automobiles and factories, uh, pollute a lot, uh, if you look at how much pollution is say kicked up by an active volcano, uh, it's certainly less than clear that anything man can do in this sort of scale of things has much effect at all.|sv
@@ -115,7 +115,7 @@ A|Um, you kind of think it's something else then?|qy
 B|Well, that's what the environmentalists were claiming in this article.|arp_nd
 B|So that,|%
 A|Oh, they didn't say, they didn't say what though,|bf
-A|they just said they thought it was,|fo_o_fw_"_by_bc
+A|they just said they thought it was,|o_"_bc
 B|They didn't say what,|na
 B|they just said they thought acid rain's contribution may be less than was previously suspected. Um, that it may be other natural things at work. Um,|sd
 A|Uh, natural disease,|bf
@@ -179,7 +179,7 @@ B|Yeah,|b
 B|sure.|b
 A|So that's helping.|sv
 B|Well, what do you think about like a device, a meter right on a tail pipe|qw
-B|and you pay the tax based on how much you polluted?|fo_o_fw_"_by_bc
+B|and you pay the tax based on how much you polluted?|o_"_bc
 A|Now that's an idea.|ba
 A|don't say that too loud though because, uh, every city and town will have a meter on your tail pipe generating generating revenue,|ad
 B|Well, it just means if you don't pollute, right, or you pollute very little you don't have to pay any tax|sd

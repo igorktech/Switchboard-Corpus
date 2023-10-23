@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|Martin, do you do any exercise?|qy
 B|Yes,|ny
 B|I do.|sd
@@ -48,7 +48,7 @@ A|uh-huh.|aa
 B|but it's like low impact aerobics, just  with weights.|sv
 A|Uh-huh.|b
 A|Yes.|b
-B|Okay,|fo_o_fw_"_by_bc
+B|Okay,|o_"_bc
 B|are you familiar with, um, step or bench aerobics?|qy
 A|Um, no,|nn
 A|I mean, yes,|ny

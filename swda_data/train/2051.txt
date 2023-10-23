@@ -1,4 +1,4 @@
-A|All right, um,|fo_o_fw_"_by_bc
+A|All right, um,|o_"_bc
 A|I think the topic was crime in the city.|sd
 B|Right.|aa
 A|I do not live in a city.|sd

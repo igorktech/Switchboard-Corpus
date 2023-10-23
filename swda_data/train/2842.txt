@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 A|Do you have any children?|qy
 B|Uh, yes,|ny
 B|I have a daughter.|sd
@@ -114,7 +114,7 @@ B|Uh-huh.|ny
 A|That's good.|ba
 A|That's good.|ba
 B|Yeah.|b
-A|Um. Okay.|fo_o_fw_"_by_bc
+A|Um. Okay.|o_"_bc
 A|Well it was very nice talking to you.|fc
 B|Nice talking to you.|fc
 A|Okay.|fc

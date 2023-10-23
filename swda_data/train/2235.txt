@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 B|Hi.|fp
 A|Hi.|fp
 B|Okay.|b
@@ -7,7 +7,7 @@ A|Um, yeah.|ny
 A|Sure.|na
 A|Um, I think, I think we should have a balanced budget even if it means that services are dramatically cut back.|sv
 A|If you can't pay for it, you shouldn't have it.|sv
-A|Period.|fo_o_fw_"_by_bc
+A|Period.|o_"_bc
 A|And,|%
 B|That is very true.|aa
 A|That's just.|%
@@ -18,7 +18,7 @@ B|or you have borrowed money against your credit card or something|sv
 A|Well,|%
 B|Master Charge.|sd
 A|I don't have a Master Charge,|ar
-A|thank you|fo_o_fw_"_by_bc
+A|thank you|o_"_bc
 B|But, see our whole system is built on owing not borrowing.|sv
 A|Right.|aa
 A|But, that's the problem, see.|sv
@@ -206,7 +206,7 @@ B|So, therefore, I don't believe there could be a single government for the whol
 B|There's too many societies involved, uh,|sv
 B|the language barriers.|sv
 A|Uh-huh.|b
-B|Uh, oh, sure,|fo_o_fw_"_by_bc
+B|Uh, oh, sure,|o_"_bc
 B|somebody said years ago, well, let's make it English, uh, international language.|sd
 A|Uh-huh.|b
 B|That's a big laugh,|sv

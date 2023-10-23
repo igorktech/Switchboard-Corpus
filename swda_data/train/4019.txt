@@ -17,7 +17,7 @@ B|so  he's an indoor cat,|sd
 A|Uh-huh.|b
 B|so, uh, that kind of calms him down for the most part.|sd
 B|How about yours?|qo
-A|Well, yeah,|fo_o_fw_"_by_bc
+A|Well, yeah,|o_"_bc
 A|he's, uh, he has been really aggressive, uh, especially towards my little girl, for some reason.|sd
 B|Huh.|b
 A|He's, uh, been so mean to her|sd

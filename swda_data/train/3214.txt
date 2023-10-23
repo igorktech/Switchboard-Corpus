@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|my name is Karen.|sd
 B|Okay,|b
 B|my name is Terry.|sd
@@ -154,7 +154,7 @@ A|and then it seems like when I put some of that away, I quit buying it,|sd
 A|but I had forgotten the recipes|sd
 B|Uh-huh.|b
 A|and I'm going to,|sd
-A|I'll have to check that out,|oo_co_cc
+A|I'll have to check that out,|co_cc
 B|Yeah,|b
 B|it, it, that's what I, I just went through, uh|sd
 B|we just recently moved from Minnesota to Wisconsin.|sd

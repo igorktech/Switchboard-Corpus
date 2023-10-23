@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 A|I was thinking about camping and different people's ideas about it.|sd
 B|Uh-huh.|b
 A|We've even seen people with these campers|sd
@@ -81,7 +81,7 @@ B|and there was nobody else, hardly, around|sd
 B|and it was just really nice, that time of year.|sd
 B|We had taken our electric, blanket too, just in case it was unbearable|sd
 B|but we didn't need it|sd
-B|Yeah .|fo_o_fw_"_by_bc
+B|Yeah .|o_"_bc
 A|Well my husband has even camped at Lake Lavon  with one of his friends|sd
 B|Oh really?|bh
 A|he just decided to take the kids out there.|sd

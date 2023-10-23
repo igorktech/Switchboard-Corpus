@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|what kind of car are you going to buy next?|qw
 B|Well, one of the cars I'm thinking about buying next is, uh, a nice, safe, small car,|sd
 B|but, um, uh, the reason being, is we just purchased a van a little while ago because we have a big family,|sd

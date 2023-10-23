@@ -1,4 +1,4 @@
-A|Uh-huh.|fo_o_fw_"_by_bc
+A|Uh-huh.|o_"_bc
 B|Okay|b
 B|movies.|sd
 B|I haven't seen too many lately.|sd
@@ -136,9 +136,9 @@ A|Right.|b
 B|Really gory.|sv
 A|Yeah,|aa
 A|that seems to be the norm of most movies,|sv
-A|but what the hey.|fo_o_fw_"_by_bc
+A|but what the hey.|o_"_bc
 B|Yeah.|b
-A|This is America.|fo_o_fw_"_by_bc
+A|This is America.|o_"_bc
 B|Let me see.|^h
 B|One movie I saw, I guess it was a while back, RED OCTOBER.|sd
 A|Yeah.|b

@@ -1,5 +1,5 @@
-A|Okay.|fo_o_fw_"_by_bc
-B|Okay,|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
+B|Okay,|o_"_bc
 B|well, Mark, our situation is that we do have a daughter that is, uh, in the situation of choosing college.|sd
 A|Uh-huh.|b
 B|She's actually at Bible College for this current year.|sd
@@ -25,7 +25,7 @@ A|Uh-huh.|b
 B|It doesn't matter whether, you know, they're, they're selling school.|sv
 A|Uh-huh.|b
 A|Uh-huh.|b
-B|And, uh, and, true,|fo_o_fw_"_by_bc
+B|And, uh, and, true,|o_"_bc
 B|it, uh, really is helpful if a parent and the student can get there and see the real character of the school and the real life experiences of the school.|sv
 A|Uh-huh.|b
 B|Uh, I guess there's a difference in,|sv
@@ -46,7 +46,7 @@ A|and there, and there doesn't seem to be the diversity of views that a lot of, 
 B|Yeah.|b
 B|Uh, I guess we're here,|sd
 B|this is the university that has, for years had the, the car, that, uh, will travel the farthest on, uh, on a small quantity of gas, *utt 3 & 4 one utt??|sv
-B|our engineering students.|fo_o_fw_"_by_bc
+B|our engineering students.|o_"_bc
 A|Uh-huh.|b
 B|Uh, in competitions|sd
 B|and that's the kind of thing that also you see, uh, if you can see the kinds of achievements that have been made by students as well as graduates can give you idea of the character of the school.|sv

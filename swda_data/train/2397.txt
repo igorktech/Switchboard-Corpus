@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|um, I guess, um, this is probably really a good subject for me because I really like to do, uh, hand work.|sd
 A|Uh, mostly I do needlepoint, I guess.|sd
 B|Oh really.|b
@@ -15,7 +15,7 @@ B|I do crochet and a lot of, uh, things like that,|sd
 B|and I have very little of my own stuff,|sd
 B|and it's kind of embarrassing.|sd
 B|People say let me see some of your work.|sd
-B|Oh well, can you do it ?|fo_o_fw_"_by_bc
+B|Oh well, can you do it ?|o_"_bc
 A|Yeah,|b
 A|isn't that funny.|qh
 A|I guess I do have one thing.|sd
@@ -222,7 +222,7 @@ A|No,|nn
 A|I usually just buy a pattern book.|sd
 A|I have several pattern books,|sd
 A|and I just go with those.|sd
-B|Okay.|fo_o_fw_"_by_bc
+B|Okay.|o_"_bc
 A|And then I buy the bibs separate.|sd
 A|Usually I think it's a little bit cheaper in the long run,|sd
 A|and then I just use whatever colors I want to.|sd

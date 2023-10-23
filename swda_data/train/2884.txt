@@ -34,7 +34,7 @@ A|I owned my own home.|sd
 A|I put in so much money, each, you know, month towards long term savings, you know, like in, uh, mutual funds and things, you know,|sd
 B|Huh-uh.|b
 A|and, uh, after I got married,|sd
-A|no,|fo_o_fw_"_by_bc
+A|no,|o_"_bc
 A|it just didn't work anymore.|sd
 A|She spends a lot.|sd
 A|She likes to spend on anything and everything With body lotion, everything|sd

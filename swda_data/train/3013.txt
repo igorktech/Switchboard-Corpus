@@ -1,4 +1,4 @@
-A|All right,|fo_o_fw_"_by_bc
+A|All right,|o_"_bc
 A|what type of things would you fix if you're having company come over?|qw
 B|Well, I have a really great one that I make in the summertime because it's cool|sd
 B|and it's, uh, it's just really pretty easy.|sd
@@ -101,7 +101,7 @@ B|and, uh, she like does her own bread and does her own stuff|sd
 B|and so when she, um, does food, she really goes all out|sd
 B|and I don't know how she can do it and be calm|sd
 A|Yeah|b
-B|I guess,|fo_o_fw_"_by_bc
+B|I guess,|o_"_bc
 A|Do you work?|qy
 B|No,|nn
 B|I don't.|sd

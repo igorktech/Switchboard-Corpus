@@ -1,4 +1,4 @@
-A|Right,|fo_o_fw_"_by_bc
+A|Right,|o_"_bc
 A|uh, actually I lived over in Europe for a couple of years,|sd
 A|I lived in Germany|sd
 A|and in Germany they don't have the jury system.|sd
@@ -29,7 +29,7 @@ A|you can't use this as, uh, evidence, you know, because it was either illegally
 A|and, you know, you wouldn't have this, uh, uh, theatrics where the lawyer jumps up and presents it to the, to the jury|sd
 A|and then the judge says, oh, no,|sd
 A|disregard that.|^q
-A|Come on,|fo_o_fw_"_by_bc
+A|Come on,|o_"_bc
 A|any jury's not going to disregard the evidence, you know|sv
 B|Uh, that's true.|aa
 B|I, I, I think our judicial system is attorney welfare myself.|sv

@@ -10,7 +10,7 @@ A|Uh-huh.|b
 B|and there's so many different problems there.|sd
 B|Uh, what do you want to concentrate on.|qw
 A|It doesn't matter to me.|sd
-B|Well, uh, I'll tell you something,|fo_o_fw_"_by_bc
+B|Well, uh, I'll tell you something,|o_"_bc
 B|um, I, I have a sister-in-law from Israel,|sd
 A|Uh-huh.|b
 B|and, and they're really quite, uh, arrogant about it all.|sd
@@ -65,7 +65,7 @@ B|but I heard that San Antonio, unlike like, like a city like San Diego it it ju
 A|I grew up outside of Houston|sd
 A|and I don't think, uh, as far as gang violence and things, I don't think it's any worse here than in Houston.|sv
 B|Yeah,|b
-B|like say Houston.|fo_o_fw_"_by_bc
+B|like say Houston.|o_"_bc
 B|Now I would, now me not even knowing anything about Houston, I would think that it's a pretty calm city.|sv
 A|Houston is not at all.|ar
 B|No, huh,|qy

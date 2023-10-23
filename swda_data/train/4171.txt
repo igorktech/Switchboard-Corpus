@@ -58,7 +58,7 @@ A|You mean, not even your, your, your car insurance?|bf
 B|Well, it, it got all screwed up because I had a high deductible on the health insurance, no fault here,|sd
 B|and, and I had a high deductible on the on the, uh, on the car insurance|sd
 B|and then you know, we just goofed up the medical insurance and the car insurance and stuff and blew it|sd
-A|Oh, that's too bad.|fo_o_fw_"_by_bc
+A|Oh, that's too bad.|by
 B|Oh, well.|bd
 A|Yeah|b
 A|uh, well, I don't know,|h

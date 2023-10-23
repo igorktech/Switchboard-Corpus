@@ -88,7 +88,7 @@ B|Going to the gym is, is actually something different than, than, like,|sd
 B|oh, and the running,|sd
 B|and I enjoy that too.|sd
 A|Uh-huh|b
-B|Year,|fo_o_fw_"_by_bc
+B|Year,|o_"_bc
 B|I've been running since high school on track teams and the like,|sd
 A|Oh.|b
 B|so, running, I, I'm at that point which you probably get to after about six months of dedicated running where you don't feel your muscles any more|sd

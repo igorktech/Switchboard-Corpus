@@ -1,4 +1,4 @@
-B|There you go.|fo_o_fw_"_by_bc
+B|There you go.|o_"_bc
 B|First question,|sd
 B|do you own your house?|qy
 A|Uh, right,|na
@@ -63,7 +63,7 @@ B|to talking on How does that sound?|qw
 A|There you go.|ba
 A|Write that one down.|ad
 B|Yeah,|b
-B|there I go.|fo_o_fw_"_by_bc
+B|there I go.|o_"_bc
 A|It sounded good to me|sd
 B|Yeah,|b
 B|well, I hate to say how long that will last too.|sd

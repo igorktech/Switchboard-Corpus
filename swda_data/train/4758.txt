@@ -100,7 +100,7 @@ B|Yeah.|b
 B|I don't take much more in myself.|sd
 A|You know, so.|%
 B|Okay.|b
-A|Well I guess that will be it then|oo_co_cc
+A|Well I guess that will be it then|co_cc
 A|and,|%
 B|Okay,|aa
 B|nice talking to you.|fc

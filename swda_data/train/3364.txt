@@ -175,5 +175,5 @@ A|The kids already know who it is,|sd
 A|I don't know who it is, though,|sd
 B|Who is it?|qw
 B|Ask them|ad
-A|Let me ask Nicole.|oo_co_cc
+A|Let me ask Nicole.|co_cc
 A|to someone in Nicole.|t3

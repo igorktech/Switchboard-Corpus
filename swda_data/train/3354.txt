@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|well what do you do on your yard?|qo
 B|Well, uh, typical lawn stuff.|sd
 B|Saint Augustine, uh with a little Bermuda mixed in in some of the sunny areas|sd

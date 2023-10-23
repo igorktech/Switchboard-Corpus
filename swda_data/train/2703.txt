@@ -1,5 +1,5 @@
-A|Okay|fo_o_fw_"_by_bc
-B|Okay|fo_o_fw_"_by_bc
+A|Okay|o_"_bc
+B|Okay|o_"_bc
 A|Um, well, I'm not,|%
 A|I mean, I read a lot,|sd
 A|but I don't, I don't read a whole,|sd

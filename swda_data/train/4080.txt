@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 B|All right.|b
 A|What's your view.|qw
 B|Huh?|br
@@ -58,7 +58,7 @@ A|and then of course there's the hunting issue,|sd
 A|so|%
 B|Sure.|b
 A|yeah|b
-A|that's good.|fo_o_fw_"_by_bc
+A|that's good.|o_"_bc
 A|What do you do, Jeff?|qw
 B|Uh, I, I'm in, uh, program control for a company up here.|sd
 A|Oh, yeah.|bh

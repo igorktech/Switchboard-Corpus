@@ -1,4 +1,4 @@
-A|Okay|fo_o_fw_"_by_bc
+A|Okay|o_"_bc
 A|he did really decide to go?|qy^d
 A|Uh-huh,|aa
 A|sure|aa
@@ -277,7 +277,7 @@ A|I mean we're talking about what you think,|sd
 A|but obviously you're experiencing it. Uh,|sd
 A|Did your other son, um,|qy
 B|My other son is just as happy as a bed bug.|sd
-A|A clam.|fo_o_fw_"_by_bc
+A|A clam.|o_"_bc
 B|He,|%
 B|the moment he knew, he, he decided early on that Amherst was the school.|sd
 B|He's a classical guitarist|sd

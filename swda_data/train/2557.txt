@@ -76,7 +76,7 @@ A|And what is T I?|qw
 B|Uh, Texas Instruments.|sd
 A|Oh, okay.|bk
 B|Yeah .|b
-A|Gee,|fo_o_fw_"_by_bc
+A|Gee,|o_"_bc
 A|my, my son works for,|sd
 A|no,|^h
 A|not for that,|^h

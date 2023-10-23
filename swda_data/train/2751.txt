@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|what did you buy?|qw
 B|A Ford Explorer.|sd
 A|I'm sorry, what?|br

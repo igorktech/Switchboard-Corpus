@@ -1,10 +1,10 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 B|So, who is your favorite football team?|qw
 A|Guess.|ad
 A|I bet you can't guess|sv
 B|Well, I would say the Saints after , since ,|sv
 A|You got it.|aa
-A|And I want to tell you something.|oo_co_cc
+A|And I want to tell you something.|co_cc
 B|What's that?|qw
 A|They're going to go somewhere pretty shortly.|sv
 B|Yeah?|bh
@@ -102,7 +102,7 @@ A|because everything, I mean anything that Tom Landry wanted or had, he was goin
 B|Right.|b
 A|I mean it's,|%
 A|I mean, you know, that's the way I felt about it.|sd
-A|But, I tell you what,|fo_o_fw_"_by_bc
+A|But, I tell you what,|o_"_bc
 B|Well, Yeah.|b
 A|if New Orleans ever gets a quarterback isn't nobody going to beat us|sv
 A|There ain't nobody going to beat us then.|sv
@@ -244,7 +244,7 @@ A|Because usually it's snowing|sd
 B|Yeah.|b
 A|Ice and rain and everything.|sd
 B|Sure.|b
-A|But, I tell you what,|fo_o_fw_"_by_bc
+A|But, I tell you what,|o_"_bc
 A|if you get to watch some of these,|%
 A|now I don't know how it will be this year, you know,|h
 A|but, I mean, these games go right down to the wire.|sd
@@ -277,7 +277,7 @@ A|Cut us off right there the last few seconds.|sd
 A|The station finally, you know how they'll put the little message down at the bottom. Started telling everybody that they were not the ones that had cut that off, that it was the national, you know,|sd
 B|Right.|b
 B|Right.|b
-B|It was the network.|fo_o_fw_"_by_bc
+B|It was the network.|o_"_bc
 A|Uh-huh.|b
 A|because it was funny.|sv
 A|I mean everybody was furious.|sd

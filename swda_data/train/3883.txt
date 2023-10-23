@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 A|So how do you just figure ,|qw
 B|Well, you know, it depends upon our weather here. You know,|sd
 B|today was a beautiful day|sd
@@ -15,7 +15,7 @@ A|Uh-huh.|b
 B|But when it rains a lot, which is has been doing here a lot lately, uh, very often, you know, wear, uh, pants and boots you know.|sd
 A|Oh.|b
 B|So how do you dress?|qw
-A|Well, um, I'm going to talk about when I was working as a teacher and when I was working at now.|oo_co_cc
+A|Well, um, I'm going to talk about when I was working as a teacher and when I was working at now.|co_cc
 B|Okay.|aa
 A|Um, when I was a teacher, um, in Utah, I would generally wear, um, dresses and heels and things like that,|sd
 B|Uh-huh.|b

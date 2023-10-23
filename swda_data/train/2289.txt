@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|we, we can, uh, be recorded while we talk about it.|ad
 B|Okay,|aa
 B|well is your,|qy
@@ -181,7 +181,7 @@ A|Is is bottle return down there a heated debate?|qy
 B|Well, no,|nn
 A|Oh, yeah.|bk
 A|Well, we,|sd
-A|well, here you can't drink,|fo_o_fw_"_by_bc
+A|well, here you can't drink,|o_"_bc
 B|We're not civilized now, you can no longer, you cannot drink beer and drive,|sd
 B|but but it was, it was actually legal.|sd
 A|Well.|%

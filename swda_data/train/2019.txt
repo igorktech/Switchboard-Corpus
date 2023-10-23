@@ -157,7 +157,7 @@ A|Uh-huh.|b
 B|And he was a real, a real lovable type, but, uh, definitely not an apartment type animal|sd
 A|Oh yeah.|b
 B|so he, uh, he had to stay home.|sd
-A|Oh, what a shame.|fo_o_fw_"_by_bc
+A|Oh, what a shame.|by
 B|Yeah,|aa
 B|yeah,|aa
 B|it really was.|sd
@@ -165,7 +165,7 @@ B|He, uh, apparently had a tough time with it for a little while|sd
 B|and then he, he got, he came to accept the fact that Mom and Dad were his company from then on,|sd
 B|but, uh.|%
 A|Uh-huh,|b
-A|oh well.|fo_o_fw_"_by_bc
+A|oh well.|o_"_bc
 B|Yeah.|b
 A|Well Randy, we've just about used up our time here,|sd
 B|Okay.|aa

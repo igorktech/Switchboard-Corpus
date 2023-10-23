@@ -32,7 +32,7 @@ B|Yeah,|aa
 B|they are.|sv
 A|And I think this is absolutely ridiculous.|sv
 B|Uh-huh.|b
-A|No.|fo_o_fw_"_by_bc
+A|No.|o_"_bc
 B|And I really think, I really think that, uh, that they ought to,|sv
 B|I'm not real sure that they should pay him that much money.|sv
 B|I think they should, uh, uh, pay him what his salary is going to be, uh, and let him,|sv

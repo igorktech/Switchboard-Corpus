@@ -1,10 +1,10 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|Miss Nancy, we should be in business now.|sd
 B|Good.|bk
 A|Did you hear the questions that the lady, uh, brought up?|qy
 B|Yes.|ny
 A|Such as how much time, well,|qy^d
-A|I'll ask,|oo_co_cc
+A|I'll ask,|co_cc
 A|how much time do you spend with your children,|qw
 A|and how many do you have?|qw
 B|We have two children,|sd

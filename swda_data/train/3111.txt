@@ -20,7 +20,7 @@ B|it, it's really funny,|sd
 B|the only crime we really see is, uh, just the kids being malicious.|sd
 A|Uh-huh.|b
 B|You know, and I think most of that is because their parents aren't around.|sv
-B|That make sense?|fo_o_fw_"_by_bc
+B|That make sense?|o_"_bc
 A|Yeah.|aa
 B|Yeah.|b
 A|That, uh, the, what they call the latchkey children.|bf
@@ -77,7 +77,7 @@ B|I think they, the drug culture definitely has, uh, is one of the main problems
 B|Yeah, Because it would eliminate the, uh, the violence and the, uh, the the, the market, I guess, the, the hidden market of the drugs and everything that goes along with it. *sv|%
 A|Uh-huh.|b
 A|Uh-huh.|b
-B|That make sense?|fo_o_fw_"_by_bc
+B|That make sense?|o_"_bc
 B|He's one of the big proponents of that.|sd
 B|He gets on national television and, and says that, you know.|sd
 B|So it's, uh|%

@@ -1,5 +1,5 @@
-A|Okay.|fo_o_fw_"_by_bc
-B|Um, yeah.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
+B|Um, yeah.|o_"_bc
 A|We're official now,|sd
 A|yeah,|%
 B|Yeah,|b
@@ -211,7 +211,7 @@ A|quite a few people were killed.|sd
 A|You'll see that on the evening news.|sv
 B|Oh, my, uh-huh.|ba
 A|Uh,|b
-B|I'll have to make sure I catch that.|oo_co_cc
+B|I'll have to make sure I catch that.|co_cc
 A|Tornados, uh, which is not the right subject,|sv
 A|but, uh, they blow through here all in the Spring.|sd
 A|I guess it's related somewhat to the weather, you know and, and the plants and all that, that, uh|sd
@@ -227,7 +227,7 @@ B|Uh-huh.|b
 A|Yeah,|%
 A|look at the news tonight,|ad
 A|they'll, they'll they claim thirty odd people were killed up in Kansas City, Kansas,|sd
-B|I'll have to make sure I catch that,|oo_co_cc
+B|I'll have to make sure I catch that,|co_cc
 B|Uh, Uh-huh.|b
 A|Anyway, back on planting.|ad
 A|Uh, . It is very interesting, uh, subject,|sd

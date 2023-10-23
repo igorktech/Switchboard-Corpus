@@ -50,7 +50,7 @@ B|and in a in a sense, the people I know who spend the most on clothes are secre
 A|Yeah.|b
 B|Although the fact that most of the ones I know are in the government and they're not meeting the public it, I find it a little bit strange that their priorities would, would be to spend this money here|sv
 A|Right.|b
-B|You know,|fo_o_fw_"_by_bc
+B|You know,|o_"_bc
 A|Uh-huh.|b
 B|I mean, I suppose if you were a, a, more a receptionist and meeting the public and it was the image of your company at stake perhaps you would have to dress up.|sv
 A|Then|^2

@@ -1,4 +1,4 @@
-B|All set.|fo_o_fw_"_by_bc
+B|All set.|o_"_bc
 A|Uh-huh.|b
 B|Actually I'm in Plano, too|sd
 A|That's okay.|bd
@@ -94,7 +94,7 @@ A|I have two older ones that probably would go along with the, if I had it arran
 B|It's, yeah, it's not a big deal.|sv
 B|You get used to it.|sv
 B|One,|%
-B|let me tell you one interesting thing|oo_co_cc
+B|let me tell you one interesting thing|co_cc
 A|Okay,|aa
 B|when I went back to the store, and I said, Hey, um, I understand you all are taking these bags back, uh, you know, what do you do with them.|sd
 B|And they told me, they look through them all and throw out the ones that don't belong there and then, you know, go and recycle the rest.|sd

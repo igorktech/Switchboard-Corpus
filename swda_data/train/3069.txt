@@ -1,5 +1,5 @@
-A|Yeah.|fo_o_fw_"_by_bc
-A|Yes,|fo_o_fw_"_by_bc
+A|Yeah.|o_"_bc
+A|Yes,|o_"_bc
 A|I talked with, um, I talked with people from Richardson and Plano|sd
 A|and, uh, the first three days,|%
 A|and then yesterday I talked with someone with, from Pennsylvania,|sd

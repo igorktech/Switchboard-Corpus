@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|what kind of music do you like?|qw
 B|Well, I, uh,|%
 B|several years ago a radio broke in my car|sd
@@ -110,7 +110,7 @@ A|I bought some at Christmas time for friends of mine that have C D players.|sd
 A|I thought, my gosh,|sd
 B|Uh-huh.|b
 A|now I know another reason why I'm not going to get a C D player for a while.|sd
-B|Take our time.|fo_o_fw_"_by_bc
+B|Take our time.|o_"_bc
 A|Right.|b
 B|Well, I can't imagine, um,|sd
 B|you can't record on them and so they won't be as functional as like a cassette player, where if you heard something, you could record it, you know. Uh, if you have, I guess, if you wanted to record something to play out in your car or something, that you'd heard or that you owned an album of,|sd

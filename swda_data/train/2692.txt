@@ -220,7 +220,7 @@ B|And I finally went back in and started looking at it myself.|sd
 B|And it's a matter of tearing all the dash out and all that kind of stuff,|sd
 B|but,|%
 A|Yeah.|b
-B|hey,|fo_o_fw_"_by_bc
+B|hey,|o_"_bc
 B|it was not, uh, it was not a seven hour labor job for me.|sd
 A|Yeah.|b
 B|It was about a week before I finally through.|sd

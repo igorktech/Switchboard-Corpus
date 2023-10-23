@@ -1,4 +1,4 @@
-B|Okay,|fo_o_fw_"_by_bc
+B|Okay,|o_"_bc
 B|all set, then.|sd
 B|Uh, what do you think about it?|qo
 A|Uh, I think it's a real good concept.|sv
@@ -109,7 +109,7 @@ A|Uh, now, uh, were you asked to wait before starting to work until the drug tes
 A|or,|%
 B|Uh, no,|nn
 B|well, let me think about that.|^h
-B|Yeah,|fo_o_fw_"_by_bc
+B|Yeah,|o_"_bc
 B|it was after, I I had already been hired. Uh,|sd
 A|Okay|bk
 B|Yeah,|b

@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|this is really ironic that this would, I would get this subject today because just yesterday our dog ran away|sd
 B|Oh, no.|ba
 A|And it's just been tearing me up all day|sd
@@ -33,7 +33,7 @@ A|I don't know that he could really get killed that easily because he is so big.
 B|Yeah.|b
 A|You know, but, I don't know|h
 B|Oh, well, I hope he comes back,|sd
-B|that's too bad.|fo_o_fw_"_by_bc
+B|that's too bad.|by
 A|Thanks,|ft
 A|I do, too|sd
 B|How long have you had him?|qw

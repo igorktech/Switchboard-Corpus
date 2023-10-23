@@ -1,5 +1,5 @@
 A|I think you got it.|sv
-B|Okay.|fo_o_fw_"_by_bc
+B|Okay.|o_"_bc
 B|Uh, my first thoughts on capital punishment|sd
 B|I,|%
 B|the first thing I want to say is no. Just simply because we as human beings don't have the right to take another human being's life.|sv
@@ -178,7 +178,7 @@ B|Uh-huh.|b
 B|Uh-huh.|b
 A|Well, that's,|%
 A|you're, you're really performing a, a benefit to society in doing that.|sv
-B|A service.|fo_o_fw_"_by_bc
+B|A service.|o_"_bc
 B|Yeah.|aa
 B|But still, you know, we can't we can't,|sv
 B|I don't know,|h
@@ -208,7 +208,7 @@ A|Yeah.|b
 B|So sometimes that's hard|sv
 A|I'm sure.|aa
 A|Well, that's, that sounds interesting.|ba
-A|And I'll read your book sometime.|oo_co_cc
+A|And I'll read your book sometime.|co_cc
 B|That's good.|ba
 B|All right.|b
 B|Well, it was nice talking to you.|fc

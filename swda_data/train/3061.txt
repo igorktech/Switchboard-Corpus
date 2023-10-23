@@ -1,5 +1,5 @@
-A|Okay.|fo_o_fw_"_by_bc
-B|Yes.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
+B|Yes.|o_"_bc
 A|Uh, well, right now we have one dog inside.|sd
 B|Uh-huh.|b
 A|She goes out|sd

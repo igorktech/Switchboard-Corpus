@@ -1,7 +1,7 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 A|And, I've pressed the button.|sd
 B|Okay.|b
-B|Let me tell you.|oo_co_cc
+B|Let me tell you.|co_cc
 B|I haven't been too many places|sd
 A|You haven't been to too many places.|b^m
 B|No,|nn

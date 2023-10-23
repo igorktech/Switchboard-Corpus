@@ -83,9 +83,9 @@ A|Obviously, there's, uh, you know, there's a lot to learn, uh, after that.|sd
 A|But, but, uh, that's true.|sv
 A|I'm, I'm sure there's a lot of, uh,|sv
 A|you know, businesses are small, you know, small businesses that could, uh.|sd
-A|Let me change my channel,|oo_co_cc
+A|Let me change my channel,|co_cc
 A|I've got a cordless phone.|sd
-A|Let me see if that clears this up.|oo_co_cc
+A|Let me see if that clears this up.|co_cc
 A|phone Is that better?|qy
 B|Yes.|ny
 A|Okay.|bk
@@ -131,7 +131,7 @@ A|And they go to college, etcetera.|sd
 B|Because you can get just as far as being a journeyman, carpenter or an electrician or plumber or anything else like that. Make as much money|sv
 B|and if they enjoy it more, they'll make a happier life for themselves.|sv
 A|Yeah.|b
-B|Question.|fo_o_fw_"_by_bc
+B|Question.|o_"_bc
 B|You threw that question on me about the deficit,|sd
 B|put it on your shoe now.|ad
 B|What would you do?|qw

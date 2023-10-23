@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|Jerry, the topic was favorite T V shows, and what kind are you interested in, and how they, and do they differ from like mine.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
@@ -54,7 +54,7 @@ A|and, you know I like my sports and everything|sd
 B|Uh-huh.|b
 A|but I,|%
 B|Oh, oh, me too.|sd
-B|Hello|fo_o_fw_"_by_bc
+B|Hello|o_"_bc
 A|Watch my Dallas Cowboys.|sd
 A|I watched them to halftime before I left|sd
 A|and I left at halftime|sd
@@ -118,7 +118,7 @@ B|Well, nobody's going to forget Tom Landry.|sv
 A|No,|aa
 A|no,|aa
 A|no.|aa
-B|Shoot, come now|fo_o_fw_"_by_bc
+B|Shoot, come now|o_"_bc
 A|Absolutely not|aa
 A|That's true,|aa
 A|but he needs to be honored,|sv

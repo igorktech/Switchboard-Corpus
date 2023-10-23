@@ -1,5 +1,5 @@
-B|There we go.|fo_o_fw_"_by_bc
-A|Okay.|fo_o_fw_"_by_bc
+B|There we go.|o_"_bc
+A|Okay.|o_"_bc
 A|Well, uh, what do you think about taxes,|qo
 A|do you think we're paying too much?|qy
 B|Yes and no.|no
@@ -176,7 +176,7 @@ A|That's the way it goes|ba
 A|Well, I guess we probably talked just about long enough.|sv
 B|Uh-huh.|b
 A|Yeah.|b
-B|Uh, let me ask you something.|oo_co_cc
+B|Uh, let me ask you something.|co_cc
 B|Did you get a catalog or something from these people?|qy
 A|Yes.|ny
 B|You did?|qy^d

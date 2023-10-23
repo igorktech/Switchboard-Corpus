@@ -20,7 +20,7 @@ A|Uh-huh.|b
 B|That sounds terrible to tell you to go somewhere where it's not that great|sv
 B|but it's, um,|%
 B|you're not going to believe this|sv
-B|but I have to tell you this if I don't because you're in Plano,|oo_co_cc
+B|but I have to tell you this if I don't because you're in Plano,|co_cc
 A|That's okay.|bd
 B|but my, um, softball unit here is acting like he's dying of tramane poison|sd
 B|It wasn't that bad,|sv
@@ -113,7 +113,7 @@ B|I'm glad I'm talking about food normally these conversations are|sd
 A|Sometimes it's hard isn't it to keep a,|qy
 B|Yeah,|ny
 B|it is I don't know, um,|h
-A|No,|fo_o_fw_"_by_bc
+A|No,|o_"_bc
 A|sometimes Mark and I, that's my husband Mark,  um, go to the August Moon which is down there|sd
 B|Uh-huh.|b
 A|it's a Chinese,  uh, restaurant with the lions in the front,|sd

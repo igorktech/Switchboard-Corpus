@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|well, I|%
 A|I mean, what thoughts do you have on the subject?|qo
 B|Uh, you know, we even lived there for a, a while when my husband was in the Navy.|sd
@@ -116,7 +116,7 @@ A|Uh-huh.|b
 A|Right,|aa
 A|right,|aa
 A|I probably would say the something if I knew that intellectually that it was good|sv
-A|and emotionally that the people there wanted it.|fo_o_fw_"_by_bc
+A|and emotionally that the people there wanted it.|o_"_bc
 B|Right.|b
 A|You know, it's just, um,|%
 A|I mean, right now they have the privilege of voting with the United States, don't they.|qy
@@ -209,7 +209,7 @@ A|Yeah,|b
 A|I don't, I don't predict,|sd
 A|what you're describing is actually a conflict, very|sv
 A|hello, uh,|qy
-A|you know what,|fo_o_fw_"_by_bc
+A|you know what,|o_"_bc
 A|I've got to go, because that's my cordless battery going.|sd
 B|Oh, oh, I see,|b
 B|okay|aa

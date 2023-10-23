@@ -1,4 +1,4 @@
-B|So, Utah.|fo_o_fw_"_by_bc
+B|So, Utah.|o_"_bc
 A|Yes.|aa
 B|That, that's, that's the state that got, was famous when they executed somebody.|sd
 A|Gary Gilmore.|sd
@@ -54,7 +54,7 @@ B|and so if I had to draw a line, I'd say just no capital punishment.|sd
 B|I mean, I don't, I don't, I don't see that it accomplishes a whole lot, whereas I do think that convicting people and, and incarcerating them for a long time, if that could be improved upon, that would have more impact, I think.|sv
 A|Yeah.|aa
 A|You kind of hate to,|bf
-B|No,|fo_o_fw_"_by_bc
+B|No,|o_"_bc
 B|what about the argument where, where somebody who is committing one capital crime chooses to commit a, a more serious capital crime?|qh
 B|I mean, murder, um, because that one at least, you might escape from because his victim, you know, his witnesses will be gone|sv
 B|Doesn't this, doesn't this encourage,  Uh,   More .|qy

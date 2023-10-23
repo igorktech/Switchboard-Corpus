@@ -99,7 +99,7 @@ A|It really is,|aa
 A|I mean we're, we're in a leased town home,|sd
 A|and it's, uh, you're probably, your teeth will probably fall out figuratively speaking, it's nine hundred a month.|sd
 B|Oh, I'm not surprised.|ba
-A|But, you know what,|fo_o_fw_"_by_bc
+A|But, you know what,|o_"_bc
 A|if you, if you get anything under five hundred you get into what they call high density living you know, the big apartment complexes|sd
 B|Uh, right,|b
 B|right.|b

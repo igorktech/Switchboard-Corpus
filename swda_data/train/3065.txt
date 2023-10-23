@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|do you, uh, think we should go metric?|qy
 B|Well, I, I, oh, I don't know.|no
 B|It's kind of a tricky question, because I think it's, it's a practical system,|sv
@@ -145,7 +145,7 @@ B|I don't know why we, We haven't changed to the sensible system.|sd
 A|That's right,|aa
 A|and, and now we're backwards.|sv
 B|I don't know.|h
-A|No,|fo_o_fw_"_by_bc
+A|No,|o_"_bc
 A|I, I, I would think, I mean, a, a, a base ten system as compared to a base twelve system makes a lot more sense.|sv
 B|Right.|b
 B|Well, and it's not even base twelve for everything,|sd
@@ -158,7 +158,7 @@ A|it's,|%
 B|Well, pounds,|sd
 B|I don't even know what that,|sd
 A|I don't know.|h
-A|Oh, yeah,|fo_o_fw_"_by_bc
+A|Oh, yeah,|o_"_bc
 A|I, I always forget.|sd
 A|I don't even know how many ounces are in a pound.|sd
 A|I just sort of make it up.|sd
@@ -182,7 +182,7 @@ A|I, I had two friends,|sd
 A|and, I had more friends than that,|sd
 A|but two friends of mine in college,|sd
 A|I had a lot more than two,|sd
-A|I promise.|fo_o_fw_"_by_bc
+A|I promise.|o_"_bc
 B|Well, that's good.|ba
 A|Um, we opened a jelly bean business.|sd
 B|Oh.|b

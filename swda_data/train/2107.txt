@@ -318,10 +318,10 @@ A|Oh I wouldn't either.|sd
 A|There'd be no way.|sd
 B|The whole family was so disappointed|sd
 A|Oh really,|b
-A|oh well.|fo_o_fw_"_by_bc
+A|oh well.|o_"_bc
 B|Right.|b
-A|That's life,|fo_o_fw_"_by_bc
-A|that's how life goes.|fo_o_fw_"_by_bc
+A|That's life,|o_"_bc
+A|that's how life goes.|o_"_bc
 B|Right, uh,|aa
 B|but yes,|aa
 B|we just, just love them to death.|sd

@@ -1,5 +1,5 @@
-A|Okay, um, well,|fo_o_fw_"_by_bc
-A|the first thing,|fo_o_fw_"_by_bc
+A|Okay, um, well,|o_"_bc
+A|the first thing,|o_"_bc
 A|uh, what do you think you would offer as far as, uh, information about selecting a school?|qw
 B|Well, first I think they've got to have a pretty good idea of what they want to, what they want to do.|sv
 A|Uh-huh.|b
@@ -109,9 +109,9 @@ B|I am a I am, I am just a disgruntled person all around|sd
 A|Oh|%
 B|I'm the, uh, I'm the, uh, original, uh, Mister Scrooge, I guess.|sd
 A|Yeah,|b
-A|Bah, humbug.|fo_o_fw_"_by_bc
+A|Bah, humbug.|o_"_bc
 B|Yeah,|aa
-B|bah, humbug.|fo_o_fw_"_by_bc
+B|bah, humbug.|o_"_bc
 B|Yeah,|%
 B|I just,|%
 A|I, I, I think,|%

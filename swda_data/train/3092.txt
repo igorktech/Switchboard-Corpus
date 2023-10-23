@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|uh, do you work outside the home?|qy
 B|No,|nn
 B|I do not.|ng
@@ -15,7 +15,7 @@ A|Okay,|bk
 A|well, yes I do.|ny
 B|Okay.|bk
 A|In fact, I am at work right now.|sd
-A|Uh, and so let me take the lead, uh, Angela.|oo_co_cc
+A|Uh, and so let me take the lead, uh, Angela.|co_cc
 A|Uh, I think what is really important, uh,|sv
 A|of course, salary is very important, because that's why you are working for your, for the money, but, job satisfaction to me is also, uh, very important in having a job.|sv
 A|And, uh, one of the things that, uh, she asked us to discuss was benefits.|sd
@@ -67,7 +67,7 @@ B|basically be me working to pay for them to be at a day care,  center.|sd
 A|And they,  would be deprived of their mother.|bf
 B|Exactly.|aa
 A|Yeah.|b
-A|No,|fo_o_fw_"_by_bc
+A|No,|o_"_bc
 A|I understand that totally|ba
 B|Besides which, it would be easier, uh, there's a lot of single mothers out there now, from divorces and a lot of, women are starting to have babies without a partner.|sd
 A|Oh, I hear ,|b

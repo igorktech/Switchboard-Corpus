@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|do you want to start?|qy
 B|Okay,|aa
 B|uh, I haven't, I don't know that much about the what the possible choices could be about reorganizing the trial by jury,|sd

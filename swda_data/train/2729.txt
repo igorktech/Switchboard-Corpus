@@ -1,4 +1,4 @@
-B|Okay,|fo_o_fw_"_by_bc
+B|Okay,|o_"_bc
 B|what kind of puppy you got?|qw
 A|Well, uh, I think she's mostly German Shepherd.|sd
 A|Uh, she was, uh, uh,|%
@@ -246,7 +246,7 @@ B|And it came on T V the other night|sd
 B|and I was watching it again,|sd
 B|and my husband heard me laughing|sd
 B|and he said I can't believe that you're still getting such a kick out of that movie|sd
-A|I'll have to check it out.|oo_co_cc
+A|I'll have to check it out.|co_cc
 A|I saw the, the, uh, previews for it and all|sd
 A|and it did look like it'd be a good movie,|sd
 A|but,|%

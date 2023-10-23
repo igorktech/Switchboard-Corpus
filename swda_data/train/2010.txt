@@ -74,7 +74,7 @@ B|Yeah.|ny
 B|Somebody in South Carolina told me about him.|sd
 A|He's a, the movie critic.|sd
 A|Um, oh, you've, oh,|%
-A|okay.|fo_o_fw_"_by_bc
+A|okay.|o_"_bc
 A|He's a movie critic on channel eight in Dallas.|sd
 B|Yeah.|b
 A|And he does, uh, he has a talk show on the, K L I F.|sd
@@ -158,6 +158,6 @@ A|I think it just says hang up.|sd
 B|but it says when the conversation is over just say your good-byes and hang up.|sd
 B|So, I, I guess so.|h
 A|Why don't we do that?|qw
-B|Okay.|fo_o_fw_"_by_bc
+B|Okay.|o_"_bc
 A|Good-bye Sharon.|fc
 B|Good talking to you Archie|fc

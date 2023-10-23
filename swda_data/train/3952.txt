@@ -1,4 +1,4 @@
-A|I'm ready.|fo_o_fw_"_by_bc
+A|I'm ready.|o_"_bc
 B|All right.|b
 A|Do you exercise, uh, during the day time or go to a gym or anything?|qy
 B|Oh.|b

@@ -1,4 +1,4 @@
-A|Okay, um,|fo_o_fw_"_by_bc
+A|Okay, um,|o_"_bc
 A|what do you think about the war recently?|qo
 B|The war?|qy^d
 A|Uh-huh.|ny

@@ -1,7 +1,7 @@
 B|Uh-huh.|b
 A|Um, I guess we're supposed to talk about music.|sd
 B|Okay.|aa
-A|And, uh, let me go ahead and push one here.|oo_co_cc
+A|And, uh, let me go ahead and push one here.|co_cc
 A|Uh, do you|qy
 A|are you a musician yourself?|qy
 B|Uh, well, I sing.|na

@@ -1,4 +1,4 @@
-A|Uh, I guess I've had to return something|fo_o_fw_"_by_bc
+A|Uh, I guess I've had to return something|o_"_bc
 A|but I'm can't decide,|sd
 A|mostly it's been because I didn't like the color,|sd
 B|Uh-huh.|b
@@ -10,8 +10,8 @@ A|Okay,|b
 A|good,|ba
 A|so, we'll talk about that some.|ad
 B|Yeah,|aa
-B|well, we could talk about that,|oo_co_cc
-B|and then we could talk a bit about, um, just quality of products in general,  if they're better or worse like if they last longer or something like that.|oo_co_cc
+B|well, we could talk about that,|oo
+B|and then we could talk a bit about, um, just quality of products in general,  if they're better or worse like if they last longer or something like that.|oo
 A|Right.|b
 A|Okay,|aa
 A|I'm going to let you kind of lead the pack,  because you sound like you're,|ad

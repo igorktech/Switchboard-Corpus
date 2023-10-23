@@ -47,7 +47,7 @@ A|actually, she moved She took it with her, *sd because she needed it to do,|sd
 B|Uh-huh,|b
 B|so she took it with her|bf
 B|Yeah,|b
-B|don't blame her.|fo_o_fw_"_by_bc
+B|don't blame her.|by
 A|she just finished up her Bachelor's degree|sd
 B|Uh-huh.|b
 A|so I don't know if she's going to even use it anymore.|sd

@@ -52,7 +52,7 @@ B|Let's see,|^h
 B|that's a bad tangent to get on.|sv
 B|What else has changed between the sixties and the eighties  and the nineties?|qh
 A|Uh,|%
-B|No.|fo_o_fw_"_by_bc
+B|No.|o_"_bc
 A|I think, uh, in my situation,|sd
 A|I have three children|sd
 A|and we're, uh, home schooling.|sd

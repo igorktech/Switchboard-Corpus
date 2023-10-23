@@ -1,4 +1,4 @@
-A|All right.|fo_o_fw_"_by_bc
+A|All right.|o_"_bc
 A|Now, we used to be big time campers|sd
 A|but now we're not quite so much since the kids are involved so much in sports.|sd
 B|Uh-huh.|b
@@ -44,7 +44,7 @@ B|But what was so fun though is that I had to take my son to the doctor this mor
 B|and he got poison ivy,|sd
 A|Oh.|b
 B|and it's all over him.|sd
-B|The poor thing, you know,|fo_o_fw_"_by_bc
+B|The poor thing, you know,|o_"_bc
 B|so, there's definitely hazards to going camping if you don't know what you're looking at|sv
 A|Yes,|aa
 A|yes.|aa

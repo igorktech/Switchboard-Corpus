@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 A|Um, what do you do this weekend?|qo
 B|Well, uh, pretty much spent most of my time either in the yard or at nurseries buying stuff for the yard.|sd
 A|Huh. Which is,|%

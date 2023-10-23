@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|there's one, uh,|%
 A|I meant living in Texas,|sd
 A|where you at?|qw
@@ -8,7 +8,7 @@ B|Rome, New York,|na
 B|yeah.|ny
 A|Rome, New York,|b^m
 A|okay, well, Texas,|%
-A|let me look at my husband and ask him, to some one else in|oo_co_cc
+A|let me look at my husband and ask him, to some one else in|co_cc
 A|Yes,|t3
 A|they do|t3
 A|He's reminding me of where I live,|sd

@@ -113,7 +113,7 @@ A|You know, and once they once they get somebody good, they ought to hang onto t
 B|That's right.|aa
 B|No,|aa
 B|I agree.|aa
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|it was nice talking to you.|fc
 B|Well thank you for calling.|fc
 B|Bye-bye.|fc

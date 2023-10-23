@@ -1,4 +1,4 @@
-A|Okay|fo_o_fw_"_by_bc
+A|Okay|o_"_bc
 A|I'll let you go ahead|ad
 B|Okay.|aa
 B|I, uh, I have five children all together.|sd
@@ -217,7 +217,7 @@ B|And, uh, it was,|%
 A|And it's, kind of a waste of a person.|sv
 B|Yes.|aa
 B|I, I, felt that it certainly was,|sd
-A|You know.|fo_o_fw_"_by_bc
+A|You know.|o_"_bc
 B|I mean, I was smarter than most of the people that I was working for.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
@@ -226,7 +226,7 @@ A|Uh-huh.|b
 B|And, uh, I, had,|%
 A|Uh-huh.|b
 A|And you, you recognized this and, was able to, you know, do something about it.|qy^d
-B|No|fo_o_fw_"_by_bc
+B|No|o_"_bc
 B|Yeah.|ny
 B|I, uh,|%
 B|Yeah.|ny

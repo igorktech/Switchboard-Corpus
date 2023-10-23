@@ -1,5 +1,5 @@
-A|Okay.|fo_o_fw_"_by_bc
-B|All right.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
+B|All right.|o_"_bc
 B|What, uh, what kind of camping is there in Texas?|qo
 A|Well, there, there are quite a few, um, parks, I guess, state parks,|sd
 A|and there's a couple of national parks, I guess, that you can camp at.|sd

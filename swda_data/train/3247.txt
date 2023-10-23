@@ -1,5 +1,5 @@
-A|Okay.|fo_o_fw_"_by_bc
-B|All right.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
+B|All right.|o_"_bc
 A|Capital punishment.|sd
 B|Okay,|%
 B|what's your views on it?|qo

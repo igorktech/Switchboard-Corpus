@@ -1,4 +1,4 @@
-B|Okay,|fo_o_fw_"_by_bc
+B|Okay,|o_"_bc
 B|um, so, um, do you have any favorite teams?|qy
 A|Well, I kind of like them all.|na
 A|I played for about eighteen years, all the way through college, and then, uh, kind of hung them up after college,|sd
@@ -195,7 +195,7 @@ B|you know, lots of local fans, you know, small stadium, you know, um,|sd
 B|and they'll get a crowd of less than ten thousand sometimes, you know|sd
 A|Uh-huh,|b
 A|uh-huh.|b
-B|um, especially,|fo_o_fw_"_by_bc
+B|um, especially,|o_"_bc
 B|you know, I'll make a day game or something.|sd
 A|Yeah.|b
 B|But they really seem to, uh,|sd
@@ -277,7 +277,7 @@ B|We are substantially north of New York enough that, uh we don't get to go play
 A|Yeah.|b
 A|you're, you're like a boat ride from,|sd
 A|how far is it across the lake to Canada?|qw
-B|Toronto.|fo_o_fw_"_by_bc
+B|Toronto.|o_"_bc
 A|Toronto?|br
 B|Oh Toronto's only about two hours,|sd
 B|yeah.|%

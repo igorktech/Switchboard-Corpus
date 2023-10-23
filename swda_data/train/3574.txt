@@ -57,7 +57,7 @@ A|it, it becomes, uh,|%
 A|maybe to you and I who have grown up in some in, uh, uh, some more beautiful parts of the country, uh, I think that, that, uh, we become a little more aware, uh, rather quickly of, of what's happening with air pollution and how, uh, how horrible it really is.|sv
 A|Um, I, I notice people in, in Dallas seem to say, Well, sure, there's air pollution, but, you know, really, how bad is, how bad could this problem really be.|sd
 B|Send, send them to Wisconsin,|ad
-B|and we'll let them try to drink out of some of the lakes and try to fish in some of the lakes that have been suffering from, uh, the, uh, acid rain|oo_co_cc
+B|and we'll let them try to drink out of some of the lakes and try to fish in some of the lakes that have been suffering from, uh, the, uh, acid rain|co_cc
 A|Oh really|b
 A|Uh-huh.|b
 B|and they'll, they'll, they may wake up, you know,|sv

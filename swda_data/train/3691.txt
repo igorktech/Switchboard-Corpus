@@ -1,4 +1,4 @@
-A|You bet.|fo_o_fw_"_by_bc
+A|You bet.|o_"_bc
 A|They tell you our topic?|qy
 B|Uh, pets.|na
 A|You've got it.|sd

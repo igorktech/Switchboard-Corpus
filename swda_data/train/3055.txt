@@ -1,4 +1,4 @@
-A|And I guess, the suggestion is that we maybe talk about a menu for a dinner party, if we wanted to do something like that or, share recipes or something, um.|oo_co_cc
+A|And I guess, the suggestion is that we maybe talk about a menu for a dinner party, if we wanted to do something like that or, share recipes or something, um.|oo
 B|Yes,|aa
 B|uh-huh.|b
 B|sure.|b
@@ -191,7 +191,7 @@ A|but I have never tried it.|sd
 A|No,|nn
 A|well I should say I have heard of one that has vinegar in it,|sd
 A|I do not know that it has egg in it.|sd
-B|Egg and sugar.|fo_o_fw_"_by_bc
+B|Egg and sugar.|o_"_bc
 A|uh-huh.|b
 B|Uh-huh.|b
 A|Do you have it right on the top of you head?|qy

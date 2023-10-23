@@ -1,4 +1,4 @@
-A|Uh, I don't know.|fo_o_fw_"_by_bc
+A|Uh, I don't know.|o_"_bc
 A|My personal perception of government and, uh, the way things are at this current time, is that nobody can really be trusted.|sv
 A|And I don't feel that too many of the candidates are out there to, uh, be self-serving to the community.|sv
 A|I think that they have their own, uh, wishes to, uh, be in the limelight and to kind of say, hey, you know, I'm a public official, I don't have to do, uh, certain things|sv
@@ -55,7 +55,7 @@ A|Well, that's exactly what happens in government all the time.|sv
 A|They blow the whistle on each other.|sv
 A|Oh, I hear that you're doing this,|^q
 A|I've done it|^q
-A|but oh boy,|fo_o_fw_"_by_bc
+A|but oh boy,|o_"_bc
 A|and it's not going to get out.|sv
 A|yeah,|%
 A|exactly. It's, uh,|%

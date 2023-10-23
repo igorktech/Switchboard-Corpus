@@ -1,4 +1,4 @@
-A|Well, credit cards|fo_o_fw_"_by_bc
+A|Well, credit cards|o_"_bc
 B|Yeah.|b
 A|I'll tell you what, I, I can't say a whole lot about credit cards because I, uh, tore mine up.|sd
 B|Is that right?|bh
@@ -20,7 +20,7 @@ B|and they just cut them all up except for, for one they kept for emergencies|sd
 B|and they're still paying away to get out of debt.|sd
 A|Yeah.|b
 A|I know it.|aa
-B|But, no,|fo_o_fw_"_by_bc
+B|But, no,|o_"_bc
 B|I did just the opposite.|sd
 B|I, I guess I, I sort of followed in my, uh, parents' footsteps.|sd
 B|I have quite a few of them.|sd
@@ -51,7 +51,7 @@ B|Uh-huh.|b
 B|Yeah,|b
 B|I mean, it, it's easy,|sv
 B|I mean, you don't have anything transferring, just a little signature,|sd
-B|so what, you know|fo_o_fw_"_by_bc
+B|so what, you know|o_"_bc
 A|Oh, that's it.|aa
 A|See, and that's,|%
 A|even with my gas card you know, I find that I'll go in to get some gas|sd

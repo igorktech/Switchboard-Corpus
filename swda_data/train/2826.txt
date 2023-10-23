@@ -65,7 +65,7 @@ B|because|%
 B|The Washington riots weren't|sd
 B|because I lived right downtown,  Washington|sd
 B|and, uh, and what you saw is was what you got|sd
-B|I'm telling you.|fo_o_fw_"_by_bc
+B|I'm telling you.|o_"_bc
 A|That's what,|%
 A|yeah,|%
 A|well.|%

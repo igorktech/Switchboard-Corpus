@@ -1,4 +1,4 @@
-B|Okay, Mary.|fo_o_fw_"_by_bc
+B|Okay, Mary.|o_"_bc
 A|Yes.|b
 B|Um, the, uh, the latest one I've seen, uh, had to do with a, uh, uh, the, uh, basically a manhunt, um,|sd
 B|and it was, uh, it was called MANHUNTER, actually.|sd
@@ -65,7 +65,7 @@ A|and a good bit of that was filmed right in Cincinnati. Which is just forty-fiv
 B|Oh.|b
 B|Is, is the Kmart there?|qy
 A|Oh, we do have Kmart here,|na
-A|you better believe it.|fo_o_fw_"_by_bc
+A|you better believe it.|o_"_bc
 A|Isn't there a Kmart everywhere?|qy
 B|That was, that was so funny,|sv
 B|he had to,|sd

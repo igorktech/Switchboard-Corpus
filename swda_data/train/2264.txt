@@ -84,7 +84,7 @@ B|That's true.|ba
 B|And they won't raise our taxes.|sv
 A|Yeah|b
 B|Yeah .|b
-A|Ha-ha|fo_o_fw_"_by_bc
+A|Ha-ha|o_"_bc
 A|Well, I was kind of hoping with,|sd
 A|you know, do you work for T I?|qy
 B|No,|nn

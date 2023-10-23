@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|I guess our topic is, um, advice about going to college.|sd
 B|Uh-huh.|b
 A|Do you have children of your own?|qy
@@ -107,7 +107,7 @@ A|so that was,|%
 B|Golly, that's great.|ba
 A|Yeah,|aa
 A|it was really nice.|sv
-B|Oh, another thing.|fo_o_fw_"_by_bc
+B|Oh, another thing.|o_"_bc
 B|I've got a, I've got a degree from another college|sd
 A|Uh-huh.|b
 B|and, uh, something that might play a part is the size of the college.|sd

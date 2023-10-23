@@ -1,4 +1,4 @@
-A|All right.|fo_o_fw_"_by_bc
+A|All right.|o_"_bc
 B|Well, like I told you before, .|sd
 B|And you're talking about credit cards.|sd
 A|Uh-huh.|b
@@ -182,7 +182,7 @@ B|Yeah.|b
 A|especially now.|sv
 B|What is that thing I saw,|sd
 B|Circuit, Circuit World or something.|sd
-A|Circuit City.|fo_o_fw_"_by_bc
+A|Circuit City.|o_"_bc
 B|Circuit City.|sd
 B|Have you been in there?|qy
 A|Yeah,|ny

@@ -1,5 +1,5 @@
-B|All right.|fo_o_fw_"_by_bc
-A|Okay,|fo_o_fw_"_by_bc
+B|All right.|o_"_bc
+A|Okay,|o_"_bc
 A|so what do you think of the Giants?|qo
 B|Uh, I like the Giants.|sd
 B|They got, uh,|sd

@@ -181,7 +181,7 @@ A|then they get laid off for like twelve weeks in the winter.|sd
 A|And, uh, this guy was going nuts,|sd
 A|and his, uh, son built him a garage and got him some, uh, oh, I don't know what the equipment's called, but planers and things and set him up,|sd
 B|Uh-huh,|b
-B|shapers and planers and routers.|fo_o_fw_"_by_bc
+B|shapers and planers and routers.|o_"_bc
 A|and he makes, all kinds of furniture for, um, his kids,|sd
 A|and he makes, uh, uh, like little kids' furniture.|sd
 A|He gets right into it|sd
@@ -289,7 +289,7 @@ A|It's, yeah, it's right outside of Macon,|sd
 A|and, and it's just a,|%
 A|I like the way that, I like the way that idea of the south is,|sd
 A|but when I think of Texas, I think of nothing but, no trees and just grass|sv
-B|Well, I tell you what,|fo_o_fw_"_by_bc
+B|Well, I tell you what,|o_"_bc
 B|now, see, East Texas,|%
 B|there's two parts of Texas, East Texas and North Texas.|sd
 B|Atlanta and Dallas are almost identical in every way, weather and everything.|sd

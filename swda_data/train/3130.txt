@@ -72,7 +72,7 @@ A|Uh-huh.|b
 B|but it's amazing how many cans you go through.  And how fast they accumulate.|sv
 A|Yeah|aa
 A|it really is.|sv
-A|Well all that stuff|fo_o_fw_"_by_bc
+A|Well all that stuff|o_"_bc
 A|and how much, how much we have reduced our waste.  You know, that we, we're generating a week.|sd
 B|Uh-huh.|b
 A|Um, I know our neighbors, when we first went to this bin program said, oh, there's no way, you know we're going to have to have pickup twice a week.|sd

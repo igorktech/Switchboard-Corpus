@@ -100,7 +100,7 @@ B|so it, it takes me awhile to get to the hole|sd
 B|but,|%
 A|Once you're there, you're all set though.|bf
 B|I'm all set.|aa
-A|We should play team golf then.|oo_co_cc
+A|We should play team golf then.|co_cc
 A|I'll get us there|sd
 A|and you put it in.|ad
 B|that sounds good to me.|aa

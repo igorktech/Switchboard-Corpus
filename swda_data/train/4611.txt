@@ -45,7 +45,7 @@ A|Yeah.|b
 B|If you were deeply involved in it, then you immediately realize that what they print is stuff that you probably knew already and the stuff that you want they're not printing because the average person doesn't need or want to know  that much.|sv
 A|Right.|b
 A|Doesn't want,|%
-A|Let me ask, by the way, just for the record.|oo_co_cc
+A|Let me ask, by the way, just for the record.|co_cc
 A|I, I'm, I totally concede that intelligent people read these things and intelligent people write them.|sd
 A|So, I mean, I'm not being elitist in that sense, I hope. Uh,|sv
 B|Well, I mean, there's, there's a reasonable question as to whether it's worth the amount of time it takes to keep up on things|sv

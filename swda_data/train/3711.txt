@@ -19,7 +19,7 @@ B|You know, I have been several times|sd
 B|so after the first time it is like anywhere.|sd
 A|Oh.|b
 B|You know, it loses that newness,|sd
-B|but yeah|fo_o_fw_"_by_bc
+B|but yeah|o_"_bc
 B|I love it.|sd
 B|I love to go over to Europe.|sd
 B|I do|sd

@@ -54,7 +54,7 @@ B|Those deaths.|b^m
 B|Uh-huh.|b
 A|Is it a looter that got shot by a store owner?|qy
 A|I, you know,|%
-A|no tears.|fo_o_fw_"_by_bc
+A|no tears.|o_"_bc
 B|Or just a an innocent bystander or somebody got actually beat to death or what.|qy
 A|Yeah.|b
 A|And  and so I, but I, I suspect a number of them.|sd

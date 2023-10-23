@@ -1,4 +1,4 @@
-B|Real problem the last few days, one of their, uh, young hopeless stars has apparently ruined his knee for this season,|fo_o_fw_"_by_bc
+B|Real problem the last few days, one of their, uh, young hopeless stars has apparently ruined his knee for this season,|o_"_bc
 B|it was a catcher.|sd
 A|Uh-huh.|b
 B|And they really don't have an excess of catchers|sv
@@ -45,8 +45,8 @@ B|That was almost unheard of for a pitcher to, you know, to start out that stron
 A|Yeah,|b
 A|yes,|b
 A|uh-huh.|b
-B|no big deal, you know,|fo_o_fw_"_by_bc
-B|it's just part of a day's work.|fo_o_fw_"_by_bc
+B|no big deal, you know,|o_"_bc
+B|it's just part of a day's work.|o_"_bc
 A|Yeah,|aa
 A|I know it,|sv
 A|yeah,|%
@@ -81,7 +81,7 @@ A|and of course, there's a few more, you know, I think are good ball teams also.
 B|Oh yeah,|aa
 B|sure.|aa
 A|Like Oakland A's and the Giants|sv
-A|I really do.|fo_o_fw_"_by_bc
+A|I really do.|o_"_bc
 B|Sure,|b
 B|sure,|b
 B|uh-huh,|b

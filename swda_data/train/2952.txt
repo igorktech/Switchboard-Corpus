@@ -316,6 +316,6 @@ B|You too.|fc
 A|And I hope you enjoy your camping trip.|fc
 B|Oh, thank you.|ft
 B|And thanks for calling.|ft
-A|Uh-huh. *used to mean "you're welcome"|fo_o_fw_"_by_bc
+A|Uh-huh. *used to mean "you're welcome"|fw
 A|Bye.|fc
 B|Bye-bye.|fc

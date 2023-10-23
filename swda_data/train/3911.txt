@@ -58,7 +58,7 @@ B|Yeah.|b
 A|And that's, you know,|%
 A|the kids I know miss that.|sd
 B|They really do.|aa
-A|You know.|fo_o_fw_"_by_bc
+A|You know.|o_"_bc
 B|Uh, a family without a father, it's, it's, uh a really hard thing.|sv
 A|Yeah, you know|aa
 A|and I don't know,|h
@@ -88,7 +88,7 @@ A|and, uh, she has brothers and sisters that has got lots of little kids,|sd
 A|so maybe they just decided that, uh, if they wanted to have kids around the house they would just you know call one of their sisters or brothers up and tell them to send the kids over for the night.|sd
 B|Yeah,|aa
 B|that's a possibility.|sv
-A|You know.|fo_o_fw_"_by_bc
+A|You know.|o_"_bc
 A|But, uh,|%
 B|Well, We really want to have a family.|sd
 B|We feel like that, that couple you know, you are not giving enough of yourself|sd

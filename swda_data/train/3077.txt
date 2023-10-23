@@ -7,9 +7,9 @@ A|so are you prepared to talk?|qy
 B|Okay.|b
 B|Oh, I guess so,|na
 B|go by ear,|sd
-A|Let me push.|oo_co_cc
+A|Let me push.|co_cc
 B|Okay,|aa
-A|Let me push one here|oo_co_cc
+A|Let me push one here|co_cc
 A|Okay, um,|^h
 A|well I can just tell you a little bit about taxes in Texas.|sd
 A|It's most interesting because we're one of the few, if,|sv

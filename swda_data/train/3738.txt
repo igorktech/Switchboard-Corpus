@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|you ready to discuss the, the topic?|qy
 B|What's the topic?|qw
 A|Okay,|b
@@ -7,9 +7,9 @@ B|Okay.|b
 A|You ready for that?|qy
 B|You bet.|na
 A|Okay|b
-B|I'll let you lead out.|oo_co_cc
+B|I'll let you lead out.|co_cc
 A|Pardon me?|br
-B|I'll let you lead out.|oo_co_cc
+B|I'll let you lead out.|co_cc
 A|Okay,|aa
 A|well, there's, uh,|%
 A|it's kind of an interesting topic|sd

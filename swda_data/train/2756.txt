@@ -110,7 +110,7 @@ B|But it's a pretty neat down to just go and walk around, if you like to walk,|s
 B|it's a good town to just,  walk in.|sd
 A|Uh.|%
 A|Uh, yeah,|b
-A|we'll,  do that.|oo_co_cc
+A|we'll,  do that.|co_cc
 B|You can go,  to the buildings and not go in if you're not,|sd
 A|Oh, okay,|b
 A|so I can wander around without,|qy^d
@@ -271,7 +271,7 @@ B|Well|%
 A|Traffic , not much else we do for vacation really,|sd
 A|uh, just so we don't, haven't been able to take really.|sd
 B|Are you a golfer?|qy
-B|No.|fo_o_fw_"_by_bc
+B|No.|o_"_bc
 A|No.|nn
 B|Me either.|sd
 A|No.|b^m

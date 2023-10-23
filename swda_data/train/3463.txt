@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|would you, uh, like to begin or would you like me to start?|qy
 B|Uh, oh, I can start.|sd
 A|Okay.|bk

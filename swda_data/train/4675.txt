@@ -1,5 +1,5 @@
-B|All rightie.|fo_o_fw_"_by_bc
-A|Okay.|fo_o_fw_"_by_bc
+B|All rightie.|o_"_bc
+A|Okay.|o_"_bc
 A|Do you have a budget that you go on?|qy
 B|Yeah.|ny
 B|I sure do.|sd
@@ -131,7 +131,7 @@ B|Uh-huh.|b
 A|so I won't have to go out and buy the ready-made clothes anymore.|sd
 B|Oh, uh-huh.|b
 B|It's so rare|sv
-B|you hear anybody doing that any longer|fo_o_fw_"_by_bc
+B|you hear anybody doing that any longer|o_"_bc
 A|I know.|aa
 A|I even bought myself a Surgery , you know,|sd
 A|and I just love it.|sd

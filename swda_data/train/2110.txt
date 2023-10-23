@@ -1,6 +1,6 @@
-B|Okay,|fo_o_fw_"_by_bc
+B|Okay,|o_"_bc
 B|well, go ahead,|ad
-B|I'll let you start.|oo_co_cc
+B|I'll let you start.|co_cc
 A|Uh, I was thinking about whether or not we should have people, uh, be required to do public service for a year or two.|sd
 B|Uh-huh.|b
 A|And I was thinking that you needed to put some waivers in there for the handicapped and also for people that had to stay home and maybe be wage earners for their family,|sd
@@ -79,7 +79,7 @@ A|Caddo Lake.|sd
 B|Caddo Lake.|b^m
 A|It's between Texas and Louisiana,|sd
 A|it crosses into both of them.|sd
-B|No,|fo_o_fw_"_by_bc
+B|No,|o_"_bc
 B|I've never heard of it.|sd
 A|Well, it's real pretty,|sv
 A|it's like a swamp.|sd

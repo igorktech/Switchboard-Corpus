@@ -130,7 +130,7 @@ B|That's true.|aa
 A|So I don't think there's ever been a war that's been so thoroughly covered by the news.|sv
 B|And spot in the probably more importantly, one that lasted short enough that, that people's interest didn't flag too badly.|sv
 A|Yeah.|aa
-A|I tell you what,|fo_o_fw_"_by_bc
+A|I tell you what,|o_"_bc
 A|the first three days, I was glued to the television.|sd
 B|I will admit the same thing.|sd
 B|And I, would come home and flip on MacNeil Lehrer|sd
@@ -138,7 +138,7 @@ A|And I,|%
 B|and they would run these extended two, three hour versions of the program|sd
 A|Yeah.|b
 B|and I, I was just, I was horrified and fascinated by what I was seeing.|sd
-A|I tell you what.|fo_o_fw_"_by_bc
+A|I tell you what.|o_"_bc
 A|The uh, the war spot in|sd
 A|let's see, was it a Wednesday or Thursday?|^h
 A|Must have been Thursday, uh,|sd

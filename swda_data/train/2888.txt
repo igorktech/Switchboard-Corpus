@@ -1,5 +1,5 @@
-A|in Okay.|fo_o_fw_"_by_bc
-B|Okay.|fo_o_fw_"_by_bc
+A|in Okay.|o_"_bc
+B|Okay.|o_"_bc
 B|I guess we're set.|sv
 A|Um,|b
 B|Current events.|sd

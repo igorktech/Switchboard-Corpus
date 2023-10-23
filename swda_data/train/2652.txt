@@ -134,7 +134,7 @@ A|but it's like, uh, I just don't want to do it|sd
 B|Uh-uh,|aa
 B|uh-uh.|aa
 A|Yeah.|b
-B|No.|fo_o_fw_"_by_bc
+B|No.|o_"_bc
 B|I've been thinking about putting the ironing board in the closet,  and, and running, you know, a line in there for my iron so I could do it in there|sd
 A|Uh-huh.|b
 B|and I wouldn't have to have that eyesore|sd
@@ -206,7 +206,7 @@ A|yeah.|b
 A|I don't think I'd know what to do if it wasn't there, you know.|sd
 A|My husband wouldn't know where to hang his dirty clothes.|sd
 B|There you go.|ba
-A|You know.|fo_o_fw_"_by_bc
+A|You know.|o_"_bc
 B|Things that need to be mended,  things that have to get ironed,|sd
 A|Yeah.|aa
 A|He wouldn't know where to put things|sd

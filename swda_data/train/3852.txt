@@ -1,5 +1,5 @@
-A|Okay, Ron.|fo_o_fw_"_by_bc
-B|Okay.|fo_o_fw_"_by_bc
+A|Okay, Ron.|o_"_bc
+B|Okay.|o_"_bc
 A|Welcome to the net|fp
 A|and, uh, what did you do about your last auto repair,|qw
 A|oh, and might you say what kind of cars you have and so forth.|ad

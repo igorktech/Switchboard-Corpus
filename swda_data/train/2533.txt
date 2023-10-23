@@ -1,9 +1,9 @@
-A|Okay, um,|fo_o_fw_"_by_bc
+A|Okay, um,|o_"_bc
 A|what baseball team are you familiar with?|qw
 B|Well, I'm only a little bit familiar with the Red Sox because I lived up in Boston for a while,|sd
 A|Really?|bh
 B|and, um, and that's,|%
-A|Oh, now come on,|fo_o_fw_"_by_bc
+A|Oh, now come on,|o_"_bc
 A|no Texas Rangers?|qy
 B|after that, if you asked me that I wouldn't have been able to tell you if that was football or baseball.|sd
 A|Really?|bh
@@ -22,7 +22,7 @@ B|but at the same time, I don't know, it's pretty far to throw that far|sv
 B|I couldn't do it.|sd
 A|I know|aa
 A|but he's a man|sv
-A|come on,|fo_o_fw_"_by_bc
+A|come on,|o_"_bc
 A|men know how to do that, right?|qy
 B|Right,|na
 B|he's supposed to be able to do that.|sv
@@ -219,7 +219,7 @@ A|and she just liked having kids|sd
 A|and she's thin|sd
 A|and, I mean, four or more children are thin,|sd
 B|Were any of them twins?|qy
-A|I mean, I'm not kidding you.|fo_o_fw_"_by_bc
+A|I mean, I'm not kidding you.|o_"_bc
 B|You probably can't afford to eat if you have more than two of them|sv
 A|No,|aa
 A|your,|%

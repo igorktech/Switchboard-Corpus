@@ -2,7 +2,7 @@ A|Are we tonight?|qy
 B|Yeah.|ny
 B|Sure.|sd
 A|Okay,|b
-A|well let me go ahead and press one|oo_co_cc
+A|well let me go ahead and press one|co_cc
 A|Okay, Leslie,|b
 A|I'd like to find out a little bit about your hobbies.|sd
 A|What do you like to do in your spare time?|qw

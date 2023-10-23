@@ -5,7 +5,7 @@ B|Hi.|fp
 A|Ready to get started?|qy
 B|Uh, yeah,|ny
 B|I think so.|sd
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 A|Sort of an interesting topic since I just got back from lunch here|sd
 B|Okay.|b
 B|Well, what did you have for lunch?|qw

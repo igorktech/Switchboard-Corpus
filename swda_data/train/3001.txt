@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 B|Are you a T I|qy
 A|No.|nn
 B|No.|b^m
@@ -20,7 +20,7 @@ A|huh-uh.|nn
 B|Didn't get that far.|qy^d
 A|No.|nn
 B|you normally just try to sell them on your, uh, aptitude and not, you know, well how much vacation do I get|sv
-B|Oh well.|fo_o_fw_"_by_bc
+B|Oh well.|o_"_bc
 A|Um.|%
 B|Well I'll tell you a little bit about what T I has as benefits.|sd
 B|We do have, uh,|sd

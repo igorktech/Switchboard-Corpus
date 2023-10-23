@@ -1,4 +1,4 @@
-B|Hello.|fo_o_fw_"_by_bc
+B|Hello.|o_"_bc
 A|I pressed the button one,|sd
 A|so we're recording right now.|sd
 A|I'm sorry|fa
@@ -11,7 +11,7 @@ A|Yeah.|b
 A|Um, okay,|b
 A|Bill, we're talking about family reunions.|sd
 B|Right.|b
-A|Okay, um,|fo_o_fw_"_by_bc
+A|Okay, um,|o_"_bc
 A|have you ever had to plan a family reunion?|qy
 B|Uh, yes|ny
 B|and no,|nn

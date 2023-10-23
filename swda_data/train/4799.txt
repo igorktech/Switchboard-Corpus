@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 A|Uh, I haven't been in this situation yet|sd
 A|You know, my, my parents are not quite at that age yet,|sd
 A|so I haven't,|%
@@ -27,9 +27,9 @@ B|and I couldn't get around and wasn't able to do some things|sd
 B|and so we ended up just having to put him in a rest home.|sd
 A|Yeah.|b
 B|And he just kind of became a vegetable and died.|sd
-A|Oh, no.|fo_o_fw_"_by_bc
+A|Oh, no.|by
 B|So  but that was a long time ago.|sd
-A|That's sad.|fo_o_fw_"_by_bc
+A|That's sad.|by
 A|Yeah.|b
 B|That was, uh, back in like seventy-three.|sd
 A|Oh, okay.|bd

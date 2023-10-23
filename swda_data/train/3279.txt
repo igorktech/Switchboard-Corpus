@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 A|I've got a, you know,|sd
 A|I have a real good method of starting to get the budget balancing|sd
 A|and then that's get half of the government, rid of the half of the government payroll.|sd
@@ -96,7 +96,7 @@ B|She's,|%
 A|Oh|b
 B|I don't think I could part with her.|sd
 A|Okay.|b
-A|Okay, Geri.|fo_o_fw_"_by_bc
+A|Okay, Geri.|o_"_bc
 A|We've probably been on long enough.|sv
 B|Okay.|b
 A|They didn't cut us off,|sd

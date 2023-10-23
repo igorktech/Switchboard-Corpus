@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|you want to tell me first how you feel about the proposal,|ad
 B|Well um, I, I just think the way that things are going that, um, it would be good for young people to go ahead and have, um, dedicate themselves to at least something.|sv
 A|Uh-huh.|b
@@ -97,8 +97,8 @@ B|Right,|b
 B|right,|b
 B|You know, something that out, that was outside of, uh, outside of school|sv
 A|Uh-huh.|b
-B|yeah,|fo_o_fw_"_by_bc
-B|but, yeah,|fo_o_fw_"_by_bc
+B|yeah,|o_"_bc
+B|but, yeah,|o_"_bc
 B|you know, right, right after you graduate from, um, high school, because a lot of people are just, um, uh, Well gee whiz, what do I do now if they're not focused on going to college,|sv
 A|Uh-huh.|b
 B|and, uh, you know, having that, that, uh, gung ho plan uh, that's, you know, setting their life goals.|sv

@@ -25,7 +25,7 @@ B|Oh, okay.|b
 A|Um, you know, I, I just wanted to see if, you know, you had an opinion about this,|sd
 A|or, you know.|%
 B|Uh-huh.|b
-A|Um, so, if that's okay with you, then I'll just press one.|oo_co_cc
+A|Um, so, if that's okay with you, then I'll just press one.|co_cc
 B|That will be fine.|aa
 A|Okay|b
 A|Well, hi,|fp
@@ -139,7 +139,7 @@ B|Which I think that that's not the, the way the majority of the people over the
 A|Yeah.|b
 A|So it's really hard, when you see the leaders, compared to the people.|sv
 B|But I think in a, in a way the war, uh, I think in a way all, the involvement over there too, though, has shown a lot of people that there are a lot of people that don't follow what those few are doing.|sv
-B|And there are a lot of people who are good people.|fo_o_fw_"_by_bc
+B|And there are a lot of people who are good people.|o_"_bc
 A|Yeah,|b
 A|yeah.|b
 B|You know, there's,|%

@@ -37,7 +37,7 @@ B|and they're going to spend about a week and a half camping up there,|sd
 A|And you're not going?|qy
 B|No,|nn
 B|this is, this is a, a man's trip|sd
-A|Oh, that's too bad,|fo_o_fw_"_by_bc
+A|Oh, that's too bad,|by
 B|So they're really looking forward to that|sd
 A|Oh, gee.|ba
 B|so.|%
@@ -49,7 +49,7 @@ A|Uh-huh,|b
 A|uh-huh.|b
 B|so,|%
 B|I, I feel like I'm a little bit too, uh, much of a city, city mouse to try doing it|sd
-A|Oh, that's too bad.|fo_o_fw_"_by_bc
+A|Oh, that's too bad.|by
 A|I think you know, there's certainly a lot of aspects you would like,|sv
 A|but maybe not the, you know the Canada men's trip, but some other, you know,|sv
 A|a nice tent on the, the shore of a lake,|sv

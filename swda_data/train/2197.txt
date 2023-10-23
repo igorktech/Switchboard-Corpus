@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|we're rolling.|sd
 A|I, uh,|%
 A|what, what would you, what would, has your experience lead you to advise, uh, if my child were thinking of going to the Air Force Academy,|qw
@@ -90,7 +90,7 @@ A|Yeah,|b
 A|yeah.|b
 B|My God, I can't imagine.|sd
 A|Well, my, my real feeling about, about the purpose of undergraduate education is it's really the time,|sv
-A|yes,|fo_o_fw_"_by_bc
+A|yes,|o_"_bc
 A|you do get an education, you do learn some things,|sv
 A|but you eventually forget most of it.|sv
 B|Yes.|aa

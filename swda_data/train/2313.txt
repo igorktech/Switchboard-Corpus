@@ -97,7 +97,7 @@ B|uh.|%
 A|It's, uh, it's interesting that, that, uh, they encourage us to do things,|sv
 B|What, now what's ten percent, we can deduct,|br
 A|I think ten percent,|sd
-A|yes.|fo_o_fw_"_by_bc
+A|yes.|o_"_bc
 B|I didn't know that.|sd
 A|Of your, of your consumer credit.|sd
 A|Oh, if you had a thousand dollars, that means there's another hundred dollar deduction I've given you.|sd

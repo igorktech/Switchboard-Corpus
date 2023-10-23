@@ -1,4 +1,4 @@
-A|Uh, taxes|fo_o_fw_"_by_bc
+A|Uh, taxes|o_"_bc
 A|Do you want to go ahead?|qy
 B|Sure.|na
 B|We pay far too much in taxes.|sv

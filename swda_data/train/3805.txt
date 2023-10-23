@@ -43,8 +43,8 @@ A|and in our society, uh, there's very little full employment.|sv
 A|Most people in this country are getting worse off, not better off.|sv
 B|Absolutely.|aa
 A|Eighty percent of the public, according to Bill Moyers', uh,|sd
-A|recent, uh,|fo_o_fw_"_by_bc
-A|piece for, uh,|fo_o_fw_"_by_bc
+A|recent, uh,|o_"_bc
+A|piece for, uh,|o_"_bc
 A|Public Broadcasting, which, by the way is a very good use of government money. I think P B S is wonderful.|sv
 A|But this special focused on the fact that eighty percent of the people in this country are, are seeing their real incomes,|sd
 A|and thus, standards of living, decline.|sd

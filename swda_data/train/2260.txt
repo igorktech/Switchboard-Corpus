@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|let's see.|^h
 A|I think, uh,|%
 A|I guess, if I call I'm supposed to start.|sv
@@ -66,7 +66,7 @@ A|I do.|sd
 A|I've lived in, in the Dallas area here since I was like four.|sd
 B|Oh, okay.|bk
 A|So. Uh, it's, I don't know, an urban area, I guess|sv
-A|whatever.|fo_o_fw_"_by_bc
+A|whatever.|o_"_bc
 A|I don't know.|sd
 B|You just, you just managed to escape the real Texan accent,|qy^d
 A|Yeah.|ny

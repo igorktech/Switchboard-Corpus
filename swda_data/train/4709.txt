@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 A|What would you rather have?|qw
 A|Or you want salary too plus what?|qrr
 A|What's most important to you?|qw
@@ -7,7 +7,7 @@ A|Right.|b
 B|I feel that a company that can provide good health benefits such as health care, dental and vision as well as good long-term and short-term disability plans, uh, goes a long way toward satisfying my needs.|sv
 A|Uh-huh.|b
 A|Uh-huh.|b
-A|Well, I'll tell you.|oo_co_cc
+A|Well, I'll tell you.|co_cc
 A|I think that is the most important thing|sv
 A|I've, uh, I'm not working right at the moment|sd
 A|but the company that I did work for|sd

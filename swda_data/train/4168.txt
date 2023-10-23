@@ -81,7 +81,7 @@ A|but since I've started back into school now, I haven't really done that much.|
 A|I've been pretty busy. Uh|sd
 B|Okay.|b
 A|but, uh,|%
-A|so no|fo_o_fw_"_by_bc
+A|so no|o_"_bc
 A|I haven't.|sd
 A|I, you know, I used to go out and dance a lot|sd
 A|but I don't do that anymore either|sd

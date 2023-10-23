@@ -1,4 +1,4 @@
-A|Uh, books.|fo_o_fw_"_by_bc
+A|Uh, books.|o_"_bc
 B|Yes.|b
 A|Mainly I read the Bible these days.|sd
 B|That's very good.|ba
@@ -54,7 +54,7 @@ B|Peretti|qy^d
 A|Frank E Peretti,|sd
 B|Frank E Peretti|b^m
 A|P E R E T T I.|sd
-B|I have to look for those.|oo_co_cc
+B|I have to look for those.|co_cc
 A|Uh-huh.|b
 A|Yeah,|aa
 A|do|ad
@@ -73,7 +73,7 @@ B|Oh, that sounds pretty neat.|ba
 A|Yeah,|b
 A|it is.|sv
 A|It's real exciting.|sv
-B|Oh, I'll have to look for those.|oo_co_cc
+B|Oh, I'll have to look for those.|co_cc
 A|And it also teaches them spiritual warfare you know,|sd
 B|Right.|b
 A|so,|%

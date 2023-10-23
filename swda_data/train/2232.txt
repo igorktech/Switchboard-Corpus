@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 A|So what are your opinions on it?|qw
 B|Well, let me preface it.|^h
 B|I'm a,|%
@@ -156,7 +156,7 @@ B|and that was part of the problem, when they went into the promise land, * shou
 A|Yeah.|b
 A|Right.|b
 A|They left a woman, and a child, and a, the sheep.|sd
-A|Yeah.|fo_o_fw_"_by_bc
+A|Yeah.|o_"_bc
 B|you know, and you,|qy
 B|I think that's one of those things when we get to heaven we're going to ask God|sv
 A|I know.|ba

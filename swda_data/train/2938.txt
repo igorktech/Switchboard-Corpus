@@ -1,4 +1,4 @@
-A|All right.|fo_o_fw_"_by_bc
+A|All right.|o_"_bc
 A|Do you have a bunch of factories and stuff out there?|qy
 B|Um, we've got quite a few, actually.|na
 B|What we're more concerned with is the inner pollution in the city.|sd
@@ -118,7 +118,7 @@ B|Uh-huh.|b
 A|And, uh,  that's supposed to cut down on it.|sv
 B|Well,|arp_nd
 B|supposedly that's supposed to catch it.|sv
-B|But I'll tell you what,|fo_o_fw_"_by_bc
+B|But I'll tell you what,|o_"_bc
 B|and even these buses, oh lord, it real bad. These buses in Raleigh,|sv
 A|Yeah,|aa
 A|school buses and the commercial buses,|bf

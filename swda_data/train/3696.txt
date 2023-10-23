@@ -8,7 +8,7 @@ B|I'm in Dallas.|fp
 A|Oh, okay.|bk
 A|Because yesterday I talked to someone upstate, I'm not even sure where,|sd
 A|and my husband talked to the people in Utah,|sd
-A|so. Um, anyway, let me press one.|oo_co_cc
+A|so. Um, anyway, let me press one.|co_cc
 B|Okay|aa
 A|Okay, um,|b
 A|let me see, I think we've only planned one family reunion in our life,|sd

@@ -230,7 +230,7 @@ A|you have to do that very, very carefully.|sd
 B|And it takes a long time,|sd
 A|That's right.|aa
 A|You can work yourself to death.|sv
-A|Well, I'm sorry to hear your color didn't come out so good over the weekend.|fo_o_fw_"_by_bc
+A|Well, I'm sorry to hear your color didn't come out so good over the weekend.|fo
 B|Yeah.|aa
 B|Really,|aa
 B|no kidding.|aa

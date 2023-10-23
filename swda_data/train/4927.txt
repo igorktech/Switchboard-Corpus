@@ -1,4 +1,4 @@
-B|Okay.|fo_o_fw_"_by_bc
+B|Okay.|o_"_bc
 B|Uh, mandatory service. Yeah. I don't think it's a good idea, uh,|sv
 B|because we'd have to change the constitution to, to, uh, allow, uh, involuntary servitude, uh, in service to the government.|sv
 B|And I'm not sure that we could, do that in such a way that we could avoid winding up a slave state.|sv
@@ -60,7 +60,7 @@ A|that seems,|%
 A|normally that would interfere with college, I would think.|sv
 B|Wait a,|%
 B|yeah.|%
-B|Let me see if I can get on a cleaner line.|oo_co_cc
+B|Let me see if I can get on a cleaner line.|co_cc
 B|If it's my line, uh.|sd
 A|I moved.|sd
 A|Maybe that is, that's part of it.|ad
@@ -68,7 +68,7 @@ B|Yeah|b
 B|it is my line.|sd
 B|I was on a radio phone.|sd
 A|Oh.|b
-B|All right.|fo_o_fw_"_by_bc
+B|All right.|o_"_bc
 B|That's better|sd
 B|Yeah,|%
 B|now their,|%

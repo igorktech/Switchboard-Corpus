@@ -10,7 +10,7 @@ A|I,|%
 A|that's probably not true only for Atlanta, but for just about anywhere.|sv
 B|Yeah.|b
 B|Uh, what kind of crime problem do you usually run into?|qo
-B|Any specifics|fo_o_fw_"_by_bc
+B|Any specifics|o_"_bc
 A|Well, uh, the least, what, from what's on the news, uh, there are very few, like actual robberies reported, uh, uh, of, of residences.|sd
 A|What's more likely to occur is, uh, robbery of, uh, you know, knocking over a, a small store or a car theft, you know, it, things of that nature.|sd
 A|Very few, uh, assaults,|sd

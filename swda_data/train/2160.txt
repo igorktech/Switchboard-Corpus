@@ -14,7 +14,7 @@ B|Raleigh,|b^m
 B|great.|ba
 A|Yeah, My name is Fernando. *sd|b
 B|Well, my name's Mary.|sd
-B|Fernando, glad to know you.|fo_o_fw_"_by_bc
+B|Fernando, glad to know you.|fo
 A|So, um, do you, well,|%
 A|how'd you find out about this?|qw
 B|Uh, I was visiting my son down in Dallas,|sd
@@ -46,7 +46,7 @@ B|Oh, if I knew that I'd be a very wealthy person.|sv
 A|Yeah,|b
 A|but what, what, what are the steps?|qo
 B|Well, you have to see,|sv
-B|I, the way I look at it, you have to think first of all why, *listen|fo_o_fw_"_by_bc
+B|I, the way I look at it, you have to think first of all why, *listen|o_"_bc
 B|or has crime increased,|qh
 B|and if so, why has crime increased?|qh
 A|Well, see the problem is, is that, um, what happens is as, that you're, uh, you know, as you go from the country to a city, crime always increases, right?|sv

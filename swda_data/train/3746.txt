@@ -1,4 +1,4 @@
-A|Okay, uh,|fo_o_fw_"_by_bc
+A|Okay, uh,|o_"_bc
 A|what kind of hobbies do you have Lori?|qo
 B|Uh, I guess, I, uh, I like to play golf.|sd
 A|Uh-huh.|b

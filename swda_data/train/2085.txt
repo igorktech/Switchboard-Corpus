@@ -11,7 +11,7 @@ A|We've been doing that too|sd
 A|We're trying to retire in our fifties.|sd
 B|Yeah.|b
 B|This is a very appropriate topic for our, uh, conversation today because what I'm figuring out is that I'm going to have to put in a lot more money than what I'm making|sd
-A|Good luck on that one, then.|fo_o_fw_"_by_bc
+A|Good luck on that one, then.|o_"_bc
 B|What is that?|br
 A|I said good luck on that one, then.|sd
 B|Well, we've got a pretty good situation, my wife and I, since our property is already paid for.|sv
@@ -79,7 +79,7 @@ A|I wonder why.|sd
 B|Um?|br
 A|I said, I wonder why.|sd
 B|Oh, it's probably what the first guy who did it, called it.|sv
-A|Cafeteria?|fo_o_fw_"_by_bc
+A|Cafeteria?|o_"_bc
 B|Yeah.|b
 B|He was probably in the cafeteria when he thought of it|sv
 A|Maybe|aap_am

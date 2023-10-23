@@ -1,4 +1,4 @@
-A|Okay,|fo_o_fw_"_by_bc
+A|Okay,|o_"_bc
 A|I'll just go with you first.|sd
 A|What kind of eating out do you enjoy?|qo
 B|Okay.|b

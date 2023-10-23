@@ -1,4 +1,4 @@
-B|Um, all right.|fo_o_fw_"_by_bc
+B|Um, all right.|o_"_bc
 A|I've, uh,|%
 A|as far as I'm concerned, I find that the young women have lost so much because they have become more aggressive and more dominating,|sv
 A|and I think that comes about from their being a definite factor in the job market now.|sv
@@ -224,7 +224,7 @@ B|so I think you can have both.|sv
 B|It's more hectic,|sv
 B|but I think you have to put into perspective what your kids need, first then|sv
 A|I think a lot of, my problem with the young mothers ...|sv
-B|Talk about the activities that we don't do|fo_o_fw_"_by_bc
+B|Talk about the activities that we don't do|o_"_bc
 A|Yeah.|b
 A|I, I don't have any children,|sd
 A|so,|%
@@ -1554,7 +1554,7 @@ A|Huh.|b
 B|and now it seems to be,|sd
 B|we we're not experiencing the stalling,|sd
 B|but we're still experiencing a very uneven,|sd
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 A|What do you think about it?|qo
 B|Uh, well, immigration,|sd
 B|I know they're really strict right now because my husband is from out of the country|sd
@@ -1760,7 +1760,7 @@ B|and it's just, uh, uh,|%
 B|he possibly could have, uh, won that election had it not been for some of the the, uh, the way he presented himself.|sv
 A|Well, he had a classic case of hoof in mouth disease.|sv
 B|Hoof, is, is, I guess the right term for him.|aa
-B|Okay.|fo_o_fw_"_by_bc
+B|Okay.|o_"_bc
 A|Uh, go ahead.|ad
 B|What are we supposed to discuss again?|qw
 A|AIDS research is something that, that, I think whether our country is putting enough money into it|sv
@@ -1811,7 +1811,7 @@ A|Uh-huh.|b
 B|And I'm not certain,|sd
 B|I, I,|%
 B|again this,|%
-B|I'm telling you,|fo_o_fw_"_by_bc
+B|I'm telling you,|o_"_bc
 B|basically I don't have any opinion.|sd
 A|Uh-huh.|b
 B|But whether or not it would be, uh, our money would be better spent, uh, teaching, you know, working on the drug problems and the, and the sex problems, uh, rather than trying to cure the people that already have it.|sv
@@ -1999,7 +1999,7 @@ B|Uh-huh.|b
 B|Huh.|b
 B|Well, we, uh, had a bad siege last, uh, Christmas a year ago.|sd
 B|We went up to visit my wife's, uh, sister who lives in, uh, Calgary, Alberta, Can,|sd
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 B|All right.|b
 B|That's a real different topic.|sv
 B|I'm not sure I'm familiar with, with what they mean of invasion of privacy.|sv
@@ -2172,7 +2172,7 @@ B|Yeah.|ny
 A|Uh-huh.|b
 B|And that,|%
 B|I mean, I've, I've used it once,|sd
-B|Okay|fo_o_fw_"_by_bc
+B|Okay|o_"_bc
 A|Okay|b^m
 B|Have you done this very long?|qy
 A|Uh, well, yeah,|ny
@@ -2473,7 +2473,7 @@ A|I, I think the fact that malpractice has gone up I think has raised our prices
 B|Yes.|aa
 A|and I think that's something that if, if they could work on the cause of that and,|sv
 A|it's, uh,|%
-A|I'll start off here.|oo_co_cc
+A|I'll start off here.|co_cc
 A|Uh, I don't know.|h
 A|I get, probably, most of my information either from the newspaper or from C N N.|sd
 A|Uh, I like C N N because it, uh, you know, repeats it,|sd

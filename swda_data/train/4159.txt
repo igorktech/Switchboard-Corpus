@@ -1,4 +1,4 @@
-A|Okay.|fo_o_fw_"_by_bc
+A|Okay.|o_"_bc
 A|So, uh, Mike, what are your opinions on, uh, trial by jury?|qo
 B|Well I work for an insurance company|^h
 B|so I see a lot of, uh, verdicts that are pretty crazily decided. Um, by juries particularly,|sd

@@ -153,7 +153,7 @@ B|Uh-huh.|b
 A|It was like last like year they had forty-nine|sd
 A|so that's going up.|sd
 B|Uh-huh.|b
-A|But, yeah,|fo_o_fw_"_by_bc
+A|But, yeah,|o_"_bc
 A|they have a death penalty.|sd
 A|I hear of one every now and then.|sd
 B|Uh-huh.|b
