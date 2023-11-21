@@ -13,13 +13,14 @@ class Dialogue:
 
 
 class Utterance:
-    def __init__(self, speaker, text, da_label):
+    def __init__(self, speaker, text, da_label, conversation_id):
         self.speaker = speaker
         self.text = text
         self.da_label = da_label
+        self.conversation_id = conversation_id
 
     def __str__(self):
-        return str(self.speaker + " " + self.text + " " + self.da_label)
+        return str(self.speaker + " " + self.text + " " + self.da_label + " " + self.conversation_id)
 
 
 def process_transcript(transcript, excluded_tags=None, excluded_chars=None):
@@ -57,7 +58,7 @@ def process_transcript(transcript, excluded_tags=None, excluded_chars=None):
         # or adding an utterance with an excluded tag.
         if (not utterance_text.isspace() and len(utterance_text) >= 1) and utt.damsl_act_tag() not in excluded_tags:
             # Create Utterance and add to list
-            current_utt = Utterance(utt.caller, utterance_text, utt.damsl_act_tag())
+            current_utt = Utterance(utt.caller, utterance_text, utt.damsl_act_tag(), str(transcript.utterances[0].conversation_no))
             utterances.append(current_utt)
 
     # # Concatenate multi-utterance's with '+' label

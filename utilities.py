@@ -79,7 +79,7 @@ def dialogue_to_file(path, dialogue, utterance_only, write_type):
             if utterance_only:
                 file.write(utterance.text.strip() + "\n")
             else:
-                file.write(utterance.speaker + "|" + utterance.text.strip() + "|" + utterance.da_label + "\n")
+                file.write(utterance.speaker + "|" + utterance.text.strip() + "|" + utterance.da_label + "|" + utterance.conversation_id + "\n")
 
 
 def remove_file(data_dir, file, utterance_only):
